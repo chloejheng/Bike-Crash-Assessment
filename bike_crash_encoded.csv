@@ -1,0 +1,2425 @@
+Active School Zone Flag,Crash Severity,Crash Time,Day of Week,Roadway Part,Speed Limit,Surface Condition,Person Helmet,Hour,Minute,Crash Severity Binary,Person Helmet Binary
+0,Incapacitating Injury,2:39,0,1,45,0,"Worn, Damaged",2,39,1,1
+0,Non-Incapacitating Injury,3:10,0,1,35,0,Not Worn,3,10,1,0
+0,Non-Incapacitating Injury,3:10,0,1,35,0,Not Worn,3,10,1,0
+0,Non-Incapacitating Injury,3:10,0,1,35,0,Not Worn,3,10,1,0
+0,Non-Incapacitating Injury,23:00,1,1,45,0,Not Worn,23,0,1,0
+0,Non-Incapacitating Injury,14:08,6,1,15,6,Not Worn,14,8,1,0
+0,Non-Incapacitating Injury,17:15,4,1,35,0,"Worn, Unk Damage",17,15,1,1
+0,Non-Incapacitating Injury,18:26,5,1,30,0,Not Worn,18,26,1,0
+0,Possible Injury,21:04,4,1,40,6,Not Worn,21,4,1,0
+0,Possible Injury,18:14,6,3,50,0,Unknown If Worn,18,14,1,0
+0,Non-Incapacitating Injury,11:24,2,1,55,0,"Worn, Not Damaged",11,24,1,1
+0,Non-Incapacitating Injury,16:05,2,3,35,0,Not Worn,16,5,1,0
+0,Possible Injury,17:39,5,3,55,0,Not Worn,17,39,1,0
+0,Non-Incapacitating Injury,14:35,6,2,15,0,Not Worn,14,35,1,0
+0,Non-Incapacitating Injury,16:18,6,1,30,0,Not Worn,16,18,1,0
+0,Possible Injury,4:39,0,1,35,6,Not Worn,4,39,1,0
+0,Non-Incapacitating Injury,17:42,0,1,40,0,Not Worn,17,42,1,0
+0,Non-Incapacitating Injury,16:51,0,1,35,0,Not Worn,16,51,1,0
+0,Incapacitating Injury,7:22,6,1,35,5,Not Worn,7,22,1,0
+0,Possible Injury,7:58,0,1,30,0,Not Worn,7,58,1,0
+0,Possible Injury,16:58,1,1,35,0,Not Worn,16,58,1,0
+0,Non-Incapacitating Injury,13:15,2,1,15,0,Not Worn,13,15,1,0
+0,Non-Incapacitating Injury,12:16,3,1,45,0,Not Worn,12,16,1,0
+0,Incapacitating Injury,19:45,3,1,35,0,Not Worn,19,45,1,0
+0,Non-Incapacitating Injury,11:26,0,1,30,6,Not Worn,11,26,1,0
+0,Non-Incapacitating Injury,18:40,2,1,40,0,Not Worn,18,40,1,0
+0,Possible Injury,11:52,1,1,35,0,Not Worn,11,52,1,0
+0,Possible Injury,7:58,4,1,30,0,Not Worn,7,58,1,0
+0,Non-Incapacitating Injury,15:43,4,3,55,0,Not Worn,15,43,1,0
+0,Possible Injury,16:54,3,1,60,0,"Worn, Damaged",16,54,1,1
+0,Non-Incapacitating Injury,6:50,1,1,35,6,Not Worn,6,50,1,0
+0,Possible Injury,2:30,5,2,35,2,Not Worn,2,30,1,0
+0,Non-Incapacitating Injury,17:34,5,1,35,0,Unknown If Worn,17,34,1,0
+0,Not Injured,15:41,5,3,45,0,Unknown If Worn,15,41,0,0
+0,Possible Injury,14:20,5,1,35,0,Not Worn,14,20,1,0
+0,Non-Incapacitating Injury,17:37,6,1,30,0,Not Worn,17,37,1,0
+0,Non-Incapacitating Injury,11:36,1,1,30,6,Not Worn,11,36,1,0
+0,Non-Incapacitating Injury,11:36,1,1,30,6,Not Worn,11,36,1,0
+0,Incapacitating Injury,6:08,5,3,55,6,Not Worn,6,8,1,0
+0,Non-Incapacitating Injury,13:25,5,1,15,0,"Worn, Unk Damage",13,25,1,1
+0,Non-Incapacitating Injury,23:26,6,1,35,0,Not Worn,23,26,1,0
+0,Non-Incapacitating Injury,20:25,3,1,30,0,Not Worn,20,25,1,0
+0,Non-Incapacitating Injury,11:40,3,1,30,0,Not Worn,11,40,1,0
+0,Possible Injury,21:23,1,1,15,5,Not Worn,21,23,1,0
+0,Non-Incapacitating Injury,17:53,6,1,35,0,Not Worn,17,53,1,0
+0,Non-Incapacitating Injury,2:27,6,1,35,0,Not Worn,2,27,1,0
+0,Non-Incapacitating Injury,19:34,6,1,45,0,"Worn, Not Damaged",19,34,1,1
+0,Not Injured,17:11,4,1,35,0,Not Worn,17,11,0,0
+0,Possible Injury,20:45,4,1,30,0,Not Worn,20,45,1,0
+0,Non-Incapacitating Injury,14:42,0,1,35,0,Not Worn,14,42,1,0
+0,Possible Injury,1:07,0,1,35,0,"Worn, Not Damaged",1,7,1,1
+0,Non-Incapacitating Injury,16:21,0,1,30,0,"Worn, Damaged",16,21,1,1
+0,Incapacitating Injury,21:29,0,1,30,0,Not Worn,21,29,1,0
+0,Non-Incapacitating Injury,21:15,2,3,45,0,Not Worn,21,15,1,0
+0,Non-Incapacitating Injury,16:23,3,1,15,0,Not Worn,16,23,1,0
+0,Possible Injury,11:12,4,1,35,0,Not Worn,11,12,1,0
+0,Non-Incapacitating Injury,18:00,0,2,40,0,Not Worn,18,0,1,0
+0,Incapacitating Injury,18:31,2,1,35,0,Not Worn,18,31,1,0
+0,Non-Incapacitating Injury,19:03,1,3,15,0,Not Worn,19,3,1,0
+0,Not Injured,17:32,5,2,45,0,Not Worn,17,32,0,0
+0,Incapacitating Injury,4:48,6,1,45,0,Not Worn,4,48,1,0
+0,Non-Incapacitating Injury,9:16,4,1,40,0,Not Worn,9,16,1,0
+0,Non-Incapacitating Injury,1:04,0,1,30,0,Not Worn,1,4,1,0
+0,Non-Incapacitating Injury,1:04,0,1,30,0,Not Worn,1,4,1,0
+0,Non-Incapacitating Injury,9:49,0,1,35,0,Not Worn,9,49,1,0
+0,Non-Incapacitating Injury,1:06,3,1,35,0,Not Worn,1,6,1,0
+0,Not Injured,8:37,1,1,30,0,Not Worn,8,37,0,0
+0,Non-Incapacitating Injury,14:02,5,1,25,0,Not Worn,14,2,1,0
+0,Non-Incapacitating Injury,8:51,6,1,40,0,"Worn, Not Damaged",8,51,1,1
+0,Possible Injury,13:59,6,1,60,0,"Worn, Not Damaged",13,59,1,1
+0,Non-Incapacitating Injury,17:22,4,1,15,0,"Worn, Not Damaged",17,22,1,1
+0,Possible Injury,9:19,4,1,15,0,Not Worn,9,19,1,0
+0,Incapacitating Injury,16:43,0,1,15,0,Not Worn,16,43,1,0
+0,Incapacitating Injury,9:40,0,1,35,0,Not Worn,9,40,1,0
+0,Possible Injury,19:41,0,1,35,0,Not Worn,19,41,1,0
+0,Possible Injury,11:54,2,1,35,0,"Worn, Unk Damage",11,54,1,1
+0,Non-Incapacitating Injury,18:13,1,1,35,0,"Worn, Not Damaged",18,13,1,1
+0,Non-Incapacitating Injury,12:39,5,1,40,0,"Worn, Unk Damage",12,39,1,1
+0,Non-Incapacitating Injury,18:25,6,1,35,0,"Worn, Not Damaged",18,25,1,1
+0,Non-Incapacitating Injury,13:00,0,1,35,5,Unknown If Worn,13,0,1,0
+0,Non-Incapacitating Injury,21:20,0,1,45,6,Not Worn,21,20,1,0
+0,Non-Incapacitating Injury,16:27,3,1,30,0,Not Worn,16,27,1,0
+0,Not Injured,11:30,3,1,45,0,"Worn, Not Damaged",11,30,0,1
+0,Possible Injury,15:38,5,1,30,0,"Worn, Not Damaged",15,38,1,1
+0,Non-Incapacitating Injury,12:40,5,1,30,0,Not Worn,12,40,1,0
+0,Non-Incapacitating Injury,16:50,4,3,15,6,Not Worn,16,50,1,0
+0,Incapacitating Injury,22:05,0,3,40,0,Not Worn,22,5,1,0
+0,Non-Incapacitating Injury,17:36,0,1,35,6,Unknown If Worn,17,36,1,0
+0,Possible Injury,15:45,1,1,35,0,Not Worn,15,45,1,0
+0,Possible Injury,21:19,1,1,15,0,"Worn, Not Damaged",21,19,1,1
+0,Possible Injury,14:04,5,1,15,0,Not Worn,14,4,1,0
+0,Not Injured,16:00,5,1,35,0,"Worn, Unk Damage",16,0,0,1
+0,Non-Incapacitating Injury,8:44,6,1,35,0,Unknown If Worn,8,44,1,0
+0,Non-Incapacitating Injury,13:37,0,1,15,0,"Worn, Not Damaged",13,37,1,1
+0,Non-Incapacitating Injury,16:44,0,3,15,0,Not Worn,16,44,1,0
+0,Possible Injury,19:00,2,2,15,0,Not Worn,19,0,1,0
+0,Non-Incapacitating Injury,20:42,1,1,40,0,Not Worn,20,42,1,0
+0,Possible Injury,4:00,5,1,40,0,Not Worn,4,0,1,0
+0,Possible Injury,11:52,5,1,45,0,Not Worn,11,52,1,0
+0,Possible Injury,12:06,6,2,15,0,Not Worn,12,6,1,0
+0,Possible Injury,11:53,3,1,30,0,Not Worn,11,53,1,0
+0,Non-Incapacitating Injury,12:01,4,1,35,0,Not Worn,12,1,1,0
+0,Non-Incapacitating Injury,18:51,6,1,35,0,Unknown If Worn,18,51,1,0
+0,Not Injured,14:55,2,1,15,0,"Worn, Not Damaged",14,55,0,1
+0,Non-Incapacitating Injury,19:27,1,1,35,0,Not Worn,19,27,1,0
+0,Non-Incapacitating Injury,16:29,5,2,15,0,"Worn, Damaged",16,29,1,1
+0,Non-Incapacitating Injury,23:39,4,1,45,0,Unknown If Worn,23,39,1,0
+0,Not Injured,21:38,0,1,30,0,Unknown If Worn,21,38,0,0
+0,Non-Incapacitating Injury,3:07,3,1,15,0,Not Worn,3,7,1,0
+0,Non-Incapacitating Injury,17:43,1,1,30,0,Not Worn,17,43,1,0
+0,Non-Incapacitating Injury,10:29,0,1,15,0,Not Worn,10,29,1,0
+0,Non-Incapacitating Injury,13:59,6,1,30,6,Not Worn,13,59,1,0
+0,Non-Incapacitating Injury,12:56,6,1,35,6,Not Worn,12,56,1,0
+0,Non-Incapacitating Injury,10:51,0,1,45,0,"Worn, Damaged",10,51,1,1
+0,Incapacitating Injury,2:31,0,1,40,0,Not Worn,2,31,1,0
+0,Non-Incapacitating Injury,7:09,5,1,35,0,Not Worn,7,9,1,0
+0,Incapacitating Injury,19:29,5,1,30,0,"Worn, Damaged",19,29,1,1
+0,Killed,21:36,5,1,45,0,"Worn, Unk Damage",21,36,1,1
+0,Non-Incapacitating Injury,16:42,4,1,35,0,"Worn, Not Damaged",16,42,1,1
+0,Non-Incapacitating Injury,18:27,6,1,35,0,"Worn, Damaged",18,27,1,1
+0,Possible Injury,8:12,4,3,45,0,Not Worn,8,12,1,0
+0,Non-Incapacitating Injury,9:39,4,1,35,0,Not Worn,9,39,1,0
+0,Non-Incapacitating Injury,15:14,0,1,15,0,Not Worn,15,14,1,0
+0,Non-Incapacitating Injury,19:15,0,3,15,0,Unknown If Worn,19,15,1,0
+0,Non-Incapacitating Injury,2:35,2,1,45,0,Not Worn,2,35,1,0
+0,Killed,9:40,1,3,15,0,Unknown If Worn,9,40,1,0
+0,Incapacitating Injury,19:22,5,1,15,6,Not Worn,19,22,1,0
+0,Non-Incapacitating Injury,10:52,5,3,55,0,Not Worn,10,52,1,0
+0,Possible Injury,19:20,6,2,25,0,Not Worn,19,20,1,0
+0,Possible Injury,12:03,0,1,40,0,"Worn, Not Damaged",12,3,1,1
+0,Non-Incapacitating Injury,10:40,2,1,30,0,Not Worn,10,40,1,0
+0,Non-Incapacitating Injury,2:39,3,2,35,0,Not Worn,2,39,1,0
+0,Non-Incapacitating Injury,2:39,3,2,35,0,Not Worn,2,39,1,0
+0,Possible Injury,23:49,3,1,35,0,"Worn, Unk Damage",23,49,1,1
+0,Non-Incapacitating Injury,8:54,5,1,35,0,Not Worn,8,54,1,0
+0,Possible Injury,12:17,5,1,40,0,Not Worn,12,17,1,0
+0,Possible Injury,12:55,4,1,15,0,Not Worn,12,55,1,0
+0,Non-Incapacitating Injury,7:50,0,1,30,0,"Worn, Damaged",7,50,1,1
+0,Incapacitating Injury,13:24,0,1,40,0,Not Worn,13,24,1,0
+0,Non-Incapacitating Injury,21:18,3,1,15,0,Not Worn,21,18,1,0
+0,Possible Injury,21:07,1,1,35,0,Not Worn,21,7,1,0
+0,Incapacitating Injury,18:33,5,1,35,0,Not Worn,18,33,1,0
+0,Non-Incapacitating Injury,7:15,6,1,15,0,"Worn, Not Damaged",7,15,1,1
+0,Possible Injury,13:39,4,1,35,0,Not Worn,13,39,1,0
+0,Non-Incapacitating Injury,13:39,1,2,15,0,Not Worn,13,39,1,0
+0,Non-Incapacitating Injury,22:50,1,1,15,0,"Worn, Not Damaged",22,50,1,1
+0,Non-Incapacitating Injury,14:49,5,1,50,0,"Worn, Damaged",14,49,1,1
+0,Non-Incapacitating Injury,12:10,0,1,35,0,Not Worn,12,10,1,0
+0,Non-Incapacitating Injury,17:27,2,1,35,0,"Worn, Not Damaged",17,27,1,1
+0,Not Injured,2:53,3,1,30,0,Not Worn,2,53,0,0
+0,Non-Incapacitating Injury,17:32,6,1,45,0,Not Worn,17,32,1,0
+0,Non-Incapacitating Injury,17:20,2,1,35,0,Not Worn,17,20,1,0
+0,Not Injured,17:37,2,1,15,0,Not Worn,17,37,0,0
+0,Non-Incapacitating Injury,7:38,1,1,25,0,Not Worn,7,38,1,0
+0,Non-Incapacitating Injury,1:48,4,1,30,0,Not Worn,1,48,1,0
+0,Non-Incapacitating Injury,1:48,4,1,30,0,Not Worn,1,48,1,0
+0,Non-Incapacitating Injury,1:48,4,1,30,0,Not Worn,1,48,1,0
+0,Non-Incapacitating Injury,8:54,0,1,30,0,Not Worn,8,54,1,0
+0,Non-Incapacitating Injury,8:54,0,1,30,0,Not Worn,8,54,1,0
+0,Non-Incapacitating Injury,17:20,0,1,35,0,"Worn, Damaged",17,20,1,1
+0,Possible Injury,2:25,0,1,35,0,"Worn, Not Damaged",2,25,1,1
+0,Incapacitating Injury,20:55,0,1,45,0,Not Worn,20,55,1,0
+0,Non-Incapacitating Injury,7:25,2,1,35,0,"Worn, Unk Damage",7,25,1,1
+0,Non-Incapacitating Injury,11:40,2,1,30,0,Not Worn,11,40,1,0
+0,Non-Incapacitating Injury,8:44,3,1,15,0,"Worn, Not Damaged",8,44,1,1
+0,Non-Incapacitating Injury,14:27,1,2,15,0,Not Worn,14,27,1,0
+0,Non-Incapacitating Injury,22:38,1,2,35,0,Not Worn,22,38,1,0
+0,Non-Incapacitating Injury,18:05,5,1,30,0,Not Worn,18,5,1,0
+0,Incapacitating Injury,17:42,4,2,60,0,"Worn, Unk Damage",17,42,1,1
+0,Non-Incapacitating Injury,20:32,0,1,30,0,"Worn, Damaged",20,32,1,1
+0,Non-Incapacitating Injury,12:00,2,1,30,0,Not Worn,12,0,1,0
+0,Incapacitating Injury,2:42,3,1,15,0,"Worn, Not Damaged",2,42,1,1
+0,Non-Incapacitating Injury,7:24,5,1,40,0,Not Worn,7,24,1,0
+0,Non-Incapacitating Injury,12:32,6,1,35,0,Not Worn,12,32,1,0
+0,Non-Incapacitating Injury,12:45,5,1,35,0,Not Worn,12,45,1,0
+0,Incapacitating Injury,18:30,5,3,15,0,Not Worn,18,30,1,0
+0,Non-Incapacitating Injury,7:50,0,2,30,0,"Worn, Damaged",7,50,1,1
+0,Non-Incapacitating Injury,19:41,0,1,15,0,Unknown If Worn,19,41,1,0
+0,Non-Incapacitating Injury,18:09,0,1,30,0,"Worn, Damaged",18,9,1,1
+0,Non-Incapacitating Injury,10:05,3,1,30,0,Not Worn,10,5,1,0
+0,Non-Incapacitating Injury,20:32,6,2,15,0,Unknown If Worn,20,32,1,0
+0,Possible Injury,12:01,6,2,25,0,Not Worn,12,1,1,0
+0,Non-Incapacitating Injury,13:14,4,2,15,0,Not Worn,13,14,1,0
+0,Non-Incapacitating Injury,14:47,0,0,15,0,Not Worn,14,47,1,0
+0,Non-Incapacitating Injury,10:20,3,1,30,0,Not Worn,10,20,1,0
+0,Non-Incapacitating Injury,8:38,1,1,35,0,Not Worn,8,38,1,0
+0,Not Injured,20:38,1,1,15,0,"Worn, Not Damaged",20,38,0,1
+0,Incapacitating Injury,19:28,1,1,30,0,"Worn, Unk Damage",19,28,1,1
+0,Non-Incapacitating Injury,21:14,5,1,35,0,Not Worn,21,14,1,0
+0,Not Injured,20:22,6,1,35,0,Not Worn,20,22,0,0
+0,Possible Injury,7:33,6,1,15,0,Unknown If Worn,7,33,1,0
+0,Possible Injury,11:38,4,3,15,0,Not Worn,11,38,1,0
+0,Non-Incapacitating Injury,20:46,0,1,40,0,"Worn, Not Damaged",20,46,1,1
+0,Non-Incapacitating Injury,1:19,2,1,15,0,Not Worn,1,19,1,0
+0,Non-Incapacitating Injury,15:52,3,1,35,0,Not Worn,15,52,1,0
+0,Possible Injury,18:45,1,1,35,0,Not Worn,18,45,1,0
+0,Non-Incapacitating Injury,10:36,5,1,30,0,"Worn, Unk Damage",10,36,1,1
+0,Non-Incapacitating Injury,16:46,5,1,15,0,Not Worn,16,46,1,0
+0,Not Injured,17:54,6,1,30,0,"Worn, Not Damaged",17,54,0,1
+0,Incapacitating Injury,18:48,4,1,35,0,Not Worn,18,48,1,0
+0,Non-Incapacitating Injury,17:38,4,1,45,0,Not Worn,17,38,1,0
+0,Non-Incapacitating Injury,23:21,3,1,35,0,Not Worn,23,21,1,0
+0,Possible Injury,19:40,3,1,35,0,Not Worn,19,40,1,0
+0,Possible Injury,8:02,5,3,30,0,Not Worn,8,2,1,0
+0,Possible Injury,12:47,5,1,35,0,Not Worn,12,47,1,0
+0,Non-Incapacitating Injury,1:08,4,1,30,0,Not Worn,1,8,1,0
+0,Possible Injury,19:16,4,1,35,0,Not Worn,19,16,1,0
+0,Non-Incapacitating Injury,18:35,0,1,45,0,Not Worn,18,35,1,0
+0,Possible Injury,10:01,2,1,15,0,"Worn, Not Damaged",10,1,1,1
+0,Non-Incapacitating Injury,8:37,1,1,30,0,Not Worn,8,37,1,0
+0,Non-Incapacitating Injury,19:28,5,1,40,0,"Worn, Not Damaged",19,28,1,1
+0,Incapacitating Injury,7:55,6,1,40,0,Not Worn,7,55,1,0
+0,Non-Incapacitating Injury,17:58,3,1,30,0,Not Worn,17,58,1,0
+0,Non-Incapacitating Injury,22:13,3,3,50,0,Not Worn,22,13,1,0
+0,Incapacitating Injury,6:21,3,1,45,0,Not Worn,6,21,1,0
+0,Non-Incapacitating Injury,22:13,3,3,50,0,Not Worn,22,13,1,0
+0,Non-Incapacitating Injury,17:53,1,1,30,0,"Worn, Damaged",17,53,1,1
+0,Non-Incapacitating Injury,18:04,4,1,30,0,Not Worn,18,4,1,0
+0,Non-Incapacitating Injury,7:29,0,1,45,0,Not Worn,7,29,1,0
+0,Non-Incapacitating Injury,17:04,2,0,15,0,Not Worn,17,4,1,0
+0,Non-Incapacitating Injury,17:33,2,2,45,0,Not Worn,17,33,1,0
+0,Possible Injury,8:35,2,1,45,0,"Worn, Not Damaged",8,35,1,1
+0,Non-Incapacitating Injury,11:49,6,1,40,0,Unknown If Worn,11,49,1,0
+0,Not Injured,18:06,6,2,30,0,Not Worn,18,6,0,0
+0,Non-Incapacitating Injury,16:14,4,1,45,0,Not Worn,16,14,1,0
+0,Non-Incapacitating Injury,10:26,3,1,45,0,Not Worn,10,26,1,0
+0,Non-Incapacitating Injury,10:18,3,3,15,0,Unknown If Worn,10,18,1,0
+0,Non-Incapacitating Injury,19:41,5,1,45,0,Not Worn,19,41,1,0
+0,Non-Incapacitating Injury,14:40,5,1,40,0,Not Worn,14,40,1,0
+0,Incapacitating Injury,13:55,4,1,30,0,Not Worn,13,55,1,0
+0,Non-Incapacitating Injury,15:40,4,1,35,0,Not Worn,15,40,1,0
+0,Non-Incapacitating Injury,21:39,0,1,50,0,Not Worn,21,39,1,0
+0,Non-Incapacitating Injury,17:39,0,1,35,0,"Worn, Not Damaged",17,39,1,1
+0,Non-Incapacitating Injury,15:32,2,1,15,0,Not Worn,15,32,1,0
+0,Non-Incapacitating Injury,13:17,3,1,30,0,Not Worn,13,17,1,0
+0,Non-Incapacitating Injury,21:22,6,1,30,0,Unknown If Worn,21,22,1,0
+0,Possible Injury,16:44,2,1,45,0,Not Worn,16,44,1,0
+0,Non-Incapacitating Injury,15:02,1,1,15,0,Unknown If Worn,15,2,1,0
+0,Possible Injury,13:44,4,1,40,0,Not Worn,13,44,1,0
+0,Possible Injury,17:35,4,3,15,0,"Worn, Not Damaged",17,35,1,1
+0,Incapacitating Injury,17:45,2,1,40,0,Not Worn,17,45,1,0
+0,Non-Incapacitating Injury,4:17,2,1,35,0,Unknown If Worn,4,17,1,0
+0,Possible Injury,19:10,3,1,35,0,Not Worn,19,10,1,0
+0,Not Injured,17:42,3,1,35,0,Unknown If Worn,17,42,0,0
+0,Non-Incapacitating Injury,16:51,6,1,30,0,Not Worn,16,51,1,0
+0,Non-Incapacitating Injury,12:05,4,1,30,0,Not Worn,12,5,1,0
+0,Non-Incapacitating Injury,15:41,0,1,30,0,"Worn, Unk Damage",15,41,1,1
+0,Incapacitating Injury,2:17,0,1,40,0,Unknown If Worn,2,17,1,0
+0,Non-Incapacitating Injury,9:00,0,1,55,0,Not Worn,9,0,1,0
+0,Non-Incapacitating Injury,9:00,0,1,55,0,Not Worn,9,0,1,0
+0,Possible Injury,8:54,3,1,55,0,"Worn, Not Damaged",8,54,1,1
+0,Possible Injury,3:00,0,1,35,6,Not Worn,3,0,1,0
+0,Possible Injury,3:00,0,1,35,6,Not Worn,3,0,1,0
+0,Possible Injury,3:00,0,1,35,6,Not Worn,3,0,1,0
+0,Non-Incapacitating Injury,13:58,2,1,35,0,Not Worn,13,58,1,0
+0,Non-Incapacitating Injury,20:38,3,1,35,0,Not Worn,20,38,1,0
+0,Incapacitating Injury,16:39,1,1,35,0,Not Worn,16,39,1,0
+0,Possible Injury,12:19,4,1,35,0,"Worn, Unk Damage",12,19,1,1
+0,Non-Incapacitating Injury,14:12,0,1,35,0,"Worn, Damaged",14,12,1,1
+0,Possible Injury,7:20,5,1,15,0,Not Worn,7,20,1,0
+0,Non-Incapacitating Injury,8:37,4,1,30,0,"Worn, Damaged",8,37,1,1
+0,Non-Incapacitating Injury,17:40,5,1,35,0,Unknown If Worn,17,40,1,0
+0,Non-Incapacitating Injury,21:40,6,1,30,0,Not Worn,21,40,1,0
+0,Possible Injury,18:43,6,3,45,0,"Worn, Unk Damage",18,43,1,1
+0,Possible Injury,14:53,2,2,15,0,Not Worn,14,53,1,0
+0,Possible Injury,8:55,5,1,30,0,"Worn, Not Damaged",8,55,1,1
+0,Not Injured,18:27,5,1,15,0,Not Worn,18,27,0,0
+0,Not Injured,18:27,5,1,15,0,Not Worn,18,27,0,0
+0,Not Injured,22:19,6,1,35,0,"Worn, Not Damaged",22,19,0,1
+0,Possible Injury,8:14,4,1,45,0,"Worn, Not Damaged",8,14,1,1
+0,Non-Incapacitating Injury,19:07,0,1,40,0,Not Worn,19,7,1,0
+0,Possible Injury,15:00,3,1,40,0,Not Worn,15,0,1,0
+0,Non-Incapacitating Injury,19:36,0,1,30,1,Not Worn,19,36,1,0
+0,Non-Incapacitating Injury,15:44,3,1,30,0,"Worn, Damaged",15,44,1,1
+0,Non-Incapacitating Injury,6:30,3,1,15,0,Not Worn,6,30,1,0
+0,Non-Incapacitating Injury,17:47,3,1,45,0,Not Worn,17,47,1,0
+0,Not Injured,19:43,4,1,15,0,"Worn, Not Damaged",19,43,0,1
+0,Non-Incapacitating Injury,9:59,1,1,35,0,Not Worn,9,59,1,0
+0,Non-Incapacitating Injury,16:00,1,1,30,0,Unknown If Worn,16,0,1,0
+0,Not Injured,17:17,5,1,35,0,Not Worn,17,17,0,0
+0,Non-Incapacitating Injury,2:23,3,3,35,0,Not Worn,2,23,1,0
+0,Non-Incapacitating Injury,2:23,3,3,35,0,Not Worn,2,23,1,0
+0,Non-Incapacitating Injury,2:23,3,3,35,0,Not Worn,2,23,1,0
+0,Non-Incapacitating Injury,2:23,3,3,35,0,Not Worn,2,23,1,0
+0,Non-Incapacitating Injury,15:35,3,1,30,0,Not Worn,15,35,1,0
+0,Non-Incapacitating Injury,17:49,1,1,35,0,Not Worn,17,49,1,0
+0,Non-Incapacitating Injury,18:53,4,1,35,0,"Worn, Unk Damage",18,53,1,1
+0,Incapacitating Injury,20:30,0,1,35,0,"Worn, Unk Damage",20,30,1,1
+0,Possible Injury,19:02,0,1,30,0,Unknown If Worn,19,2,1,0
+0,Non-Incapacitating Injury,11:25,3,1,45,6,"Worn, Not Damaged",11,25,1,1
+0,Not Injured,16:37,1,1,35,0,"Worn, Not Damaged",16,37,0,1
+0,Possible Injury,9:09,5,1,30,0,Not Worn,9,9,1,0
+0,Non-Incapacitating Injury,15:00,5,1,30,0,Not Worn,15,0,1,0
+0,Possible Injury,19:30,6,1,35,0,Unknown If Worn,19,30,1,0
+0,Non-Incapacitating Injury,17:19,6,1,15,0,Not Worn,17,19,1,0
+0,Incapacitating Injury,14:10,4,1,45,0,Unknown If Worn,14,10,1,0
+0,Non-Incapacitating Injury,14:27,0,1,30,0,"Worn, Damaged",14,27,1,1
+0,Possible Injury,12:06,2,1,40,0,"Worn, Not Damaged",12,6,1,1
+0,Non-Incapacitating Injury,17:21,3,1,35,0,"Worn, Not Damaged",17,21,1,1
+0,Non-Incapacitating Injury,17:03,1,1,40,0,Not Worn,17,3,1,0
+0,Not Injured,12:52,1,1,15,0,Unknown If Worn,12,52,0,0
+0,Non-Incapacitating Injury,13:10,6,1,35,0,"Worn, Unk Damage",13,10,1,1
+0,Non-Incapacitating Injury,8:46,6,1,40,0,"Worn, Not Damaged",8,46,1,1
+0,Non-Incapacitating Injury,20:07,6,1,40,0,"Worn, Not Damaged",20,7,1,1
+0,Non-Incapacitating Injury,8:46,4,1,30,0,"Worn, Unk Damage",8,46,1,1
+0,Non-Incapacitating Injury,17:08,4,1,15,0,Unknown If Worn,17,8,1,0
+0,Non-Incapacitating Injury,16:32,0,1,30,0,Not Worn,16,32,1,0
+0,Non-Incapacitating Injury,17:54,0,1,15,0,Unknown If Worn,17,54,1,0
+0,Non-Incapacitating Injury,17:54,0,1,15,0,Unknown If Worn,17,54,1,0
+0,Non-Incapacitating Injury,19:22,2,1,30,0,Not Worn,19,22,1,0
+0,Non-Incapacitating Injury,20:20,2,1,40,0,Not Worn,20,20,1,0
+0,Non-Incapacitating Injury,11:41,3,1,30,0,"Worn, Damaged",11,41,1,1
+0,Possible Injury,9:22,1,2,35,0,"Worn, Not Damaged",9,22,1,1
+0,Non-Incapacitating Injury,20:36,1,1,30,0,Not Worn,20,36,1,0
+0,Possible Injury,21:32,5,1,30,0,Not Worn,21,32,1,0
+0,Possible Injury,2:47,6,1,30,0,Not Worn,2,47,1,0
+0,Non-Incapacitating Injury,17:06,6,1,15,0,Not Worn,17,6,1,0
+0,Possible Injury,19:31,4,1,45,0,Not Worn,19,31,1,0
+0,Non-Incapacitating Injury,18:40,4,1,30,0,Unknown If Worn,18,40,1,0
+0,Not Injured,1:30,4,1,30,0,Not Worn,1,30,0,0
+0,Incapacitating Injury,7:20,0,1,35,0,Not Worn,7,20,1,0
+0,Non-Incapacitating Injury,18:28,2,1,35,0,Not Worn,18,28,1,0
+0,Possible Injury,15:54,2,3,15,0,Unknown If Worn,15,54,1,0
+0,Non-Incapacitating Injury,23:33,3,1,35,0,Not Worn,23,33,1,0
+0,Non-Incapacitating Injury,9:10,3,1,15,0,Unknown If Worn,9,10,1,0
+0,Non-Incapacitating Injury,1:02,3,1,35,0,Not Worn,1,2,1,0
+0,Non-Incapacitating Injury,1:02,3,1,35,0,Unknown If Worn,1,2,1,0
+0,Non-Incapacitating Injury,11:58,3,1,55,0,"Worn, Damaged",11,58,1,1
+0,Non-Incapacitating Injury,17:49,1,1,30,0,Not Worn,17,49,1,0
+0,Not Injured,15:28,1,1,35,0,Not Worn,15,28,0,0
+0,Incapacitating Injury,20:08,5,1,30,0,Not Worn,20,8,1,0
+0,Non-Incapacitating Injury,14:47,6,1,15,0,"Worn, Not Damaged",14,47,1,1
+0,Incapacitating Injury,7:11,6,1,45,0,"Worn, Unk Damage",7,11,1,1
+0,Non-Incapacitating Injury,13:36,4,1,35,0,"Worn, Unk Damage",13,36,1,1
+0,Non-Incapacitating Injury,8:51,0,1,15,0,Not Worn,8,51,1,0
+0,Possible Injury,21:10,2,1,15,0,Not Worn,21,10,1,0
+0,Non-Incapacitating Injury,15:05,3,1,15,0,Unknown If Worn,15,5,1,0
+0,Incapacitating Injury,14:46,6,3,50,0,Not Worn,14,46,1,0
+0,Non-Incapacitating Injury,6:50,4,1,35,0,"Worn, Unk Damage",6,50,1,1
+0,Non-Incapacitating Injury,19:18,3,2,15,0,Not Worn,19,18,1,0
+0,Non-Incapacitating Injury,11:04,3,1,25,0,"Worn, Unk Damage",11,4,1,1
+0,Possible Injury,8:27,1,1,40,6,Not Worn,8,27,1,0
+0,Possible Injury,6:54,5,1,30,0,"Worn, Not Damaged",6,54,1,1
+0,Non-Incapacitating Injury,21:48,6,1,30,0,Not Worn,21,48,1,0
+0,Non-Incapacitating Injury,9:18,6,1,35,0,"Worn, Not Damaged",9,18,1,1
+0,Non-Incapacitating Injury,14:51,4,1,30,0,Not Worn,14,51,1,0
+0,Non-Incapacitating Injury,19:15,4,2,15,0,Not Worn,19,15,1,0
+0,Non-Incapacitating Injury,17:16,4,1,30,0,"Worn, Unk Damage",17,16,1,1
+0,Non-Incapacitating Injury,8:36,4,1,15,0,"Worn, Not Damaged",8,36,1,1
+0,Possible Injury,20:44,0,3,35,0,Not Worn,20,44,1,0
+0,Non-Incapacitating Injury,21:06,0,3,35,0,Not Worn,21,6,1,0
+0,Non-Incapacitating Injury,10:52,0,2,15,0,Not Worn,10,52,1,0
+0,Not Injured,14:15,2,1,45,0,Not Worn,14,15,0,0
+0,Possible Injury,15:37,1,1,30,0,Not Worn,15,37,1,0
+0,Non-Incapacitating Injury,8:32,5,1,45,0,"Worn, Not Damaged",8,32,1,1
+0,Non-Incapacitating Injury,7:47,6,1,35,0,"Worn, Unk Damage",7,47,1,1
+0,Possible Injury,16:07,4,1,15,0,"Worn, Unk Damage",16,7,1,1
+0,Non-Incapacitating Injury,9:30,4,1,30,0,"Worn, Not Damaged",9,30,1,1
+0,Incapacitating Injury,8:51,0,1,35,0,Not Worn,8,51,1,0
+0,Possible Injury,2:02,0,1,65,0,Not Worn,2,2,1,0
+0,Non-Incapacitating Injury,16:50,0,1,30,0,Not Worn,16,50,1,0
+0,Incapacitating Injury,20:31,2,1,25,0,Not Worn,20,31,1,0
+0,Possible Injury,14:57,1,1,30,0,Not Worn,14,57,1,0
+0,Non-Incapacitating Injury,8:06,5,1,40,0,"Worn, Not Damaged",8,6,1,1
+0,Non-Incapacitating Injury,16:41,5,1,30,0,Not Worn,16,41,1,0
+0,Possible Injury,19:04,5,1,30,0,Not Worn,19,4,1,0
+0,Non-Incapacitating Injury,17:50,4,1,15,0,Not Worn,17,50,1,0
+0,Incapacitating Injury,6:53,4,1,55,0,"Worn, Unk Damage",6,53,1,1
+0,Non-Incapacitating Injury,15:10,0,2,45,0,Not Worn,15,10,1,0
+0,Killed,23:44,2,1,40,0,Not Worn,23,44,1,0
+0,Non-Incapacitating Injury,12:09,2,1,35,0,Not Worn,12,9,1,0
+0,Possible Injury,17:45,2,2,15,0,Not Worn,17,45,1,0
+0,Possible Injury,17:55,2,1,15,0,Unknown If Worn,17,55,1,0
+0,Non-Incapacitating Injury,11:59,2,1,30,0,"Worn, Damaged",11,59,1,1
+0,Possible Injury,16:00,2,1,30,0,Not Worn,16,0,1,0
+0,Incapacitating Injury,8:50,2,1,35,0,Not Worn,8,50,1,0
+0,Possible Injury,10:00,1,1,30,0,Unknown If Worn,10,0,1,0
+0,Not Injured,15:14,1,1,15,0,Not Worn,15,14,0,0
+0,Non-Incapacitating Injury,15:09,5,2,15,0,Not Worn,15,9,1,0
+0,Non-Incapacitating Injury,14:03,6,1,30,0,Not Worn,14,3,1,0
+0,Possible Injury,8:42,4,1,15,0,Not Worn,8,42,1,0
+0,Non-Incapacitating Injury,19:52,0,1,15,0,Not Worn,19,52,1,0
+0,Non-Incapacitating Injury,15:04,2,1,35,0,"Worn, Damaged",15,4,1,1
+0,Non-Incapacitating Injury,15:04,2,1,35,0,"Worn, Damaged",15,4,1,1
+0,Incapacitating Injury,17:24,3,1,30,0,Not Worn,17,24,1,0
+0,Non-Incapacitating Injury,12:20,5,1,35,0,"Worn, Not Damaged",12,20,1,1
+0,Non-Incapacitating Injury,17:09,5,1,40,0,Not Worn,17,9,1,0
+0,Incapacitating Injury,19:15,5,1,15,0,"Worn, Damaged",19,15,1,1
+0,Non-Incapacitating Injury,17:15,4,1,30,0,Not Worn,17,15,1,0
+0,Incapacitating Injury,19:56,0,1,40,0,Not Worn,19,56,1,0
+0,Incapacitating Injury,20:58,2,1,35,0,Not Worn,20,58,1,0
+0,Non-Incapacitating Injury,2:54,2,1,35,0,Not Worn,2,54,1,0
+0,Possible Injury,4:08,3,1,25,0,Not Worn,4,8,1,0
+0,Possible Injury,17:30,6,1,30,0,"Worn, Damaged",17,30,1,1
+0,Not Injured,13:46,6,3,45,0,Unknown If Worn,13,46,0,0
+0,Non-Incapacitating Injury,16:25,0,3,50,0,Not Worn,16,25,1,0
+0,Possible Injury,19:00,2,1,35,0,Not Worn,19,0,1,0
+0,Not Injured,1:20,2,1,35,0,"Worn, Not Damaged",1,20,0,1
+0,Non-Incapacitating Injury,19:14,2,1,15,0,Not Worn,19,14,1,0
+0,Incapacitating Injury,10:16,1,1,45,0,Unknown If Worn,10,16,1,0
+0,Incapacitating Injury,17:08,1,1,35,0,"Worn, Unk Damage",17,8,1,1
+0,Non-Incapacitating Injury,15:12,6,1,15,0,Not Worn,15,12,1,0
+0,Non-Incapacitating Injury,17:04,6,1,30,0,"Worn, Damaged",17,4,1,1
+0,Possible Injury,15:20,6,1,30,0,Not Worn,15,20,1,0
+0,Not Injured,19:45,4,1,40,6,Unknown If Worn,19,45,0,0
+0,Possible Injury,15:21,4,1,15,0,Not Worn,15,21,1,0
+0,Non-Incapacitating Injury,21:14,4,1,35,0,Unknown If Worn,21,14,1,0
+0,Non-Incapacitating Injury,15:59,2,1,15,0,Not Worn,15,59,1,0
+0,Not Injured,2:37,3,1,30,0,Not Worn,2,37,0,0
+0,Incapacitating Injury,16:23,3,1,40,0,Unknown If Worn,16,23,1,0
+0,Non-Incapacitating Injury,8:05,1,1,35,0,Unknown If Worn,8,5,1,0
+0,Incapacitating Injury,16:23,5,1,45,0,Not Worn,16,23,1,0
+0,Not Injured,6:30,6,1,15,0,Not Worn,6,30,0,0
+0,Possible Injury,15:48,6,1,30,0,Not Worn,15,48,1,0
+0,Non-Incapacitating Injury,13:14,4,1,35,0,Not Worn,13,14,1,0
+0,Incapacitating Injury,14:42,0,1,45,0,Not Worn,14,42,1,0
+0,Non-Incapacitating Injury,13:51,1,1,35,0,"Worn, Unk Damage",13,51,1,1
+0,Possible Injury,11:15,6,1,30,0,Not Worn,11,15,1,0
+0,Incapacitating Injury,20:46,6,1,15,0,Not Worn,20,46,1,0
+0,Non-Incapacitating Injury,12:44,0,1,30,0,Not Worn,12,44,1,0
+0,Non-Incapacitating Injury,19:35,2,3,35,0,"Worn, Unk Damage",19,35,1,1
+0,Non-Incapacitating Injury,12:15,2,1,35,0,"Worn, Unk Damage",12,15,1,1
+0,Non-Incapacitating Injury,18:44,3,1,35,0,Not Worn,18,44,1,0
+0,Non-Incapacitating Injury,15:34,3,2,45,0,"Worn, Damaged",15,34,1,1
+0,Non-Incapacitating Injury,12:20,1,1,15,0,Unknown If Worn,12,20,1,0
+0,Non-Incapacitating Injury,12:52,6,2,15,0,Not Worn,12,52,1,0
+0,Non-Incapacitating Injury,14:29,4,1,45,0,Not Worn,14,29,1,0
+0,Incapacitating Injury,10:38,4,1,40,0,Unknown If Worn,10,38,1,0
+0,Non-Incapacitating Injury,19:03,0,0,15,0,Not Worn,19,3,1,0
+0,Non-Incapacitating Injury,9:00,2,1,30,0,Not Worn,9,0,1,0
+0,Possible Injury,18:40,1,1,45,0,Not Worn,18,40,1,0
+0,Non-Incapacitating Injury,23:55,4,1,15,0,Unknown If Worn,23,55,1,0
+0,Not Injured,17:45,0,1,15,0,Not Worn,17,45,0,0
+0,Non-Incapacitating Injury,1:23,3,1,35,0,"Worn, Not Damaged",1,23,1,1
+0,Non-Incapacitating Injury,1:23,3,1,35,0,"Worn, Unk Damage",1,23,1,1
+0,Non-Incapacitating Injury,18:06,5,1,65,0,"Worn, Not Damaged",18,6,1,1
+0,Possible Injury,16:21,5,1,35,0,"Worn, Not Damaged",16,21,1,1
+0,Possible Injury,13:50,5,1,45,0,Not Worn,13,50,1,0
+0,Non-Incapacitating Injury,9:10,5,1,40,0,Not Worn,9,10,1,0
+0,Not Injured,16:26,6,1,30,0,Not Worn,16,26,0,0
+0,Non-Incapacitating Injury,12:57,4,1,30,0,"Worn, Not Damaged",12,57,1,1
+0,Possible Injury,15:10,0,1,15,0,Unknown If Worn,15,10,1,0
+0,Possible Injury,15:58,2,1,30,0,Not Worn,15,58,1,0
+0,Killed,15:15,2,1,30,0,Not Worn,15,15,1,0
+0,Non-Incapacitating Injury,14:25,3,1,40,0,Not Worn,14,25,1,0
+0,Incapacitating Injury,15:03,1,1,35,0,Unknown If Worn,15,3,1,0
+0,Not Injured,21:30,5,1,30,0,"Worn, Not Damaged",21,30,0,1
+0,Non-Incapacitating Injury,13:10,5,1,35,0,"Worn, Unk Damage",13,10,1,1
+0,Non-Incapacitating Injury,8:03,6,2,30,0,Not Worn,8,3,1,0
+0,Possible Injury,7:20,4,1,35,0,"Worn, Unk Damage",7,20,1,1
+0,Non-Incapacitating Injury,8:30,4,1,30,0,"Worn, Unk Damage",8,30,1,1
+0,Non-Incapacitating Injury,10:10,4,1,35,0,Not Worn,10,10,1,0
+0,Possible Injury,18:28,5,1,35,0,"Worn, Not Damaged",18,28,1,1
+0,Non-Incapacitating Injury,17:53,5,1,15,0,Not Worn,17,53,1,0
+0,Possible Injury,7:48,6,1,15,0,"Worn, Not Damaged",7,48,1,1
+0,Non-Incapacitating Injury,20:30,6,1,35,0,Unknown If Worn,20,30,1,0
+0,Incapacitating Injury,19:17,0,1,35,0,Unknown If Worn,19,17,1,0
+0,Non-Incapacitating Injury,20:30,1,2,35,0,Not Worn,20,30,1,0
+0,Non-Incapacitating Injury,12:17,1,2,15,0,Not Worn,12,17,1,0
+0,Non-Incapacitating Injury,16:14,5,1,15,0,Not Worn,16,14,1,0
+0,Non-Incapacitating Injury,1:05,4,1,30,0,Not Worn,1,5,1,0
+0,Non-Incapacitating Injury,19:28,4,1,35,0,Not Worn,19,28,1,0
+0,Possible Injury,13:18,0,3,15,0,Not Worn,13,18,1,0
+0,Not Injured,2:26,3,1,30,0,Not Worn,2,26,0,0
+0,Not Injured,2:26,3,1,30,0,Not Worn,2,26,0,0
+0,Not Injured,2:26,3,1,30,0,Not Worn,2,26,0,0
+0,Not Injured,2:26,3,1,30,0,Not Worn,2,26,0,0
+0,Non-Incapacitating Injury,2:45,3,1,35,0,Not Worn,2,45,1,0
+0,Possible Injury,17:55,5,2,15,6,Not Worn,17,55,1,0
+0,Possible Injury,10:38,6,3,15,0,Not Worn,10,38,1,0
+0,Non-Incapacitating Injury,18:53,6,1,35,0,Not Worn,18,53,1,0
+0,Non-Incapacitating Injury,18:53,6,1,15,0,Not Worn,18,53,1,0
+0,Non-Incapacitating Injury,13:43,4,1,15,0,Unknown If Worn,13,43,1,0
+0,Not Injured,18:27,0,1,15,0,Not Worn,18,27,0,0
+0,Possible Injury,15:42,2,1,40,0,Not Worn,15,42,1,0
+0,Possible Injury,18:07,5,1,25,0,Not Worn,18,7,1,0
+0,Possible Injury,13:00,6,3,15,0,Unknown If Worn,13,0,1,0
+0,Non-Incapacitating Injury,19:27,0,1,15,0,Unknown If Worn,19,27,1,0
+0,Non-Incapacitating Injury,22:30,2,1,35,0,Not Worn,22,30,1,0
+0,Non-Incapacitating Injury,13:14,1,2,15,0,Not Worn,13,14,1,0
+0,Non-Incapacitating Injury,12:00,6,1,40,0,Not Worn,12,0,1,0
+0,Non-Incapacitating Injury,19:28,6,1,30,0,"Worn, Damaged",19,28,1,1
+0,Non-Incapacitating Injury,7:52,4,1,35,0,"Worn, Not Damaged",7,52,1,1
+0,Possible Injury,15:11,0,1,30,0,Not Worn,15,11,1,0
+0,Non-Incapacitating Injury,11:24,0,1,30,0,Not Worn,11,24,1,0
+0,Non-Incapacitating Injury,19:00,2,1,30,0,Not Worn,19,0,1,0
+0,Possible Injury,14:19,3,1,45,0,Not Worn,14,19,1,0
+0,Non-Incapacitating Injury,12:19,5,1,30,0,Unknown If Worn,12,19,1,0
+0,Possible Injury,20:35,4,1,30,0,Not Worn,20,35,1,0
+0,Incapacitating Injury,19:29,5,1,45,0,"Worn, Damaged",19,29,1,1
+0,Non-Incapacitating Injury,1:34,2,1,35,0,Not Worn,1,34,1,0
+0,Non-Incapacitating Injury,1:34,2,1,35,0,Not Worn,1,34,1,0
+0,Non-Incapacitating Injury,1:34,2,1,35,0,Not Worn,1,34,1,0
+0,Possible Injury,21:22,2,1,15,0,Not Worn,21,22,1,0
+0,Possible Injury,20:49,1,1,35,0,Not Worn,20,49,1,0
+0,Non-Incapacitating Injury,14:17,1,1,15,0,Not Worn,14,17,1,0
+0,Non-Incapacitating Injury,7:52,5,1,45,0,"Worn, Unk Damage",7,52,1,1
+1,Non-Incapacitating Injury,8:21,5,1,20,0,Not Worn,8,21,1,0
+0,Possible Injury,12:37,5,1,15,0,Not Worn,12,37,1,0
+0,Possible Injury,7:38,6,1,35,0,"Worn, Unk Damage",7,38,1,1
+0,Non-Incapacitating Injury,20:56,6,1,35,0,Unknown If Worn,20,56,1,0
+0,Non-Incapacitating Injury,17:22,6,1,35,0,Not Worn,17,22,1,0
+0,Non-Incapacitating Injury,15:42,2,3,15,0,Not Worn,15,42,1,0
+0,Non-Incapacitating Injury,13:30,2,2,15,0,"Worn, Not Damaged",13,30,1,1
+0,Non-Incapacitating Injury,23:49,3,3,55,0,Not Worn,23,49,1,0
+0,Not Injured,12:50,1,2,15,0,Not Worn,12,50,0,0
+0,Incapacitating Injury,23:30,6,1,15,0,Not Worn,23,30,1,0
+0,Non-Incapacitating Injury,2:16,0,1,35,0,Not Worn,2,16,1,0
+0,Incapacitating Injury,21:01,2,1,40,0,Not Worn,21,1,1,0
+0,Non-Incapacitating Injury,19:01,2,1,30,0,Not Worn,19,1,1,0
+0,Non-Incapacitating Injury,22:03,2,3,15,0,Not Worn,22,3,1,0
+0,Non-Incapacitating Injury,16:21,2,1,30,0,"Worn, Unk Damage",16,21,1,1
+0,Non-Incapacitating Injury,11:30,5,1,25,0,Unknown If Worn,11,30,1,0
+0,Non-Incapacitating Injury,13:55,6,1,50,0,Not Worn,13,55,1,0
+0,Non-Incapacitating Injury,21:26,6,1,35,0,Not Worn,21,26,1,0
+0,Non-Incapacitating Injury,10:37,4,1,35,0,Not Worn,10,37,1,0
+0,Non-Incapacitating Injury,15:09,0,1,30,0,Not Worn,15,9,1,0
+0,Non-Incapacitating Injury,22:00,0,1,30,0,Not Worn,22,0,1,0
+0,Non-Incapacitating Injury,9:00,0,1,35,0,"Worn, Damaged",9,0,1,1
+0,Non-Incapacitating Injury,7:02,2,1,30,0,"Worn, Not Damaged",7,2,1,1
+0,Not Injured,12:23,2,1,35,0,"Worn, Not Damaged",12,23,0,1
+0,Not Injured,10:00,1,1,30,0,Unknown If Worn,10,0,0,0
+0,Non-Incapacitating Injury,7:08,5,1,40,0,Not Worn,7,8,1,0
+0,Non-Incapacitating Injury,8:06,5,1,35,0,Not Worn,8,6,1,0
+0,Non-Incapacitating Injury,22:17,5,1,35,0,Not Worn,22,17,1,0
+0,Non-Incapacitating Injury,17:31,5,1,30,0,Not Worn,17,31,1,0
+0,Possible Injury,20:25,6,1,30,0,Not Worn,20,25,1,0
+0,Possible Injury,8:00,4,1,30,0,Not Worn,8,0,1,0
+0,Not Injured,22:38,0,1,20,0,"Worn, Not Damaged",22,38,0,1
+0,Non-Incapacitating Injury,17:49,0,1,30,0,Not Worn,17,49,1,0
+0,Non-Incapacitating Injury,14:05,0,1,30,0,Unknown If Worn,14,5,1,0
+0,Possible Injury,11:50,0,1,40,0,Not Worn,11,50,1,0
+0,Non-Incapacitating Injury,11:08,2,1,35,0,Not Worn,11,8,1,0
+0,Non-Incapacitating Injury,17:28,1,1,35,0,"Worn, Not Damaged",17,28,1,1
+0,Non-Incapacitating Injury,9:38,1,1,30,0,"Worn, Not Damaged",9,38,1,1
+0,Non-Incapacitating Injury,18:28,5,1,35,0,"Worn, Damaged",18,28,1,1
+0,Non-Incapacitating Injury,20:42,4,1,30,0,Not Worn,20,42,1,0
+0,Non-Incapacitating Injury,19:40,0,1,30,0,Not Worn,19,40,1,0
+0,Non-Incapacitating Injury,19:28,0,1,30,0,Not Worn,19,28,1,0
+0,Non-Incapacitating Injury,21:42,0,1,40,0,Not Worn,21,42,1,0
+0,Non-Incapacitating Injury,9:45,2,1,15,0,"Worn, Not Damaged",9,45,1,1
+0,Non-Incapacitating Injury,20:29,2,1,15,0,Not Worn,20,29,1,0
+0,Non-Incapacitating Injury,11:53,3,2,50,0,Not Worn,11,53,1,0
+0,Incapacitating Injury,9:53,3,1,60,0,"Worn, Unk Damage",9,53,1,1
+0,Non-Incapacitating Injury,20:56,1,1,35,0,Unknown If Worn,20,56,1,0
+0,Possible Injury,22:52,1,3,30,0,Not Worn,22,52,1,0
+0,Non-Incapacitating Injury,21:18,5,1,35,0,"Worn, Damaged",21,18,1,1
+0,Non-Incapacitating Injury,12:34,6,1,50,0,Not Worn,12,34,1,0
+0,Incapacitating Injury,20:25,4,1,35,6,"Worn, Not Damaged",20,25,1,1
+0,Non-Incapacitating Injury,8:23,0,1,45,0,Not Worn,8,23,1,0
+0,Non-Incapacitating Injury,18:08,2,1,35,0,Not Worn,18,8,1,0
+0,Non-Incapacitating Injury,18:49,3,1,30,0,Not Worn,18,49,1,0
+0,Possible Injury,23:09,3,1,35,0,"Worn, Unk Damage",23,9,1,1
+0,Possible Injury,13:49,0,1,30,0,Not Worn,13,49,1,0
+0,Not Injured,2:22,3,1,15,0,Unknown If Worn,2,22,0,0
+0,Non-Incapacitating Injury,17:09,5,1,15,0,Not Worn,17,9,1,0
+0,Non-Incapacitating Injury,5:24,5,1,35,0,Not Worn,5,24,1,0
+0,Possible Injury,23:03,5,1,15,0,Not Worn,23,3,1,0
+0,Non-Incapacitating Injury,17:49,6,1,40,0,Not Worn,17,49,1,0
+0,Non-Incapacitating Injury,19:16,4,1,30,0,Not Worn,19,16,1,0
+0,Incapacitating Injury,2:37,4,1,45,0,Not Worn,2,37,1,0
+0,Non-Incapacitating Injury,8:18,0,1,30,0,"Worn, Unk Damage",8,18,1,1
+0,Non-Incapacitating Injury,11:00,0,1,35,0,"Worn, Not Damaged",11,0,1,1
+0,Possible Injury,12:45,2,1,15,0,"Worn, Not Damaged",12,45,1,1
+0,Non-Incapacitating Injury,13:31,2,1,35,0,Unknown If Worn,13,31,1,0
+0,Incapacitating Injury,18:24,1,1,35,0,"Worn, Damaged",18,24,1,1
+0,Incapacitating Injury,18:25,5,2,40,0,Unknown If Worn,18,25,1,0
+0,Possible Injury,16:45,5,1,35,0,Not Worn,16,45,1,0
+0,Incapacitating Injury,18:12,5,1,40,0,Not Worn,18,12,1,0
+0,Possible Injury,10:00,6,2,15,0,Not Worn,10,0,1,0
+0,Non-Incapacitating Injury,7:58,6,1,30,0,Not Worn,7,58,1,0
+0,Incapacitating Injury,6:54,6,1,30,0,Unknown If Worn,6,54,1,0
+0,Non-Incapacitating Injury,20:38,4,1,15,0,"Worn, Not Damaged",20,38,1,1
+0,Non-Incapacitating Injury,22:17,4,1,40,0,Not Worn,22,17,1,0
+0,Non-Incapacitating Injury,15:05,4,1,35,0,"Worn, Not Damaged",15,5,1,1
+0,Non-Incapacitating Injury,8:29,0,1,60,0,Not Worn,8,29,1,0
+0,Non-Incapacitating Injury,17:15,0,1,15,0,Unknown If Worn,17,15,1,0
+0,Non-Incapacitating Injury,16:24,3,1,30,0,Not Worn,16,24,1,0
+0,Possible Injury,8:40,1,1,15,0,Not Worn,8,40,1,0
+0,Possible Injury,17:17,1,1,30,0,Not Worn,17,17,1,0
+0,Non-Incapacitating Injury,12:08,5,1,35,0,Not Worn,12,8,1,0
+0,Non-Incapacitating Injury,13:29,4,3,55,0,Not Worn,13,29,1,0
+0,Possible Injury,12:00,4,1,35,0,Not Worn,12,0,1,0
+0,Possible Injury,17:56,0,1,35,0,Not Worn,17,56,1,0
+0,Possible Injury,22:50,1,1,30,0,Not Worn,22,50,1,0
+0,Non-Incapacitating Injury,17:35,1,1,35,0,Not Worn,17,35,1,0
+0,Possible Injury,18:28,4,1,30,0,Not Worn,18,28,1,0
+0,Non-Incapacitating Injury,17:13,4,2,15,0,Not Worn,17,13,1,0
+0,Non-Incapacitating Injury,21:51,4,1,30,0,Not Worn,21,51,1,0
+0,Non-Incapacitating Injury,21:47,4,1,35,0,Unknown If Worn,21,47,1,0
+0,Non-Incapacitating Injury,15:53,0,1,30,0,Not Worn,15,53,1,0
+0,Non-Incapacitating Injury,15:21,1,1,35,0,Not Worn,15,21,1,0
+0,Non-Incapacitating Injury,9:38,5,2,15,0,Not Worn,9,38,1,0
+0,Possible Injury,11:00,6,1,35,5,Not Worn,11,0,1,0
+0,Non-Incapacitating Injury,15:52,1,1,30,0,Not Worn,15,52,1,0
+0,Non-Incapacitating Injury,18:14,1,1,15,0,"Worn, Damaged",18,14,1,1
+0,Non-Incapacitating Injury,18:22,6,1,35,0,Not Worn,18,22,1,0
+0,Non-Incapacitating Injury,17:58,6,1,35,0,"Worn, Not Damaged",17,58,1,1
+0,Not Injured,18:34,0,1,45,0,"Worn, Unk Damage",18,34,0,1
+0,Possible Injury,12:03,2,1,45,6,Not Worn,12,3,1,0
+0,Non-Incapacitating Injury,17:58,1,1,40,0,Unknown If Worn,17,58,1,0
+0,Possible Injury,7:33,5,1,40,0,"Worn, Not Damaged",7,33,1,1
+0,Incapacitating Injury,8:11,5,1,15,0,Not Worn,8,11,1,0
+0,Non-Incapacitating Injury,17:14,5,2,15,0,Not Worn,17,14,1,0
+0,Non-Incapacitating Injury,22:52,6,1,30,0,Not Worn,22,52,1,0
+0,Possible Injury,20:22,6,1,35,0,"Worn, Not Damaged",20,22,1,1
+0,Possible Injury,18:24,6,1,30,0,"Worn, Unk Damage",18,24,1,1
+0,Possible Injury,8:10,6,1,15,0,Unknown If Worn,8,10,1,0
+0,Non-Incapacitating Injury,3:45,4,1,35,0,Not Worn,3,45,1,0
+0,Not Injured,3:47,3,1,35,6,Unknown If Worn,3,47,0,0
+0,Non-Incapacitating Injury,16:00,4,1,15,0,"Worn, Not Damaged",16,0,1,1
+0,Non-Incapacitating Injury,17:57,1,1,15,0,"Worn, Not Damaged",17,57,1,1
+0,Not Injured,18:22,1,3,35,0,"Worn, Not Damaged",18,22,0,1
+0,Non-Incapacitating Injury,15:06,6,1,35,0,Not Worn,15,6,1,0
+0,Non-Incapacitating Injury,7:21,4,1,30,6,"Worn, Unk Damage",7,21,1,1
+0,Non-Incapacitating Injury,19:50,0,1,15,0,Not Worn,19,50,1,0
+0,Possible Injury,23:15,6,1,35,6,Unknown If Worn,23,15,1,0
+0,Incapacitating Injury,18:30,6,1,30,6,Not Worn,18,30,1,0
+0,Incapacitating Injury,18:30,6,1,30,6,Unknown If Worn,18,30,1,0
+0,Incapacitating Injury,18:30,6,1,30,6,Unknown If Worn,18,30,1,0
+0,Incapacitating Injury,18:30,6,1,30,6,Unknown If Worn,18,30,1,0
+0,Incapacitating Injury,18:30,6,1,30,6,Unknown If Worn,18,30,1,0
+0,Incapacitating Injury,18:30,6,1,30,6,Unknown If Worn,18,30,1,0
+0,Incapacitating Injury,18:30,6,1,30,6,Unknown If Worn,18,30,1,0
+0,Incapacitating Injury,18:30,6,1,30,6,Unknown If Worn,18,30,1,0
+0,Incapacitating Injury,18:30,6,1,30,6,Unknown If Worn,18,30,1,0
+0,Incapacitating Injury,18:30,6,1,30,6,Unknown If Worn,18,30,1,0
+0,Incapacitating Injury,18:30,6,1,30,6,Unknown If Worn,18,30,1,0
+0,Incapacitating Injury,18:30,6,1,30,6,Unknown If Worn,18,30,1,0
+0,Incapacitating Injury,18:30,6,1,30,6,Unknown If Worn,18,30,1,0
+0,Incapacitating Injury,18:30,6,1,30,6,Unknown If Worn,18,30,1,0
+0,Incapacitating Injury,18:30,6,1,30,6,Unknown If Worn,18,30,1,0
+0,Incapacitating Injury,18:30,6,1,30,6,Unknown If Worn,18,30,1,0
+0,Non-Incapacitating Injury,23:32,4,3,40,0,"Worn, Not Damaged",23,32,1,1
+0,Not Injured,18:32,4,2,35,0,Not Worn,18,32,0,0
+0,Non-Incapacitating Injury,15:47,0,1,30,0,"Worn, Damaged",15,47,1,1
+0,Possible Injury,13:51,2,1,40,0,Not Worn,13,51,1,0
+0,Non-Incapacitating Injury,15:11,3,1,30,0,"Worn, Not Damaged",15,11,1,1
+0,Non-Incapacitating Injury,14:57,1,1,35,0,Not Worn,14,57,1,0
+0,Non-Incapacitating Injury,18:22,6,1,30,0,"Worn, Unk Damage",18,22,1,1
+0,Non-Incapacitating Injury,8:08,6,1,30,0,"Worn, Damaged",8,8,1,1
+0,Non-Incapacitating Injury,17:49,0,1,30,6,Not Worn,17,49,1,0
+0,Non-Incapacitating Injury,13:49,2,1,15,0,Not Worn,13,49,1,0
+0,Non-Incapacitating Injury,14:59,3,1,35,0,Not Worn,14,59,1,0
+0,Possible Injury,15:40,1,1,15,6,"Worn, Unk Damage",15,40,1,1
+0,Non-Incapacitating Injury,17:28,5,1,15,0,Unknown If Worn,17,28,1,0
+0,Non-Incapacitating Injury,17:17,6,1,40,0,Not Worn,17,17,1,0
+0,Not Injured,14:19,4,1,35,0,Not Worn,14,19,0,0
+0,Not Injured,15:51,0,1,30,0,Not Worn,15,51,0,0
+0,Non-Incapacitating Injury,16:50,5,1,40,0,"Worn, Damaged",16,50,1,1
+0,Non-Incapacitating Injury,16:47,5,1,30,0,Not Worn,16,47,1,0
+0,Non-Incapacitating Injury,16:44,6,1,30,0,Not Worn,16,44,1,0
+0,Possible Injury,11:00,6,1,35,0,"Worn, Not Damaged",11,0,1,1
+0,Not Injured,10:28,4,3,40,0,Not Worn,10,28,0,0
+0,Not Injured,10:28,4,3,40,0,Not Worn,10,28,0,0
+0,Non-Incapacitating Injury,23:58,0,1,15,0,Not Worn,23,58,1,0
+0,Non-Incapacitating Injury,9:35,3,1,65,0,"Worn, Damaged",9,35,1,1
+0,Non-Incapacitating Injury,16:51,3,1,35,0,Not Worn,16,51,1,0
+0,Killed,22:26,1,3,50,0,Not Worn,22,26,1,0
+0,Non-Incapacitating Injury,12:35,6,1,35,0,"Worn, Not Damaged",12,35,1,1
+0,Non-Incapacitating Injury,18:18,0,1,15,0,Unknown If Worn,18,18,1,0
+0,Non-Incapacitating Injury,8:25,4,1,40,0,"Worn, Not Damaged",8,25,1,1
+0,Non-Incapacitating Injury,17:07,0,1,30,0,Not Worn,17,7,1,0
+0,Incapacitating Injury,16:49,0,1,15,0,Not Worn,16,49,1,0
+0,Possible Injury,14:18,2,1,35,0,Not Worn,14,18,1,0
+0,Non-Incapacitating Injury,16:17,2,1,30,0,Not Worn,16,17,1,0
+0,Non-Incapacitating Injury,15:15,5,1,30,0,Not Worn,15,15,1,0
+0,Incapacitating Injury,11:28,5,1,45,0,Unknown If Worn,11,28,1,0
+0,Non-Incapacitating Injury,15:42,5,1,15,0,Not Worn,15,42,1,0
+0,Non-Incapacitating Injury,21:13,4,3,50,0,"Worn, Not Damaged",21,13,1,1
+0,Possible Injury,16:49,0,1,30,0,"Worn, Damaged",16,49,1,1
+0,Non-Incapacitating Injury,13:02,1,1,35,0,Not Worn,13,2,1,0
+0,Non-Incapacitating Injury,15:21,5,1,30,0,"Worn, Not Damaged",15,21,1,1
+0,Non-Incapacitating Injury,9:17,6,1,30,0,"Worn, Not Damaged",9,17,1,1
+0,Non-Incapacitating Injury,16:00,4,1,15,0,"Worn, Not Damaged",16,0,1,1
+0,Possible Injury,13:22,0,2,15,0,Not Worn,13,22,1,0
+0,Non-Incapacitating Injury,13:30,3,1,60,0,"Worn, Not Damaged",13,30,1,1
+0,Non-Incapacitating Injury,19:06,1,1,15,0,Not Worn,19,6,1,0
+0,Possible Injury,21:32,5,1,40,0,Not Worn,21,32,1,0
+1,Non-Incapacitating Injury,8:06,5,2,15,0,Not Worn,8,6,1,0
+0,Possible Injury,17:32,6,1,30,0,Not Worn,17,32,1,0
+0,Possible Injury,19:39,6,1,35,0,Not Worn,19,39,1,0
+0,Possible Injury,2:17,6,1,15,6,Not Worn,2,17,1,0
+0,Non-Incapacitating Injury,17:34,2,1,40,0,"Worn, Unk Damage",17,34,1,1
+0,Non-Incapacitating Injury,19:04,6,1,30,0,Not Worn,19,4,1,0
+0,Non-Incapacitating Injury,19:48,6,1,25,0,Not Worn,19,48,1,0
+0,Non-Incapacitating Injury,6:56,6,2,15,0,Not Worn,6,56,1,0
+0,Non-Incapacitating Injury,22:00,0,1,30,0,Not Worn,22,0,1,0
+0,Non-Incapacitating Injury,13:15,0,3,15,0,Not Worn,13,15,1,0
+0,Non-Incapacitating Injury,2:25,2,1,15,0,Not Worn,2,25,1,0
+0,Non-Incapacitating Injury,17:39,2,1,30,0,Not Worn,17,39,1,0
+0,Possible Injury,8:39,3,1,30,0,Not Worn,8,39,1,0
+0,Non-Incapacitating Injury,13:13,1,2,30,0,Not Worn,13,13,1,0
+0,Non-Incapacitating Injury,8:46,4,1,30,0,"Worn, Not Damaged",8,46,1,1
+0,Possible Injury,19:05,4,3,15,5,Not Worn,19,5,1,0
+0,Possible Injury,19:05,4,3,15,5,Not Worn,19,5,1,0
+0,Non-Incapacitating Injury,4:00,0,2,30,6,"Worn, Not Damaged",4,0,1,1
+0,Non-Incapacitating Injury,17:11,0,1,15,0,Not Worn,17,11,1,0
+0,Non-Incapacitating Injury,13:17,0,1,15,0,Not Worn,13,17,1,0
+0,Non-Incapacitating Injury,11:46,2,1,40,0,Unknown If Worn,11,46,1,0
+0,Not Injured,14:04,6,1,30,0,Not Worn,14,4,0,0
+0,Non-Incapacitating Injury,18:19,4,1,35,0,"Worn, Not Damaged",18,19,1,1
+0,Non-Incapacitating Injury,20:13,0,3,50,0,Not Worn,20,13,1,0
+0,Non-Incapacitating Injury,14:35,0,1,30,0,Not Worn,14,35,1,0
+0,Possible Injury,18:14,3,1,35,0,"Worn, Not Damaged",18,14,1,1
+0,Not Injured,14:19,1,3,35,0,Not Worn,14,19,0,0
+0,Non-Incapacitating Injury,15:11,5,1,35,0,Unknown If Worn,15,11,1,0
+0,Non-Incapacitating Injury,21:51,6,1,15,6,Not Worn,21,51,1,0
+0,Non-Incapacitating Injury,12:12,4,2,30,0,Not Worn,12,12,1,0
+0,Non-Incapacitating Injury,7:52,4,2,15,0,Not Worn,7,52,1,0
+0,Non-Incapacitating Injury,9:20,4,2,35,0,Not Worn,9,20,1,0
+0,Non-Incapacitating Injury,23:14,0,1,35,0,Not Worn,23,14,1,0
+0,Non-Incapacitating Injury,19:57,2,1,30,0,Not Worn,19,57,1,0
+0,Non-Incapacitating Injury,12:16,3,1,45,5,Not Worn,12,16,1,0
+0,Possible Injury,16:47,1,1,15,0,Not Worn,16,47,1,0
+0,Non-Incapacitating Injury,15:33,1,1,35,0,Not Worn,15,33,1,0
+0,Non-Incapacitating Injury,12:09,1,1,35,0,Not Worn,12,9,1,0
+0,Non-Incapacitating Injury,17:07,5,1,30,0,Unknown If Worn,17,7,1,0
+0,Non-Incapacitating Injury,17:43,6,1,60,0,"Worn, Not Damaged",17,43,1,1
+0,Incapacitating Injury,18:23,6,2,15,0,Not Worn,18,23,1,0
+0,Non-Incapacitating Injury,7:05,4,1,30,0,"Worn, Not Damaged",7,5,1,1
+0,Incapacitating Injury,2:16,4,1,40,0,Unknown If Worn,2,16,1,0
+0,Not Injured,22:29,4,1,35,0,Not Worn,22,29,0,0
+0,Non-Incapacitating Injury,16:17,4,1,15,0,Not Worn,16,17,1,0
+0,Non-Incapacitating Injury,17:33,0,1,35,0,"Worn, Damaged",17,33,1,1
+0,Non-Incapacitating Injury,12:35,0,1,40,0,Not Worn,12,35,1,0
+0,Non-Incapacitating Injury,21:30,2,1,45,0,Not Worn,21,30,1,0
+0,Non-Incapacitating Injury,13:39,2,1,15,0,Not Worn,13,39,1,0
+0,Non-Incapacitating Injury,17:48,2,1,15,0,"Worn, Not Damaged",17,48,1,1
+0,Non-Incapacitating Injury,2:02,2,1,35,0,"Worn, Not Damaged",2,2,1,1
+0,Non-Incapacitating Injury,18:23,3,1,30,0,Not Worn,18,23,1,0
+0,Non-Incapacitating Injury,11:55,1,1,30,0,Not Worn,11,55,1,0
+0,Non-Incapacitating Injury,10:50,5,1,30,0,"Worn, Damaged",10,50,1,1
+0,Possible Injury,9:20,5,1,35,0,Unknown If Worn,9,20,1,0
+0,Incapacitating Injury,2:50,2,1,15,0,Not Worn,2,50,1,0
+0,Possible Injury,16:37,2,1,25,0,Unknown If Worn,16,37,1,0
+0,Non-Incapacitating Injury,12:52,5,1,45,0,"Worn, Not Damaged",12,52,1,1
+0,Non-Incapacitating Injury,10:39,4,1,35,0,Not Worn,10,39,1,0
+0,Non-Incapacitating Injury,22:04,1,1,35,0,Not Worn,22,4,1,0
+0,Non-Incapacitating Injury,11:41,6,1,40,0,"Worn, Unk Damage",11,41,1,1
+0,Non-Incapacitating Injury,16:39,6,2,15,0,Unknown If Worn,16,39,1,0
+0,Non-Incapacitating Injury,18:12,4,1,35,0,Not Worn,18,12,1,0
+0,Incapacitating Injury,18:21,6,1,30,0,Unknown If Worn,18,21,1,0
+0,Possible Injury,17:21,6,3,45,0,Unknown If Worn,17,21,1,0
+0,Non-Incapacitating Injury,18:53,4,1,35,0,Not Worn,18,53,1,0
+0,Non-Incapacitating Injury,6:29,2,1,15,0,"Worn, Not Damaged",6,29,1,1
+0,Incapacitating Injury,1:08,2,1,30,0,Not Worn,1,8,1,0
+0,Non-Incapacitating Injury,12:10,1,1,60,0,"Worn, Damaged",12,10,1,1
+0,Possible Injury,18:06,1,2,15,0,Not Worn,18,6,1,0
+0,Non-Incapacitating Injury,9:57,1,1,35,0,"Worn, Damaged",9,57,1,1
+0,Incapacitating Injury,12:16,6,1,30,0,Not Worn,12,16,1,0
+0,Non-Incapacitating Injury,3:35,0,1,60,6,Not Worn,3,35,1,0
+0,Non-Incapacitating Injury,17:46,0,2,35,0,Unknown If Worn,17,46,1,0
+0,Not Injured,1:42,3,1,30,0,Not Worn,1,42,0,0
+0,Non-Incapacitating Injury,22:25,5,1,25,0,"Worn, Not Damaged",22,25,1,1
+0,Possible Injury,17:22,6,1,15,0,"Worn, Not Damaged",17,22,1,1
+0,Incapacitating Injury,17:29,4,1,30,0,"Worn, Not Damaged",17,29,1,1
+0,Non-Incapacitating Injury,16:18,0,1,30,0,Not Worn,16,18,1,0
+0,Possible Injury,10:13,2,2,35,0,Unknown If Worn,10,13,1,0
+0,Possible Injury,18:12,1,1,15,0,Not Worn,18,12,1,0
+0,Possible Injury,19:38,5,1,40,0,"Worn, Not Damaged",19,38,1,1
+0,Non-Incapacitating Injury,8:33,6,1,40,0,"Worn, Unk Damage",8,33,1,1
+0,Non-Incapacitating Injury,23:02,2,1,15,0,Not Worn,23,2,1,0
+0,Non-Incapacitating Injury,15:56,2,2,20,0,Not Worn,15,56,1,0
+0,Non-Incapacitating Injury,11:08,3,2,15,6,Not Worn,11,8,1,0
+0,Non-Incapacitating Injury,10:58,5,2,30,0,Not Worn,10,58,1,0
+0,Non-Incapacitating Injury,19:00,5,1,40,0,Not Worn,19,0,1,0
+0,Possible Injury,8:27,0,1,15,0,Not Worn,8,27,1,0
+0,Non-Incapacitating Injury,18:34,0,1,35,0,"Worn, Unk Damage",18,34,1,1
+0,Not Injured,19:25,0,1,30,0,"Worn, Unk Damage",19,25,0,1
+0,Non-Incapacitating Injury,19:25,3,3,15,0,Not Worn,19,25,1,0
+0,Possible Injury,18:54,5,1,35,0,Not Worn,18,54,1,0
+0,Not Injured,14:05,6,1,30,0,Not Worn,14,5,0,0
+0,Non-Incapacitating Injury,17:29,6,1,25,0,"Worn, Not Damaged",17,29,1,1
+0,Non-Incapacitating Injury,18:25,4,1,35,0,Not Worn,18,25,1,0
+0,Non-Incapacitating Injury,15:10,4,1,35,0,Not Worn,15,10,1,0
+0,Non-Incapacitating Injury,8:37,0,1,30,6,"Worn, Unk Damage",8,37,1,1
+0,Non-Incapacitating Injury,10:42,2,3,45,0,"Worn, Unk Damage",10,42,1,1
+0,Possible Injury,15:59,1,1,35,0,Unknown If Worn,15,59,1,0
+0,Non-Incapacitating Injury,9:58,1,3,50,0,Not Worn,9,58,1,0
+0,Non-Incapacitating Injury,14:50,5,1,35,0,Not Worn,14,50,1,0
+0,Non-Incapacitating Injury,22:23,0,1,35,0,Not Worn,22,23,1,0
+0,Non-Incapacitating Injury,17:05,0,1,15,0,Not Worn,17,5,1,0
+0,Not Injured,8:27,0,1,15,0,"Worn, Not Damaged",8,27,0,1
+0,Possible Injury,5:39,2,3,15,0,Not Worn,5,39,1,0
+0,Non-Incapacitating Injury,11:12,2,1,15,0,"Worn, Not Damaged",11,12,1,1
+0,Non-Incapacitating Injury,2:21,2,1,30,0,Not Worn,2,21,1,0
+0,Non-Incapacitating Injury,2:21,2,1,30,0,Not Worn,2,21,1,0
+0,Non-Incapacitating Injury,2:21,2,1,30,0,Not Worn,2,21,1,0
+0,Non-Incapacitating Injury,2:21,2,1,30,0,Not Worn,2,21,1,0
+0,Non-Incapacitating Injury,17:33,1,1,45,0,Not Worn,17,33,1,0
+0,Non-Incapacitating Injury,13:48,6,1,35,0,Not Worn,13,48,1,0
+0,Possible Injury,7:19,4,1,15,0,"Worn, Not Damaged",7,19,1,1
+0,Non-Incapacitating Injury,9:06,0,1,15,0,Not Worn,9,6,1,0
+0,Non-Incapacitating Injury,15:08,2,1,35,0,Not Worn,15,8,1,0
+0,Non-Incapacitating Injury,9:01,1,1,30,0,Not Worn,9,1,1,0
+0,Non-Incapacitating Injury,9:31,3,1,45,6,"Worn, Not Damaged",9,31,1,1
+0,Incapacitating Injury,7:26,1,1,35,0,"Worn, Damaged",7,26,1,1
+0,Non-Incapacitating Injury,19:20,1,1,35,0,"Worn, Not Damaged",19,20,1,1
+0,Non-Incapacitating Injury,16:41,5,1,40,0,Not Worn,16,41,1,0
+0,Non-Incapacitating Injury,2:23,2,1,30,0,Unknown If Worn,2,23,1,0
+0,Non-Incapacitating Injury,17:12,2,1,30,0,Not Worn,17,12,1,0
+0,Non-Incapacitating Injury,15:01,2,1,30,0,"Worn, Damaged",15,1,1,1
+0,Non-Incapacitating Injury,16:00,2,3,45,0,"Worn, Damaged",16,0,1,1
+0,Incapacitating Injury,10:11,1,1,35,0,Not Worn,10,11,1,0
+0,Non-Incapacitating Injury,13:03,1,1,35,0,Not Worn,13,3,1,0
+0,Not Injured,12:00,1,1,30,0,Not Worn,12,0,0,0
+0,Non-Incapacitating Injury,17:43,6,1,40,0,Unknown If Worn,17,43,1,0
+0,Non-Incapacitating Injury,7:00,0,1,15,0,Not Worn,7,0,1,0
+0,Non-Incapacitating Injury,8:56,2,1,45,0,Not Worn,8,56,1,0
+0,Not Injured,12:59,2,1,35,0,Not Worn,12,59,0,0
+0,Possible Injury,19:52,2,1,15,0,Not Worn,19,52,1,0
+0,Possible Injury,12:00,3,1,15,0,Not Worn,12,0,1,0
+0,Possible Injury,8:00,6,2,15,0,Not Worn,8,0,1,0
+0,Non-Incapacitating Injury,17:21,6,1,35,0,Not Worn,17,21,1,0
+0,Non-Incapacitating Injury,17:55,4,1,30,0,"Worn, Not Damaged",17,55,1,1
+0,Non-Incapacitating Injury,14:00,3,1,15,0,Not Worn,14,0,1,0
+0,Non-Incapacitating Injury,7:41,1,1,30,0,Not Worn,7,41,1,0
+0,Non-Incapacitating Injury,20:10,6,1,15,0,Not Worn,20,10,1,0
+0,Non-Incapacitating Injury,12:55,4,2,15,0,Unknown If Worn,12,55,1,0
+0,Possible Injury,21:11,4,3,50,0,Not Worn,21,11,1,0
+0,Non-Incapacitating Injury,23:07,0,1,35,0,Unknown If Worn,23,7,1,0
+0,Non-Incapacitating Injury,18:37,1,1,30,0,"Worn, Unk Damage",18,37,1,1
+0,Non-Incapacitating Injury,22:28,5,1,35,0,Not Worn,22,28,1,0
+0,Non-Incapacitating Injury,19:51,5,1,45,0,Not Worn,19,51,1,0
+0,Non-Incapacitating Injury,8:24,6,3,45,0,Unknown If Worn,8,24,1,0
+0,Non-Incapacitating Injury,12:52,4,1,30,0,Not Worn,12,52,1,0
+0,Non-Incapacitating Injury,7:57,0,1,45,0,"Worn, Damaged",7,57,1,1
+0,Non-Incapacitating Injury,18:06,2,1,35,0,Not Worn,18,6,1,0
+0,Non-Incapacitating Injury,12:10,3,1,35,0,Not Worn,12,10,1,0
+0,Non-Incapacitating Injury,8:30,1,1,35,0,Not Worn,8,30,1,0
+0,Non-Incapacitating Injury,10:40,5,1,30,0,Not Worn,10,40,1,0
+0,Non-Incapacitating Injury,9:32,4,1,30,0,Not Worn,9,32,1,0
+0,Non-Incapacitating Injury,17:39,4,3,50,0,Not Worn,17,39,1,0
+0,Non-Incapacitating Injury,16:51,0,1,35,0,"Worn, Not Damaged",16,51,1,1
+0,Non-Incapacitating Injury,17:02,2,1,35,0,Not Worn,17,2,1,0
+0,Non-Incapacitating Injury,3:25,3,1,45,0,Not Worn,3,25,1,0
+0,Non-Incapacitating Injury,21:45,3,1,15,0,Not Worn,21,45,1,0
+0,Non-Incapacitating Injury,17:26,1,2,35,0,Not Worn,17,26,1,0
+0,Incapacitating Injury,18:05,6,1,55,0,Not Worn,18,5,1,0
+0,Non-Incapacitating Injury,22:30,6,1,40,0,"Worn, Unk Damage",22,30,1,1
+0,Possible Injury,8:31,4,1,30,0,Not Worn,8,31,1,0
+0,Not Injured,19:46,0,1,15,0,Not Worn,19,46,0,0
+0,Possible Injury,11:51,2,1,45,0,Not Worn,11,51,1,0
+0,Incapacitating Injury,12:58,2,1,15,6,"Worn, Not Damaged",12,58,1,1
+0,Incapacitating Injury,21:05,6,1,35,0,"Worn, Not Damaged",21,5,1,1
+0,Non-Incapacitating Injury,23:53,6,1,30,0,"Worn, Not Damaged",23,53,1,1
+0,Possible Injury,11:10,6,1,15,0,Not Worn,11,10,1,0
+0,Non-Incapacitating Injury,15:10,4,1,15,0,Not Worn,15,10,1,0
+0,Non-Incapacitating Injury,17:56,0,1,35,0,Not Worn,17,56,1,0
+0,Non-Incapacitating Injury,18:24,2,1,15,0,Not Worn,18,24,1,0
+0,Non-Incapacitating Injury,16:20,1,1,35,0,Not Worn,16,20,1,0
+0,Incapacitating Injury,17:22,5,1,35,0,Unknown If Worn,17,22,1,0
+0,Incapacitating Injury,8:28,5,2,15,0,Not Worn,8,28,1,0
+0,Non-Incapacitating Injury,7:42,6,1,30,0,Not Worn,7,42,1,0
+0,Non-Incapacitating Injury,18:42,4,3,15,0,"Worn, Damaged",18,42,1,1
+0,Non-Incapacitating Injury,20:15,4,1,15,0,Not Worn,20,15,1,0
+0,Non-Incapacitating Injury,20:38,3,1,30,0,Unknown If Worn,20,38,1,0
+0,Non-Incapacitating Injury,11:36,1,2,15,0,Not Worn,11,36,1,0
+0,Non-Incapacitating Injury,18:44,6,1,30,0,Not Worn,18,44,1,0
+0,Possible Injury,8:43,0,1,30,0,"Worn, Not Damaged",8,43,1,1
+0,Non-Incapacitating Injury,18:28,2,1,15,0,Unknown If Worn,18,28,1,0
+0,Non-Incapacitating Injury,9:51,2,1,60,0,"Worn, Damaged",9,51,1,1
+0,Possible Injury,13:00,3,3,45,0,Not Worn,13,0,1,0
+0,Incapacitating Injury,9:24,5,1,35,0,Not Worn,9,24,1,0
+0,Possible Injury,22:18,6,1,40,0,Not Worn,22,18,1,0
+0,Incapacitating Injury,8:08,0,1,35,6,Not Worn,8,8,1,0
+0,Non-Incapacitating Injury,13:54,0,1,15,6,Unknown If Worn,13,54,1,0
+0,Non-Incapacitating Injury,5:40,0,1,30,6,"Worn, Not Damaged",5,40,1,1
+0,Non-Incapacitating Injury,22:30,1,3,30,0,Not Worn,22,30,1,0
+0,Non-Incapacitating Injury,14:32,6,1,35,0,Not Worn,14,32,1,0
+0,Non-Incapacitating Injury,18:00,6,1,45,0,Not Worn,18,0,1,0
+0,Non-Incapacitating Injury,21:11,4,1,35,0,Not Worn,21,11,1,0
+0,Non-Incapacitating Injury,17:46,4,1,40,0,Unknown If Worn,17,46,1,0
+0,Possible Injury,8:35,4,1,40,0,"Worn, Unk Damage",8,35,1,1
+0,Possible Injury,18:44,0,1,30,0,"Worn, Not Damaged",18,44,1,1
+0,Non-Incapacitating Injury,12:17,0,1,35,0,Not Worn,12,17,1,0
+0,Possible Injury,12:43,2,1,30,0,"Worn, Not Damaged",12,43,1,1
+0,Killed,4:35,3,1,35,0,Not Worn,4,35,1,0
+0,Non-Incapacitating Injury,17:17,0,1,30,0,"Worn, Not Damaged",17,17,1,1
+0,Incapacitating Injury,13:05,2,1,30,0,"Worn, Not Damaged",13,5,1,1
+0,Non-Incapacitating Injury,17:56,5,1,15,0,Not Worn,17,56,1,0
+0,Non-Incapacitating Injury,16:49,6,1,30,0,Not Worn,16,49,1,0
+0,Non-Incapacitating Injury,6:06,4,1,15,0,Unknown If Worn,6,6,1,0
+0,Non-Incapacitating Injury,9:54,0,1,50,0,Not Worn,9,54,1,0
+0,Non-Incapacitating Injury,18:03,0,1,30,0,Not Worn,18,3,1,0
+0,Non-Incapacitating Injury,15:30,2,1,40,0,Not Worn,15,30,1,0
+0,Incapacitating Injury,11:10,2,1,55,0,"Worn, Not Damaged",11,10,1,1
+0,Possible Injury,16:51,2,1,35,0,Unknown If Worn,16,51,1,0
+0,Non-Incapacitating Injury,2:26,2,1,15,0,"Worn, Damaged",2,26,1,1
+0,Possible Injury,21:59,2,1,35,0,Not Worn,21,59,1,0
+0,Non-Incapacitating Injury,13:25,1,1,30,0,Not Worn,13,25,1,0
+0,Non-Incapacitating Injury,15:36,5,1,30,0,Not Worn,15,36,1,0
+0,Non-Incapacitating Injury,19:50,4,1,25,0,Not Worn,19,50,1,0
+0,Non-Incapacitating Injury,8:37,4,1,40,0,Not Worn,8,37,1,0
+0,Possible Injury,10:08,0,1,30,0,"Worn, Not Damaged",10,8,1,1
+0,Incapacitating Injury,4:31,0,1,30,0,Not Worn,4,31,1,0
+0,Not Injured,15:40,2,2,15,0,Not Worn,15,40,0,0
+0,Incapacitating Injury,21:31,3,1,35,0,Not Worn,21,31,1,0
+0,Possible Injury,7:27,1,1,35,0,Not Worn,7,27,1,0
+0,Non-Incapacitating Injury,11:12,1,1,40,0,Not Worn,11,12,1,0
+0,Non-Incapacitating Injury,14:17,1,1,35,0,Not Worn,14,17,1,0
+0,Non-Incapacitating Injury,17:38,1,1,35,0,"Worn, Damaged",17,38,1,1
+0,Possible Injury,13:45,2,1,55,0,Not Worn,13,45,1,0
+0,Not Injured,19:21,2,1,35,0,Not Worn,19,21,0,0
+0,Not Injured,19:21,2,1,35,0,Unknown If Worn,19,21,0,0
+0,Not Injured,19:21,2,1,35,0,Unknown If Worn,19,21,0,0
+0,Possible Injury,17:48,3,2,15,0,Not Worn,17,48,1,0
+0,Possible Injury,21:11,3,3,15,0,Not Worn,21,11,1,0
+0,Possible Injury,14:05,5,2,30,0,Not Worn,14,5,1,0
+0,Non-Incapacitating Injury,19:03,5,1,35,0,Not Worn,19,3,1,0
+0,Non-Incapacitating Injury,11:04,5,1,15,0,"Worn, Not Damaged",11,4,1,1
+0,Non-Incapacitating Injury,22:29,4,1,15,0,Not Worn,22,29,1,0
+0,Non-Incapacitating Injury,17:39,4,1,30,0,"Worn, Damaged",17,39,1,1
+0,Possible Injury,2:41,0,1,15,6,Not Worn,2,41,1,0
+0,Possible Injury,2:41,0,1,15,6,Not Worn,2,41,1,0
+0,Non-Incapacitating Injury,17:12,2,1,15,0,Not Worn,17,12,1,0
+0,Incapacitating Injury,18:19,1,1,35,0,Unknown If Worn,18,19,1,0
+0,Possible Injury,8:26,1,1,35,0,Unknown If Worn,8,26,1,0
+0,Non-Incapacitating Injury,16:58,0,1,35,0,"Worn, Not Damaged",16,58,1,1
+0,Non-Incapacitating Injury,10:14,0,1,30,0,Not Worn,10,14,1,0
+0,Non-Incapacitating Injury,18:58,0,1,35,0,"Worn, Not Damaged",18,58,1,1
+0,Non-Incapacitating Injury,6:39,0,1,45,0,"Worn, Damaged",6,39,1,1
+0,Non-Incapacitating Injury,13:35,1,1,35,0,Not Worn,13,35,1,0
+0,Non-Incapacitating Injury,18:40,5,1,15,0,Unknown If Worn,18,40,1,0
+0,Possible Injury,9:30,5,1,60,0,Not Worn,9,30,1,0
+0,Non-Incapacitating Injury,14:17,6,1,45,0,Unknown If Worn,14,17,1,0
+0,Non-Incapacitating Injury,18:43,4,1,35,0,Not Worn,18,43,1,0
+0,Possible Injury,8:12,0,1,35,0,Unknown If Worn,8,12,1,0
+0,Non-Incapacitating Injury,16:20,0,1,40,0,Not Worn,16,20,1,0
+0,Non-Incapacitating Injury,17:37,3,2,15,0,Not Worn,17,37,1,0
+0,Possible Injury,11:47,1,1,15,0,Not Worn,11,47,1,0
+0,Non-Incapacitating Injury,17:59,5,1,15,0,"Worn, Not Damaged",17,59,1,1
+0,Non-Incapacitating Injury,23:37,0,1,35,0,Not Worn,23,37,1,0
+0,Non-Incapacitating Injury,7:59,5,1,40,0,"Worn, Not Damaged",7,59,1,1
+0,Non-Incapacitating Injury,11:01,5,1,30,0,Not Worn,11,1,1,0
+0,Non-Incapacitating Injury,12:04,3,1,30,0,Not Worn,12,4,1,0
+0,Non-Incapacitating Injury,17:48,3,1,35,0,Not Worn,17,48,1,0
+0,Non-Incapacitating Injury,18:52,5,1,30,0,"Worn, Not Damaged",18,52,1,1
+0,Non-Incapacitating Injury,14:57,5,1,35,0,Not Worn,14,57,1,0
+0,Possible Injury,17:38,6,1,35,0,Not Worn,17,38,1,0
+0,Non-Incapacitating Injury,16:02,6,1,15,0,Unknown If Worn,16,2,1,0
+0,Non-Incapacitating Injury,12:34,0,1,40,0,Not Worn,12,34,1,0
+0,Incapacitating Injury,19:15,3,1,40,0,"Worn, Not Damaged",19,15,1,1
+0,Incapacitating Injury,18:00,3,1,35,0,Not Worn,18,0,1,0
+0,Not Injured,16:29,5,1,40,0,Unknown If Worn,16,29,0,0
+0,Non-Incapacitating Injury,18:03,5,1,15,0,Not Worn,18,3,1,0
+0,Non-Incapacitating Injury,19:24,4,1,30,0,"Worn, Not Damaged",19,24,1,1
+0,Non-Incapacitating Injury,19:19,2,1,35,0,Not Worn,19,19,1,0
+0,Possible Injury,16:36,3,2,15,0,Not Worn,16,36,1,0
+0,Not Injured,13:18,3,1,30,0,"Worn, Not Damaged",13,18,0,1
+0,Possible Injury,7:40,1,3,55,0,Not Worn,7,40,1,0
+0,Non-Incapacitating Injury,17:10,5,1,30,0,Not Worn,17,10,1,0
+0,Possible Injury,19:00,4,1,40,0,"Worn, Not Damaged",19,0,1,1
+0,Non-Incapacitating Injury,7:54,0,1,15,0,"Worn, Damaged",7,54,1,1
+0,Possible Injury,7:00,0,1,45,0,Unknown If Worn,7,0,1,0
+0,Possible Injury,14:25,2,1,40,0,"Worn, Not Damaged",14,25,1,1
+0,Possible Injury,2:27,2,1,35,6,Not Worn,2,27,1,0
+0,Possible Injury,2:27,2,1,35,6,Unknown If Worn,2,27,1,0
+0,Possible Injury,11:47,3,2,15,0,Not Worn,11,47,1,0
+0,Non-Incapacitating Injury,15:16,3,1,35,0,Not Worn,15,16,1,0
+0,Non-Incapacitating Injury,12:21,1,1,30,0,Not Worn,12,21,1,0
+0,Possible Injury,11:17,6,1,15,0,"Worn, Not Damaged",11,17,1,1
+0,Possible Injury,7:25,6,1,20,0,Not Worn,7,25,1,0
+0,Non-Incapacitating Injury,15:32,0,1,35,0,Not Worn,15,32,1,0
+0,Non-Incapacitating Injury,14:18,2,2,35,0,Not Worn,14,18,1,0
+0,Non-Incapacitating Injury,2:44,5,1,35,6,Not Worn,2,44,1,0
+0,Non-Incapacitating Injury,2:44,5,1,35,6,Not Worn,2,44,1,0
+0,Non-Incapacitating Injury,2:44,5,1,35,6,Not Worn,2,44,1,0
+0,Non-Incapacitating Injury,2:44,5,1,35,6,Not Worn,2,44,1,0
+0,Incapacitating Injury,22:59,6,1,50,0,Not Worn,22,59,1,0
+0,Possible Injury,11:24,2,1,15,0,"Worn, Unk Damage",11,24,1,1
+0,Possible Injury,14:07,1,1,15,0,"Worn, Not Damaged",14,7,1,1
+0,Incapacitating Injury,19:15,1,1,15,0,Not Worn,19,15,1,0
+0,Non-Incapacitating Injury,18:27,4,1,65,0,Not Worn,18,27,1,0
+0,Non-Incapacitating Injury,6:36,2,3,55,6,"Worn, Not Damaged",6,36,1,1
+0,Non-Incapacitating Injury,14:37,4,1,30,0,Not Worn,14,37,1,0
+0,Non-Incapacitating Injury,17:12,3,1,45,0,Not Worn,17,12,1,0
+0,Non-Incapacitating Injury,16:22,3,1,30,0,Unknown If Worn,16,22,1,0
+0,Non-Incapacitating Injury,16:09,1,2,15,0,Not Worn,16,9,1,0
+0,Non-Incapacitating Injury,15:57,5,1,15,0,"Worn, Damaged",15,57,1,1
+0,Possible Injury,20:11,6,1,30,0,"Worn, Not Damaged",20,11,1,1
+0,Non-Incapacitating Injury,7:11,6,1,35,0,Not Worn,7,11,1,0
+0,Incapacitating Injury,22:42,4,1,30,0,Not Worn,22,42,1,0
+0,Non-Incapacitating Injury,18:18,2,1,15,0,Unknown If Worn,18,18,1,0
+0,Non-Incapacitating Injury,12:09,2,1,30,0,Not Worn,12,9,1,0
+0,Non-Incapacitating Injury,17:11,1,1,30,0,Unknown If Worn,17,11,1,0
+0,Non-Incapacitating Injury,9:14,5,1,15,0,Not Worn,9,14,1,0
+0,Non-Incapacitating Injury,16:45,6,1,30,0,Not Worn,16,45,1,0
+0,Non-Incapacitating Injury,16:43,6,1,30,0,Unknown If Worn,16,43,1,0
+0,Non-Incapacitating Injury,8:30,4,3,55,0,Not Worn,8,30,1,0
+0,Non-Incapacitating Injury,12:25,0,1,15,0,Not Worn,12,25,1,0
+0,Non-Incapacitating Injury,15:44,1,1,30,0,"Worn, Damaged",15,44,1,1
+0,Non-Incapacitating Injury,16:55,1,1,30,0,Not Worn,16,55,1,0
+0,Possible Injury,13:41,1,1,35,0,Not Worn,13,41,1,0
+0,Non-Incapacitating Injury,8:13,4,1,30,0,Not Worn,8,13,1,0
+0,Non-Incapacitating Injury,11:40,4,1,45,0,Not Worn,11,40,1,0
+0,Non-Incapacitating Injury,15:17,4,3,15,0,Not Worn,15,17,1,0
+0,Incapacitating Injury,8:47,0,1,30,0,"Worn, Unk Damage",8,47,1,1
+0,Possible Injury,17:26,5,1,30,0,"Worn, Damaged",17,26,1,1
+0,Incapacitating Injury,11:46,5,1,15,0,Unknown If Worn,11,46,1,0
+0,Incapacitating Injury,17:32,6,1,35,0,"Worn, Unk Damage",17,32,1,1
+0,Incapacitating Injury,10:58,6,1,30,0,Not Worn,10,58,1,0
+0,Non-Incapacitating Injury,8:22,0,1,30,0,"Worn, Damaged",8,22,1,1
+0,Non-Incapacitating Injury,15:26,1,1,35,0,Unknown If Worn,15,26,1,0
+0,Non-Incapacitating Injury,15:40,5,1,15,0,"Worn, Not Damaged",15,40,1,1
+0,Possible Injury,20:10,5,1,30,0,"Worn, Unk Damage",20,10,1,1
+0,Non-Incapacitating Injury,12:22,2,1,30,0,"Worn, Damaged",12,22,1,1
+0,Possible Injury,16:45,2,1,35,0,Not Worn,16,45,1,0
+0,Non-Incapacitating Injury,13:00,2,1,45,0,"Worn, Unk Damage",13,0,1,1
+0,Non-Incapacitating Injury,7:16,1,1,35,0,Not Worn,7,16,1,0
+0,Non-Incapacitating Injury,1:14,5,1,35,0,Not Worn,1,14,1,0
+0,Non-Incapacitating Injury,16:08,6,1,30,0,Not Worn,16,8,1,0
+0,Non-Incapacitating Injury,14:25,3,1,15,0,Not Worn,14,25,1,0
+0,Non-Incapacitating Injury,19:44,1,1,15,0,Not Worn,19,44,1,0
+0,Non-Incapacitating Injury,13:59,5,3,40,0,Not Worn,13,59,1,0
+0,Possible Injury,17:47,6,1,30,0,Not Worn,17,47,1,0
+0,Non-Incapacitating Injury,15:04,2,1,15,0,Unknown If Worn,15,4,1,0
+0,Non-Incapacitating Injury,15:48,5,1,15,0,Not Worn,15,48,1,0
+0,Non-Incapacitating Injury,17:07,5,2,15,0,Not Worn,17,7,1,0
+0,Non-Incapacitating Injury,13:57,6,1,35,0,Not Worn,13,57,1,0
+0,Possible Injury,1:56,4,1,30,0,Unknown If Worn,1,56,1,0
+0,Incapacitating Injury,17:08,4,1,15,0,Unknown If Worn,17,8,1,0
+0,Non-Incapacitating Injury,22:33,0,1,30,0,Not Worn,22,33,1,0
+0,Non-Incapacitating Injury,14:48,0,1,15,0,Not Worn,14,48,1,0
+0,Non-Incapacitating Injury,12:40,2,1,15,0,Not Worn,12,40,1,0
+0,Incapacitating Injury,8:37,2,1,15,0,"Worn, Unk Damage",8,37,1,1
+0,Non-Incapacitating Injury,19:00,2,1,15,0,Not Worn,19,0,1,0
+0,Incapacitating Injury,18:55,3,3,15,0,Not Worn,18,55,1,0
+0,Possible Injury,2:47,3,1,35,0,Not Worn,2,47,1,0
+0,Possible Injury,19:06,3,1,40,0,Not Worn,19,6,1,0
+0,Non-Incapacitating Injury,20:15,5,2,15,0,Not Worn,20,15,1,0
+0,Non-Incapacitating Injury,14:45,6,1,55,0,Unknown If Worn,14,45,1,0
+0,Possible Injury,20:38,0,1,30,0,Not Worn,20,38,1,0
+0,Non-Incapacitating Injury,16:10,0,1,15,0,Not Worn,16,10,1,0
+0,Non-Incapacitating Injury,17:00,2,1,35,0,"Worn, Damaged",17,0,1,1
+0,Non-Incapacitating Injury,15:05,5,1,40,0,Not Worn,15,5,1,0
+0,Possible Injury,14:24,5,3,55,0,Not Worn,14,24,1,0
+0,Non-Incapacitating Injury,14:36,0,2,40,0,Not Worn,14,36,1,0
+0,Non-Incapacitating Injury,18:30,0,1,30,0,Not Worn,18,30,1,0
+0,Non-Incapacitating Injury,16:36,2,1,35,0,Not Worn,16,36,1,0
+0,Possible Injury,19:54,2,1,15,0,Not Worn,19,54,1,0
+0,Non-Incapacitating Injury,23:48,3,2,15,0,Not Worn,23,48,1,0
+0,Non-Incapacitating Injury,17:00,5,3,40,6,Not Worn,17,0,1,0
+0,Non-Incapacitating Injury,18:14,4,1,15,0,Not Worn,18,14,1,0
+0,Non-Incapacitating Injury,9:31,0,1,30,0,Not Worn,9,31,1,0
+0,Non-Incapacitating Injury,9:31,0,1,30,0,Not Worn,9,31,1,0
+0,Non-Incapacitating Injury,16:48,3,1,35,0,Not Worn,16,48,1,0
+0,Non-Incapacitating Injury,21:33,3,1,30,0,"Worn, Not Damaged",21,33,1,1
+0,Non-Incapacitating Injury,19:37,1,1,25,0,"Worn, Not Damaged",19,37,1,1
+0,Non-Incapacitating Injury,19:00,5,1,30,0,Unknown If Worn,19,0,1,0
+0,Possible Injury,14:14,6,1,15,0,Not Worn,14,14,1,0
+0,Non-Incapacitating Injury,2:25,3,2,35,0,Not Worn,2,25,1,0
+0,Non-Incapacitating Injury,2:25,3,2,35,0,Not Worn,2,25,1,0
+0,Non-Incapacitating Injury,2:25,3,2,35,0,Not Worn,2,25,1,0
+0,Possible Injury,19:02,1,1,30,0,Not Worn,19,2,1,0
+0,Possible Injury,13:17,6,1,15,0,"Worn, Unk Damage",13,17,1,1
+0,Possible Injury,17:15,4,1,30,0,"Worn, Unk Damage",17,15,1,1
+0,Non-Incapacitating Injury,16:15,0,1,30,0,"Worn, Damaged",16,15,1,1
+0,Possible Injury,17:37,0,1,30,0,"Worn, Damaged",17,37,1,1
+0,Non-Incapacitating Injury,2:13,3,1,15,0,Not Worn,2,13,1,0
+0,Possible Injury,14:17,3,1,15,0,Not Worn,14,17,1,0
+0,Non-Incapacitating Injury,19:30,1,1,15,0,"Worn, Not Damaged",19,30,1,1
+0,Incapacitating Injury,18:38,1,1,35,0,"Worn, Damaged",18,38,1,1
+0,Non-Incapacitating Injury,10:15,1,1,40,0,"Worn, Damaged",10,15,1,1
+0,Non-Incapacitating Injury,19:52,5,1,40,0,Unknown If Worn,19,52,1,0
+0,Non-Incapacitating Injury,9:06,5,1,35,0,"Worn, Not Damaged",9,6,1,1
+0,Possible Injury,15:27,5,1,15,0,Unknown If Worn,15,27,1,0
+0,Non-Incapacitating Injury,8:37,4,1,30,0,Not Worn,8,37,1,0
+0,Non-Incapacitating Injury,15:40,0,1,25,0,Not Worn,15,40,1,0
+0,Non-Incapacitating Injury,16:16,0,1,45,6,Not Worn,16,16,1,0
+0,Not Injured,15:29,2,1,35,0,Not Worn,15,29,0,0
+0,Non-Incapacitating Injury,16:56,1,1,15,0,"Worn, Not Damaged",16,56,1,1
+0,Non-Incapacitating Injury,20:19,5,1,35,0,Not Worn,20,19,1,0
+0,Possible Injury,8:42,6,3,45,0,Not Worn,8,42,1,0
+0,Possible Injury,19:31,6,1,35,0,Not Worn,19,31,1,0
+0,Non-Incapacitating Injury,14:53,0,3,45,0,Not Worn,14,53,1,0
+0,Non-Incapacitating Injury,6:17,2,1,15,0,Not Worn,6,17,1,0
+0,Incapacitating Injury,20:46,3,1,30,0,Not Worn,20,46,1,0
+0,Non-Incapacitating Injury,14:30,3,1,25,0,Not Worn,14,30,1,0
+0,Non-Incapacitating Injury,8:06,3,3,45,0,"Worn, Unk Damage",8,6,1,1
+0,Non-Incapacitating Injury,12:04,1,2,15,0,Unknown If Worn,12,4,1,0
+0,Non-Incapacitating Injury,16:25,5,2,15,0,"Worn, Not Damaged",16,25,1,1
+0,Non-Incapacitating Injury,12:39,0,1,35,0,"Worn, Not Damaged",12,39,1,1
+0,Non-Incapacitating Injury,7:05,1,3,30,0,Not Worn,7,5,1,0
+0,Non-Incapacitating Injury,10:13,1,1,35,0,Not Worn,10,13,1,0
+0,Non-Incapacitating Injury,19:13,5,1,65,0,"Worn, Unk Damage",19,13,1,1
+0,Incapacitating Injury,21:58,4,1,15,0,Not Worn,21,58,1,0
+0,Non-Incapacitating Injury,16:30,4,3,45,0,Not Worn,16,30,1,0
+0,Incapacitating Injury,17:18,0,1,40,0,Not Worn,17,18,1,0
+0,Non-Incapacitating Injury,9:01,0,1,15,0,Not Worn,9,1,1,0
+0,Non-Incapacitating Injury,21:30,0,2,15,0,Unknown If Worn,21,30,1,0
+0,Non-Incapacitating Injury,12:51,2,3,35,0,"Worn, Not Damaged",12,51,1,1
+0,Incapacitating Injury,10:05,2,1,15,0,"Worn, Damaged",10,5,1,1
+0,Non-Incapacitating Injury,4:25,3,1,35,0,Not Worn,4,25,1,0
+0,Incapacitating Injury,17:08,1,1,35,0,Not Worn,17,8,1,0
+0,Possible Injury,17:18,5,1,60,0,"Worn, Not Damaged",17,18,1,1
+0,Non-Incapacitating Injury,7:34,6,1,60,0,"Worn, Damaged",7,34,1,1
+0,Incapacitating Injury,19:04,6,1,35,0,"Worn, Unk Damage",19,4,1,1
+0,Not Injured,17:34,4,1,45,0,"Worn, Not Damaged",17,34,0,1
+0,Non-Incapacitating Injury,15:55,4,1,35,0,"Worn, Not Damaged",15,55,1,1
+0,Non-Incapacitating Injury,17:53,4,1,35,0,"Worn, Unk Damage",17,53,1,1
+0,Non-Incapacitating Injury,13:58,1,1,15,0,Not Worn,13,58,1,0
+0,Not Injured,13:22,5,1,45,0,Not Worn,13,22,0,0
+0,Non-Incapacitating Injury,17:40,6,1,30,0,Unknown If Worn,17,40,1,0
+0,Non-Incapacitating Injury,22:33,6,1,35,0,Not Worn,22,33,1,0
+0,Possible Injury,19:22,2,1,25,0,Not Worn,19,22,1,0
+0,Non-Incapacitating Injury,23:17,2,1,15,0,Not Worn,23,17,1,0
+0,Non-Incapacitating Injury,14:13,2,1,15,0,Not Worn,14,13,1,0
+0,Possible Injury,12:15,3,1,35,0,Not Worn,12,15,1,0
+0,Non-Incapacitating Injury,22:00,3,1,15,0,"Worn, Unk Damage",22,0,1,1
+0,Possible Injury,22:10,1,1,35,0,Not Worn,22,10,1,0
+0,Not Injured,14:34,6,2,15,0,Unknown If Worn,14,34,0,0
+0,Non-Incapacitating Injury,16:37,3,1,25,0,Unknown If Worn,16,37,1,0
+0,Non-Incapacitating Injury,21:20,3,1,15,0,Unknown If Worn,21,20,1,0
+0,Non-Incapacitating Injury,2:12,3,1,30,0,Not Worn,2,12,1,0
+0,Non-Incapacitating Injury,17:01,5,1,30,0,Not Worn,17,1,1,0
+0,Incapacitating Injury,11:13,5,1,15,0,"Worn, Unk Damage",11,13,1,1
+0,Non-Incapacitating Injury,18:14,5,3,15,0,Not Worn,18,14,1,0
+0,Non-Incapacitating Injury,18:02,4,1,55,0,"Worn, Not Damaged",18,2,1,1
+0,Non-Incapacitating Injury,19:05,0,1,30,0,Not Worn,19,5,1,0
+0,Incapacitating Injury,13:51,2,1,15,0,Not Worn,13,51,1,0
+0,Possible Injury,12:05,3,1,35,0,Unknown If Worn,12,5,1,0
+0,Non-Incapacitating Injury,17:56,1,1,35,0,Unknown If Worn,17,56,1,0
+0,Incapacitating Injury,16:04,5,1,55,0,"Worn, Damaged",16,4,1,1
+0,Killed,10:45,5,1,40,0,Not Worn,10,45,1,0
+0,Incapacitating Injury,14:27,0,2,15,0,Not Worn,14,27,1,0
+0,Possible Injury,20:14,0,2,15,0,Unknown If Worn,20,14,1,0
+0,Non-Incapacitating Injury,21:01,0,1,15,0,Unknown If Worn,21,1,1,0
+0,Non-Incapacitating Injury,11:30,2,1,35,0,"Worn, Not Damaged",11,30,1,1
+0,Non-Incapacitating Injury,15:20,2,1,30,5,Unknown If Worn,15,20,1,0
+0,Non-Incapacitating Injury,11:07,1,1,35,0,Not Worn,11,7,1,0
+0,Non-Incapacitating Injury,11:07,1,1,35,0,Not Worn,11,7,1,0
+0,Non-Incapacitating Injury,6:52,6,1,35,0,Not Worn,6,52,1,0
+0,Non-Incapacitating Injury,17:20,4,2,15,0,"Worn, Not Damaged",17,20,1,1
+0,Non-Incapacitating Injury,15:12,3,1,35,0,"Worn, Damaged",15,12,1,1
+0,Non-Incapacitating Injury,22:58,3,1,30,0,Not Worn,22,58,1,0
+0,Non-Incapacitating Injury,12:56,1,1,35,0,"Worn, Unk Damage",12,56,1,1
+0,Incapacitating Injury,10:54,1,1,15,0,"Worn, Not Damaged",10,54,1,1
+0,Non-Incapacitating Injury,9:01,5,1,35,0,Not Worn,9,1,1,0
+0,Non-Incapacitating Injury,1:40,6,1,35,0,Not Worn,1,40,1,0
+0,Not Injured,21:59,4,1,15,0,"Worn, Not Damaged",21,59,0,1
+0,Non-Incapacitating Injury,22:17,4,1,35,0,Not Worn,22,17,1,0
+0,Non-Incapacitating Injury,22:17,4,1,35,0,Unknown If Worn,22,17,1,0
+0,Non-Incapacitating Injury,22:17,4,1,35,0,Unknown If Worn,22,17,1,0
+0,Non-Incapacitating Injury,9:28,4,1,25,0,"Worn, Not Damaged",9,28,1,1
+0,Non-Incapacitating Injury,11:55,0,1,30,0,"Worn, Not Damaged",11,55,1,1
+0,Non-Incapacitating Injury,11:20,0,1,35,0,Not Worn,11,20,1,0
+0,Non-Incapacitating Injury,12:49,2,1,35,0,"Worn, Damaged",12,49,1,1
+0,Non-Incapacitating Injury,17:30,3,1,30,0,"Worn, Not Damaged",17,30,1,1
+0,Non-Incapacitating Injury,8:04,3,1,30,0,"Worn, Damaged",8,4,1,1
+0,Incapacitating Injury,9:42,5,1,30,0,"Worn, Damaged",9,42,1,1
+0,Non-Incapacitating Injury,10:12,0,1,35,0,"Worn, Not Damaged",10,12,1,1
+0,Non-Incapacitating Injury,12:06,0,1,30,0,"Worn, Damaged",12,6,1,1
+0,Possible Injury,13:11,0,1,30,0,Not Worn,13,11,1,0
+0,Non-Incapacitating Injury,4:18,3,1,40,0,Not Worn,4,18,1,0
+0,Non-Incapacitating Injury,11:10,1,1,30,6,Not Worn,11,10,1,0
+0,Not Injured,21:00,5,1,15,6,Unknown If Worn,21,0,0,0
+0,Non-Incapacitating Injury,12:27,5,1,30,0,Unknown If Worn,12,27,1,0
+0,Non-Incapacitating Injury,18:06,4,1,35,0,"Worn, Not Damaged",18,6,1,1
+0,Non-Incapacitating Injury,1:03,0,1,40,0,"Worn, Damaged",1,3,1,1
+0,Non-Incapacitating Injury,15:44,0,1,45,0,Unknown If Worn,15,44,1,0
+0,Not Injured,22:26,0,1,15,0,Unknown If Worn,22,26,0,0
+0,Non-Incapacitating Injury,14:57,3,1,15,0,Unknown If Worn,14,57,1,0
+0,Possible Injury,19:30,3,1,35,0,Not Worn,19,30,1,0
+0,Non-Incapacitating Injury,9:49,1,1,30,0,Not Worn,9,49,1,0
+0,Possible Injury,13:22,6,1,45,0,Not Worn,13,22,1,0
+0,Possible Injury,23:02,6,2,45,0,Unknown If Worn,23,2,1,0
+0,Possible Injury,11:03,6,2,15,0,Not Worn,11,3,1,0
+0,Possible Injury,11:03,6,2,15,0,Not Worn,11,3,1,0
+0,Incapacitating Injury,18:40,4,1,30,0,Unknown If Worn,18,40,1,0
+0,Non-Incapacitating Injury,9:49,0,1,35,0,Not Worn,9,49,1,0
+0,Possible Injury,11:53,0,1,35,0,Not Worn,11,53,1,0
+0,Non-Incapacitating Injury,10:50,0,1,35,0,Not Worn,10,50,1,0
+0,Non-Incapacitating Injury,18:21,4,1,30,0,Not Worn,18,21,1,0
+0,Non-Incapacitating Injury,10:08,2,1,30,0,Unknown If Worn,10,8,1,0
+0,Non-Incapacitating Injury,2:27,2,1,45,0,Not Worn,2,27,1,0
+0,Non-Incapacitating Injury,19:25,3,1,15,0,Unknown If Worn,19,25,1,0
+0,Possible Injury,8:45,5,1,15,0,"Worn, Not Damaged",8,45,1,1
+0,Non-Incapacitating Injury,21:40,6,1,15,0,Unknown If Worn,21,40,1,0
+0,Non-Incapacitating Injury,21:40,6,1,15,0,Unknown If Worn,21,40,1,0
+0,Non-Incapacitating Injury,21:14,4,1,35,6,"Worn, Not Damaged",21,14,1,1
+0,Non-Incapacitating Injury,21:14,4,1,35,6,Not Worn,21,14,1,0
+0,Non-Incapacitating Injury,20:45,4,1,15,6,Unknown If Worn,20,45,1,0
+0,Non-Incapacitating Injury,20:45,4,1,15,6,Not Worn,20,45,1,0
+0,Non-Incapacitating Injury,19:36,0,1,30,3,"Worn, Not Damaged",19,36,1,1
+0,Non-Incapacitating Injury,22:37,3,1,15,0,"Worn, Unk Damage",22,37,1,1
+0,Non-Incapacitating Injury,6:15,4,1,40,0,Unknown If Worn,6,15,1,0
+0,Non-Incapacitating Injury,21:11,0,1,40,0,Unknown If Worn,21,11,1,0
+0,Non-Incapacitating Injury,17:51,3,1,35,0,"Worn, Not Damaged",17,51,1,1
+0,Non-Incapacitating Injury,2:43,3,1,30,0,Unknown If Worn,2,43,1,0
+0,Non-Incapacitating Injury,2:43,3,1,30,0,Not Worn,2,43,1,0
+0,Non-Incapacitating Injury,11:50,6,1,15,0,Unknown If Worn,11,50,1,0
+0,Non-Incapacitating Injury,16:40,0,1,35,0,"Worn, Not Damaged",16,40,1,1
+0,Possible Injury,18:34,1,1,35,0,Not Worn,18,34,1,0
+0,Non-Incapacitating Injury,19:33,5,1,45,0,Unknown If Worn,19,33,1,0
+0,Possible Injury,14:23,4,1,15,0,Unknown If Worn,14,23,1,0
+0,Non-Incapacitating Injury,8:56,4,1,15,0,Not Worn,8,56,1,0
+0,Not Injured,17:42,4,1,15,0,Unknown If Worn,17,42,0,0
+0,Non-Incapacitating Injury,13:08,1,1,30,0,Unknown If Worn,13,8,1,0
+0,Possible Injury,8:15,6,1,15,0,Not Worn,8,15,1,0
+0,Possible Injury,8:45,4,1,15,0,Not Worn,8,45,1,0
+0,Non-Incapacitating Injury,12:37,0,1,30,0,Not Worn,12,37,1,0
+0,Non-Incapacitating Injury,8:41,0,1,35,0,"Worn, Not Damaged",8,41,1,1
+0,Not Injured,9:48,0,1,45,0,"Worn, Not Damaged",9,48,0,1
+0,Incapacitating Injury,10:15,1,3,50,0,Not Worn,10,15,1,0
+0,Non-Incapacitating Injury,22:40,1,1,15,0,Not Worn,22,40,1,0
+0,Non-Incapacitating Injury,8:27,5,1,35,0,Unknown If Worn,8,27,1,0
+0,Non-Incapacitating Injury,9:00,5,1,40,0,Not Worn,9,0,1,0
+0,Non-Incapacitating Injury,16:35,5,1,15,0,Unknown If Worn,16,35,1,0
+0,Non-Incapacitating Injury,6:50,6,1,30,0,Not Worn,6,50,1,0
+0,Possible Injury,17:08,6,3,15,0,Unknown If Worn,17,8,1,0
+0,Possible Injury,17:36,6,1,15,0,"Worn, Unk Damage",17,36,1,1
+0,Incapacitating Injury,8:43,6,1,15,0,Not Worn,8,43,1,0
+0,Non-Incapacitating Injury,17:46,2,1,35,0,Not Worn,17,46,1,0
+0,Possible Injury,9:23,5,1,15,0,"Worn, Damaged",9,23,1,1
+0,Possible Injury,19:46,5,1,35,0,Unknown If Worn,19,46,1,0
+0,Non-Incapacitating Injury,7:57,6,1,30,0,Not Worn,7,57,1,0
+0,Possible Injury,15:01,6,1,15,0,Unknown If Worn,15,1,1,0
+0,Not Injured,17:18,4,1,45,0,Unknown If Worn,17,18,0,0
+0,Non-Incapacitating Injury,23:13,0,1,15,0,Not Worn,23,13,1,0
+0,Not Injured,2:52,2,1,15,0,Unknown If Worn,2,52,0,0
+0,Non-Incapacitating Injury,18:18,3,1,15,0,Not Worn,18,18,1,0
+0,Possible Injury,21:28,3,1,35,0,"Worn, Unk Damage",21,28,1,1
+0,Possible Injury,21:28,3,1,35,0,"Worn, Unk Damage",21,28,1,1
+0,Non-Incapacitating Injury,9:57,5,1,30,0,Unknown If Worn,9,57,1,0
+0,Possible Injury,20:48,0,1,40,0,"Worn, Damaged",20,48,1,1
+0,Possible Injury,9:38,1,1,30,0,Unknown If Worn,9,38,1,0
+0,Possible Injury,2:21,1,1,30,0,Not Worn,2,21,1,0
+0,Non-Incapacitating Injury,18:56,1,2,15,0,Not Worn,18,56,1,0
+0,Non-Incapacitating Injury,17:15,5,1,30,0,Not Worn,17,15,1,0
+0,Non-Incapacitating Injury,14:32,5,1,30,0,"Worn, Not Damaged",14,32,1,1
+0,Non-Incapacitating Injury,12:49,6,1,35,0,Unknown If Worn,12,49,1,0
+0,Non-Incapacitating Injury,8:43,6,1,35,0,Unknown If Worn,8,43,1,0
+0,Non-Incapacitating Injury,8:35,6,1,35,0,"Worn, Not Damaged",8,35,1,1
+0,Possible Injury,14:00,6,1,15,0,"Worn, Damaged",14,0,1,1
+0,Non-Incapacitating Injury,18:03,6,1,35,0,Not Worn,18,3,1,0
+0,Non-Incapacitating Injury,18:39,6,1,15,0,"Worn, Unk Damage",18,39,1,1
+0,Non-Incapacitating Injury,18:23,4,1,35,0,Unknown If Worn,18,23,1,0
+0,Possible Injury,16:43,4,1,15,0,Not Worn,16,43,1,0
+0,Not Injured,15:21,2,1,35,0,Unknown If Worn,15,21,0,0
+0,Non-Incapacitating Injury,18:46,2,1,35,0,Unknown If Worn,18,46,1,0
+0,Possible Injury,2:47,3,3,55,6,Not Worn,2,47,1,0
+0,Possible Injury,18:23,3,1,35,6,Not Worn,18,23,1,0
+0,Possible Injury,21:11,1,1,35,0,"Worn, Not Damaged",21,11,1,1
+0,Possible Injury,18:07,5,1,35,0,Unknown If Worn,18,7,1,0
+0,Possible Injury,10:13,5,1,35,0,Not Worn,10,13,1,0
+0,Non-Incapacitating Injury,16:50,0,1,15,0,Not Worn,16,50,1,0
+0,Possible Injury,15:08,0,1,35,0,"Worn, Not Damaged",15,8,1,1
+0,Non-Incapacitating Injury,1:25,2,1,50,6,Unknown If Worn,1,25,1,0
+0,Possible Injury,16:33,1,1,45,0,Not Worn,16,33,1,0
+0,Non-Incapacitating Injury,10:45,5,1,35,0,Not Worn,10,45,1,0
+0,Possible Injury,8:52,6,1,45,0,Unknown If Worn,8,52,1,0
+0,Incapacitating Injury,18:03,6,1,55,0,"Worn, Damaged",18,3,1,1
+0,Possible Injury,13:33,4,3,40,0,Unknown If Worn,13,33,1,0
+0,Non-Incapacitating Injury,23:02,0,1,35,0,Not Worn,23,2,1,0
+0,Non-Incapacitating Injury,22:29,0,1,45,0,Not Worn,22,29,1,0
+0,Possible Injury,19:14,3,1,35,0,Not Worn,19,14,1,0
+0,Not Injured,7:36,1,1,15,0,Unknown If Worn,7,36,0,0
+0,Non-Incapacitating Injury,12:10,5,1,30,0,"Worn, Not Damaged",12,10,1,1
+0,Non-Incapacitating Injury,16:20,4,1,45,0,Not Worn,16,20,1,0
+0,Non-Incapacitating Injury,18:00,4,1,30,0,Unknown If Worn,18,0,1,0
+0,Possible Injury,19:09,0,1,35,0,Unknown If Worn,19,9,1,0
+0,Non-Incapacitating Injury,15:15,0,1,15,0,Not Worn,15,15,1,0
+0,Non-Incapacitating Injury,17:45,2,1,35,0,Not Worn,17,45,1,0
+0,Non-Incapacitating Injury,18:39,1,2,35,0,Unknown If Worn,18,39,1,0
+0,Incapacitating Injury,17:45,4,1,35,0,Not Worn,17,45,1,0
+0,Non-Incapacitating Injury,2:35,3,1,35,0,Not Worn,2,35,1,0
+0,Not Injured,16:25,5,2,45,0,Unknown If Worn,16,25,0,0
+0,Non-Incapacitating Injury,17:33,0,1,55,0,Not Worn,17,33,1,0
+0,Non-Incapacitating Injury,23:34,2,1,25,0,Unknown If Worn,23,34,1,0
+0,Possible Injury,21:31,1,1,35,0,Unknown If Worn,21,31,1,0
+0,Non-Incapacitating Injury,15:46,1,1,30,0,Unknown If Worn,15,46,1,0
+0,Incapacitating Injury,12:00,4,1,15,0,Unknown If Worn,12,0,1,0
+0,Possible Injury,16:11,4,1,35,0,"Worn, Not Damaged",16,11,1,1
+0,Non-Incapacitating Injury,13:13,2,1,25,0,Unknown If Worn,13,13,1,0
+0,Possible Injury,1:22,1,1,35,6,Not Worn,1,22,1,0
+0,Non-Incapacitating Injury,18:55,6,1,15,0,Unknown If Worn,18,55,1,0
+0,Non-Incapacitating Injury,12:06,3,1,35,0,Unknown If Worn,12,6,1,0
+0,Possible Injury,19:02,5,2,35,0,Unknown If Worn,19,2,1,0
+0,Non-Incapacitating Injury,18:11,5,1,35,0,Unknown If Worn,18,11,1,0
+0,Non-Incapacitating Injury,9:50,2,1,15,6,Not Worn,9,50,1,0
+0,Non-Incapacitating Injury,13:27,1,1,30,0,Not Worn,13,27,1,0
+0,Non-Incapacitating Injury,8:48,1,0,15,0,"Worn, Damaged",8,48,1,1
+0,Possible Injury,14:20,6,1,35,0,Unknown If Worn,14,20,1,0
+0,Non-Incapacitating Injury,15:04,1,1,40,0,Not Worn,15,4,1,0
+0,Non-Incapacitating Injury,14:13,4,1,25,0,Unknown If Worn,14,13,1,0
+0,Possible Injury,13:18,0,1,35,0,Unknown If Worn,13,18,1,0
+0,Non-Incapacitating Injury,15:33,6,1,15,0,Not Worn,15,33,1,0
+0,Possible Injury,13:58,0,1,15,0,"Worn, Not Damaged",13,58,1,1
+0,Non-Incapacitating Injury,11:29,2,1,30,0,Unknown If Worn,11,29,1,0
+0,Non-Incapacitating Injury,18:11,1,1,15,0,Not Worn,18,11,1,0
+0,Non-Incapacitating Injury,12:24,5,1,55,0,"Worn, Not Damaged",12,24,1,1
+0,Non-Incapacitating Injury,17:50,6,1,35,6,Unknown If Worn,17,50,1,0
+0,Non-Incapacitating Injury,16:16,4,1,30,0,Not Worn,16,16,1,0
+0,Non-Incapacitating Injury,2:25,2,3,15,0,Unknown If Worn,2,25,1,0
+0,Non-Incapacitating Injury,8:50,3,1,45,0,Not Worn,8,50,1,0
+0,Non-Incapacitating Injury,8:50,6,1,30,0,Unknown If Worn,8,50,1,0
+0,Non-Incapacitating Injury,7:04,4,1,45,0,Unknown If Worn,7,4,1,0
+0,Non-Incapacitating Injury,11:41,4,1,45,0,Unknown If Worn,11,41,1,0
+0,Non-Incapacitating Injury,17:35,0,1,40,0,Not Worn,17,35,1,0
+0,Non-Incapacitating Injury,20:40,1,1,15,0,Not Worn,20,40,1,0
+0,Non-Incapacitating Injury,17:45,5,1,15,0,Unknown If Worn,17,45,1,0
+0,Non-Incapacitating Injury,13:09,2,1,15,0,Unknown If Worn,13,9,1,0
+0,Not Injured,22:23,0,1,40,0,Unknown If Worn,22,23,0,0
+0,Non-Incapacitating Injury,13:43,2,1,35,0,Not Worn,13,43,1,0
+0,Non-Incapacitating Injury,16:34,5,1,35,0,Unknown If Worn,16,34,1,0
+0,Possible Injury,10:20,2,1,15,0,Unknown If Worn,10,20,1,0
+0,Non-Incapacitating Injury,15:51,6,1,35,0,Not Worn,15,51,1,0
+0,Non-Incapacitating Injury,11:54,6,1,35,0,"Worn, Not Damaged",11,54,1,1
+0,Non-Incapacitating Injury,8:19,4,1,30,0,Not Worn,8,19,1,0
+0,Possible Injury,13:46,0,1,30,0,"Worn, Not Damaged",13,46,1,1
+0,Non-Incapacitating Injury,15:56,2,1,35,0,Not Worn,15,56,1,0
+0,Non-Incapacitating Injury,16:37,2,1,30,0,Not Worn,16,37,1,0
+0,Non-Incapacitating Injury,17:26,2,1,30,0,Not Worn,17,26,1,0
+0,Possible Injury,20:10,2,3,15,0,"Worn, Unk Damage",20,10,1,1
+0,Possible Injury,15:26,1,1,35,0,"Worn, Damaged",15,26,1,1
+0,Non-Incapacitating Injury,14:12,5,3,15,0,Not Worn,14,12,1,0
+0,Possible Injury,7:52,5,1,15,0,Unknown If Worn,7,52,1,0
+0,Incapacitating Injury,9:25,5,1,35,0,Not Worn,9,25,1,0
+0,Possible Injury,17:29,5,1,30,0,Not Worn,17,29,1,0
+0,Non-Incapacitating Injury,12:10,0,1,30,0,Not Worn,12,10,1,0
+0,Non-Incapacitating Injury,18:55,0,1,15,0,"Worn, Not Damaged",18,55,1,1
+0,Non-Incapacitating Injury,16:30,0,1,30,0,"Worn, Unk Damage",16,30,1,1
+0,Incapacitating Injury,21:14,2,1,35,0,Not Worn,21,14,1,0
+0,Possible Injury,1:58,2,1,15,0,Not Worn,1,58,1,0
+0,Possible Injury,12:30,2,3,15,0,"Worn, Not Damaged",12,30,1,1
+0,Possible Injury,20:02,1,1,25,0,Unknown If Worn,20,2,1,0
+0,Non-Incapacitating Injury,16:55,1,1,40,0,Unknown If Worn,16,55,1,0
+0,Non-Incapacitating Injury,22:09,5,1,15,6,Not Worn,22,9,1,0
+0,Non-Incapacitating Injury,16:11,6,1,15,0,Unknown If Worn,16,11,1,0
+0,Non-Incapacitating Injury,16:53,4,1,30,0,Not Worn,16,53,1,0
+0,Non-Incapacitating Injury,17:10,4,1,15,0,"Worn, Unk Damage",17,10,1,1
+0,Non-Incapacitating Injury,15:31,0,1,35,0,"Worn, Damaged",15,31,1,1
+0,Non-Incapacitating Injury,18:14,0,1,15,0,Not Worn,18,14,1,0
+0,Non-Incapacitating Injury,15:07,2,1,40,0,Unknown If Worn,15,7,1,0
+0,Non-Incapacitating Injury,2:23,3,1,35,0,Not Worn,2,23,1,0
+0,Non-Incapacitating Injury,2:23,3,1,35,0,Not Worn,2,23,1,0
+0,Non-Incapacitating Injury,2:23,3,1,35,0,Not Worn,2,23,1,0
+0,Non-Incapacitating Injury,2:23,3,1,35,0,Not Worn,2,23,1,0
+0,Non-Incapacitating Injury,13:42,5,1,35,0,Unknown If Worn,13,42,1,0
+0,Non-Incapacitating Injury,10:38,5,1,30,0,"Worn, Damaged",10,38,1,1
+0,Non-Incapacitating Injury,10:53,0,1,30,0,Not Worn,10,53,1,0
+0,Non-Incapacitating Injury,15:00,0,1,15,0,Not Worn,15,0,1,0
+0,Non-Incapacitating Injury,15:57,1,1,30,0,Unknown If Worn,15,57,1,0
+0,Possible Injury,15:46,6,1,35,0,Unknown If Worn,15,46,1,0
+0,Possible Injury,1:26,4,1,30,0,"Worn, Not Damaged",1,26,1,1
+0,Possible Injury,21:13,0,1,35,0,Unknown If Worn,21,13,1,0
+0,Non-Incapacitating Injury,7:35,2,1,30,6,Not Worn,7,35,1,0
+0,Non-Incapacitating Injury,21:28,2,1,30,0,Not Worn,21,28,1,0
+0,Possible Injury,17:28,5,2,15,0,Unknown If Worn,17,28,1,0
+0,Non-Incapacitating Injury,13:52,5,1,30,0,Not Worn,13,52,1,0
+0,Possible Injury,18:02,5,1,30,0,"Worn, Unk Damage",18,2,1,1
+0,Non-Incapacitating Injury,14:20,4,1,60,0,Not Worn,14,20,1,0
+0,Non-Incapacitating Injury,17:56,0,1,30,0,Unknown If Worn,17,56,1,0
+0,Possible Injury,7:33,1,1,15,0,Not Worn,7,33,1,0
+0,Non-Incapacitating Injury,9:55,4,1,30,6,Not Worn,9,55,1,0
+0,Non-Incapacitating Injury,22:06,5,1,35,0,"Worn, Unk Damage",22,6,1,1
+0,Incapacitating Injury,10:25,6,0,65,0,"Worn, Unk Damage",10,25,1,1
+0,Non-Incapacitating Injury,7:35,6,1,40,0,Unknown If Worn,7,35,1,0
+0,Possible Injury,16:33,4,1,40,0,Not Worn,16,33,1,0
+0,Non-Incapacitating Injury,16:33,0,1,15,0,"Worn, Damaged",16,33,1,1
+0,Possible Injury,12:32,0,2,35,0,"Worn, Not Damaged",12,32,1,1
+0,Non-Incapacitating Injury,7:41,3,1,25,0,"Worn, Unk Damage",7,41,1,1
+0,Non-Incapacitating Injury,17:28,1,1,45,0,Not Worn,17,28,1,0
+0,Non-Incapacitating Injury,17:14,5,1,45,0,"Worn, Not Damaged",17,14,1,1
+0,Possible Injury,19:49,5,1,30,0,Not Worn,19,49,1,0
+0,Non-Incapacitating Injury,9:05,4,1,35,0,Unknown If Worn,9,5,1,0
+0,Incapacitating Injury,9:48,4,3,35,0,Unknown If Worn,9,48,1,0
+0,Possible Injury,16:38,4,1,35,0,Unknown If Worn,16,38,1,0
+0,Non-Incapacitating Injury,15:01,0,1,35,0,Unknown If Worn,15,1,1,0
+0,Non-Incapacitating Injury,20:38,0,1,15,0,Not Worn,20,38,1,0
+0,Incapacitating Injury,4:37,2,3,55,0,Unknown If Worn,4,37,1,0
+0,Non-Incapacitating Injury,19:58,1,1,40,0,"Worn, Not Damaged",19,58,1,1
+0,Incapacitating Injury,19:28,1,1,15,0,Not Worn,19,28,1,0
+0,Non-Incapacitating Injury,22:36,5,1,15,0,Not Worn,22,36,1,0
+0,Non-Incapacitating Injury,16:11,3,1,35,0,Not Worn,16,11,1,0
+0,Non-Incapacitating Injury,17:32,6,1,35,0,Not Worn,17,32,1,0
+0,Non-Incapacitating Injury,12:14,0,1,30,0,Not Worn,12,14,1,0
+0,Non-Incapacitating Injury,8:28,2,1,25,0,Unknown If Worn,8,28,1,0
+0,Non-Incapacitating Injury,19:53,3,1,30,0,Unknown If Worn,19,53,1,0
+0,Non-Incapacitating Injury,7:37,1,1,35,0,Unknown If Worn,7,37,1,0
+0,Possible Injury,20:39,5,1,35,0,Unknown If Worn,20,39,1,0
+0,Non-Incapacitating Injury,19:50,5,1,35,0,Unknown If Worn,19,50,1,0
+0,Not Injured,9:56,6,1,15,0,Unknown If Worn,9,56,0,0
+0,Non-Incapacitating Injury,14:47,0,1,45,0,Unknown If Worn,14,47,1,0
+0,Not Injured,2:03,0,3,15,0,Not Worn,2,3,0,0
+0,Non-Incapacitating Injury,8:01,2,1,15,0,"Worn, Not Damaged",8,1,1,1
+0,Non-Incapacitating Injury,16:20,6,1,40,0,Unknown If Worn,16,20,1,0
+0,Non-Incapacitating Injury,21:05,4,1,15,0,Not Worn,21,5,1,0
+0,Possible Injury,15:14,4,1,35,0,Unknown If Worn,15,14,1,0
+0,Possible Injury,13:16,0,1,15,0,Not Worn,13,16,1,0
+0,Possible Injury,20:09,4,1,30,0,Not Worn,20,9,1,0
+0,Possible Injury,17:00,3,1,30,0,"Worn, Not Damaged",17,0,1,1
+0,Non-Incapacitating Injury,7:41,5,1,35,0,"Worn, Damaged",7,41,1,1
+0,Non-Incapacitating Injury,9:51,6,1,35,0,Unknown If Worn,9,51,1,0
+0,Non-Incapacitating Injury,15:58,6,1,30,0,Not Worn,15,58,1,0
+0,Non-Incapacitating Injury,17:55,6,1,40,0,Not Worn,17,55,1,0
+0,Possible Injury,15:13,6,1,35,0,Unknown If Worn,15,13,1,0
+0,Possible Injury,23:08,4,1,35,0,Not Worn,23,8,1,0
+0,Non-Incapacitating Injury,22:56,6,1,40,0,Unknown If Worn,22,56,1,0
+0,Non-Incapacitating Injury,22:06,0,1,45,0,Not Worn,22,6,1,0
+0,Non-Incapacitating Injury,11:53,2,1,15,0,"Worn, Damaged",11,53,1,1
+0,Non-Incapacitating Injury,14:06,2,1,35,0,Unknown If Worn,14,6,1,0
+0,Possible Injury,17:17,3,3,45,0,Not Worn,17,17,1,0
+0,Non-Incapacitating Injury,12:30,1,1,35,0,Unknown If Worn,12,30,1,0
+0,Non-Incapacitating Injury,12:48,5,1,30,0,Not Worn,12,48,1,0
+0,Non-Incapacitating Injury,14:58,5,3,55,0,Not Worn,14,58,1,0
+0,Non-Incapacitating Injury,8:57,6,1,35,0,"Worn, Not Damaged",8,57,1,1
+0,Non-Incapacitating Injury,20:05,6,1,30,0,Not Worn,20,5,1,0
+0,Non-Incapacitating Injury,16:45,0,1,30,0,Not Worn,16,45,1,0
+0,Possible Injury,10:54,0,1,40,0,Unknown If Worn,10,54,1,0
+0,Non-Incapacitating Injury,17:00,2,1,15,0,Unknown If Worn,17,0,1,0
+0,Non-Incapacitating Injury,12:14,2,1,15,0,Not Worn,12,14,1,0
+0,Non-Incapacitating Injury,10:04,3,1,15,0,Unknown If Worn,10,4,1,0
+0,Non-Incapacitating Injury,5:44,5,1,35,0,Unknown If Worn,5,44,1,0
+0,Non-Incapacitating Injury,22:11,4,1,45,0,Not Worn,22,11,1,0
+0,Possible Injury,21:02,0,1,40,0,Unknown If Worn,21,2,1,0
+0,Possible Injury,19:30,3,1,15,0,Unknown If Worn,19,30,1,0
+0,Possible Injury,11:05,1,1,15,0,Not Worn,11,5,1,0
+0,Non-Incapacitating Injury,16:09,5,1,15,0,Unknown If Worn,16,9,1,0
+0,Not Injured,15:52,5,1,15,0,Not Worn,15,52,0,0
+0,Possible Injury,17:19,6,3,40,0,Not Worn,17,19,1,0
+0,Non-Incapacitating Injury,8:36,0,2,45,0,Unknown If Worn,8,36,1,0
+0,Non-Incapacitating Injury,14:26,0,1,35,0,Unknown If Worn,14,26,1,0
+0,Non-Incapacitating Injury,2:47,3,1,15,0,Not Worn,2,47,1,0
+0,Non-Incapacitating Injury,18:25,3,1,30,0,Unknown If Worn,18,25,1,0
+0,Non-Incapacitating Injury,18:25,3,1,30,0,Unknown If Worn,18,25,1,0
+0,Non-Incapacitating Injury,11:15,1,1,30,0,"Worn, Damaged",11,15,1,1
+0,Possible Injury,12:56,6,1,45,0,Not Worn,12,56,1,0
+0,Possible Injury,22:11,4,1,45,0,Not Worn,22,11,1,0
+0,Non-Incapacitating Injury,17:00,0,1,15,0,"Worn, Unk Damage",17,0,1,1
+0,Non-Incapacitating Injury,17:29,0,1,30,0,Unknown If Worn,17,29,1,0
+0,Possible Injury,15:52,3,1,35,0,Unknown If Worn,15,52,1,0
+0,Non-Incapacitating Injury,8:20,5,1,30,0,Not Worn,8,20,1,0
+0,Non-Incapacitating Injury,8:56,5,1,15,0,Not Worn,8,56,1,0
+0,Incapacitating Injury,15:51,5,1,35,0,"Worn, Not Damaged",15,51,1,1
+0,Incapacitating Injury,15:51,5,1,35,0,"Worn, Not Damaged",15,51,1,1
+0,Non-Incapacitating Injury,14:50,6,1,35,0,Not Worn,14,50,1,0
+0,Non-Incapacitating Injury,15:40,6,1,15,0,Unknown If Worn,15,40,1,0
+0,Possible Injury,21:28,0,1,30,0,Not Worn,21,28,1,0
+0,Not Injured,21:36,0,1,35,0,Not Worn,21,36,0,0
+0,Not Injured,15:20,2,1,15,0,Not Worn,15,20,0,0
+0,Non-Incapacitating Injury,16:50,1,2,35,0,"Worn, Not Damaged",16,50,1,1
+0,Possible Injury,19:03,5,1,35,6,"Worn, Not Damaged",19,3,1,1
+0,Non-Incapacitating Injury,18:45,5,3,15,0,Not Worn,18,45,1,0
+0,Non-Incapacitating Injury,12:56,5,1,15,0,Not Worn,12,56,1,0
+0,Possible Injury,13:48,2,2,30,0,Not Worn,13,48,1,0
+0,Non-Incapacitating Injury,13:41,5,1,30,0,Unknown If Worn,13,41,1,0
+0,Non-Incapacitating Injury,16:10,5,1,65,0,"Worn, Not Damaged",16,10,1,1
+0,Possible Injury,19:03,5,1,35,0,Not Worn,19,3,1,0
+0,Non-Incapacitating Injury,11:00,6,1,45,0,Not Worn,11,0,1,0
+0,Possible Injury,18:03,4,1,25,0,Not Worn,18,3,1,0
+0,Incapacitating Injury,20:08,4,1,15,0,Not Worn,20,8,1,0
+0,Non-Incapacitating Injury,17:51,4,1,35,0,Not Worn,17,51,1,0
+0,Non-Incapacitating Injury,15:12,6,3,55,0,Unknown If Worn,15,12,1,0
+0,Non-Incapacitating Injury,16:49,6,1,15,0,"Worn, Not Damaged",16,49,1,1
+0,Non-Incapacitating Injury,13:39,6,1,30,0,Not Worn,13,39,1,0
+0,Non-Incapacitating Injury,12:45,0,1,30,0,Not Worn,12,45,1,0
+0,Non-Incapacitating Injury,16:12,0,1,15,0,Not Worn,16,12,1,0
+0,Possible Injury,2:24,1,3,15,0,Not Worn,2,24,1,0
+0,Non-Incapacitating Injury,21:19,6,1,35,0,Unknown If Worn,21,19,1,0
+0,Non-Incapacitating Injury,16:09,6,1,35,0,"Worn, Not Damaged",16,9,1,1
+0,Incapacitating Injury,18:00,0,1,45,0,Unknown If Worn,18,0,1,0
+0,Possible Injury,13:35,0,1,35,0,Unknown If Worn,13,35,1,0
+0,Incapacitating Injury,19:07,0,1,30,0,Unknown If Worn,19,7,1,0
+0,Possible Injury,19:19,2,1,30,0,Unknown If Worn,19,19,1,0
+0,Non-Incapacitating Injury,10:58,3,2,30,0,Not Worn,10,58,1,0
+0,Non-Incapacitating Injury,10:58,3,2,30,0,Not Worn,10,58,1,0
+0,Non-Incapacitating Injury,12:15,6,1,45,0,Not Worn,12,15,1,0
+0,Possible Injury,9:33,4,1,35,0,"Worn, Not Damaged",9,33,1,1
+0,Non-Incapacitating Injury,10:05,4,1,35,0,Unknown If Worn,10,5,1,0
+0,Possible Injury,11:05,4,1,30,0,"Worn, Not Damaged",11,5,1,1
+0,Incapacitating Injury,19:04,0,1,15,0,"Worn, Not Damaged",19,4,1,1
+0,Not Injured,22:47,0,1,15,0,Not Worn,22,47,0,0
+0,Not Injured,22:47,0,1,15,0,Not Worn,22,47,0,0
+0,Non-Incapacitating Injury,9:10,2,1,35,0,Not Worn,9,10,1,0
+0,Incapacitating Injury,8:55,1,1,35,0,Unknown If Worn,8,55,1,0
+0,Not Injured,12:56,5,1,15,0,Not Worn,12,56,0,0
+0,Non-Incapacitating Injury,23:15,4,1,35,0,Not Worn,23,15,1,0
+0,Non-Incapacitating Injury,8:04,5,1,30,0,Unknown If Worn,8,4,1,0
+0,Non-Incapacitating Injury,17:08,5,1,35,0,Not Worn,17,8,1,0
+0,Incapacitating Injury,6:13,6,1,15,0,"Worn, Damaged",6,13,1,1
+0,Non-Incapacitating Injury,12:36,4,1,30,0,Unknown If Worn,12,36,1,0
+0,Non-Incapacitating Injury,22:55,3,1,30,0,Unknown If Worn,22,55,1,0
+0,Possible Injury,10:57,1,1,35,0,"Worn, Unk Damage",10,57,1,1
+0,Non-Incapacitating Injury,19:50,5,1,40,0,Unknown If Worn,19,50,1,0
+0,Possible Injury,18:20,5,2,35,6,Unknown If Worn,18,20,1,0
+0,Non-Incapacitating Injury,8:31,6,2,15,0,Not Worn,8,31,1,0
+0,Possible Injury,8:33,4,1,30,0,"Worn, Not Damaged",8,33,1,1
+0,Incapacitating Injury,20:41,4,1,30,0,Unknown If Worn,20,41,1,0
+0,Incapacitating Injury,14:16,4,1,15,0,Not Worn,14,16,1,0
+0,Possible Injury,13:45,4,1,30,0,Not Worn,13,45,1,0
+0,Non-Incapacitating Injury,9:57,0,1,30,0,Not Worn,9,57,1,0
+0,Incapacitating Injury,9:46,0,2,30,0,Unknown If Worn,9,46,1,0
+0,Non-Incapacitating Injury,8:57,2,1,45,0,"Worn, Unk Damage",8,57,1,1
+0,Non-Incapacitating Injury,19:17,6,1,30,0,"Worn, Unk Damage",19,17,1,1
+0,Possible Injury,20:03,6,1,35,0,"Worn, Not Damaged",20,3,1,1
+0,Non-Incapacitating Injury,17:33,6,1,15,0,Not Worn,17,33,1,0
+0,Non-Incapacitating Injury,8:30,4,1,30,0,Unknown If Worn,8,30,1,0
+0,Possible Injury,21:55,4,1,35,0,"Worn, Damaged",21,55,1,1
+0,Non-Incapacitating Injury,18:00,0,1,15,6,Unknown If Worn,18,0,1,0
+0,Non-Incapacitating Injury,17:02,5,2,35,0,Not Worn,17,2,1,0
+0,Non-Incapacitating Injury,12:08,6,1,35,0,"Worn, Unk Damage",12,8,1,1
+0,Incapacitating Injury,12:43,0,1,30,0,Not Worn,12,43,1,0
+0,Non-Incapacitating Injury,15:04,2,2,40,0,Not Worn,15,4,1,0
+0,Possible Injury,12:30,3,1,30,0,Unknown If Worn,12,30,1,0
+0,Non-Incapacitating Injury,19:44,3,1,15,0,Unknown If Worn,19,44,1,0
+0,Non-Incapacitating Injury,7:40,1,1,40,0,Unknown If Worn,7,40,1,0
+0,Incapacitating Injury,15:48,1,1,35,0,Unknown If Worn,15,48,1,0
+0,Non-Incapacitating Injury,19:21,6,1,35,0,Unknown If Worn,19,21,1,0
+0,Non-Incapacitating Injury,17:45,4,1,40,0,Unknown If Worn,17,45,1,0
+0,Non-Incapacitating Injury,16:21,0,2,30,0,Not Worn,16,21,1,0
+0,Non-Incapacitating Injury,2:45,2,1,40,6,"Worn, Unk Damage",2,45,1,1
+0,Non-Incapacitating Injury,22:08,1,1,35,0,Not Worn,22,8,1,0
+0,Possible Injury,19:03,4,1,15,0,"Worn, Not Damaged",19,3,1,1
+0,Possible Injury,9:57,4,1,15,0,Unknown If Worn,9,57,1,0
+0,Possible Injury,13:30,0,1,35,0,Not Worn,13,30,1,0
+0,Non-Incapacitating Injury,2:28,3,1,35,0,Unknown If Worn,2,28,1,0
+0,Non-Incapacitating Injury,2:28,3,1,35,0,Unknown If Worn,2,28,1,0
+0,Non-Incapacitating Injury,2:28,3,1,35,0,Unknown If Worn,2,28,1,0
+0,Non-Incapacitating Injury,16:59,5,1,40,0,Unknown If Worn,16,59,1,0
+0,Non-Incapacitating Injury,21:18,5,2,40,0,Not Worn,21,18,1,0
+0,Possible Injury,7:47,6,2,35,0,"Worn, Not Damaged",7,47,1,1
+0,Possible Injury,10:35,4,1,30,0,Unknown If Worn,10,35,1,0
+0,Incapacitating Injury,22:46,0,1,55,0,Unknown If Worn,22,46,1,0
+0,Non-Incapacitating Injury,17:36,0,1,45,0,Unknown If Worn,17,36,1,0
+0,Possible Injury,9:57,3,1,35,0,"Worn, Damaged",9,57,1,1
+0,Possible Injury,17:00,5,1,35,0,Unknown If Worn,17,0,1,0
+0,Possible Injury,11:48,6,2,35,0,Unknown If Worn,11,48,1,0
+0,Non-Incapacitating Injury,8:39,6,1,15,0,Unknown If Worn,8,39,1,0
+0,Non-Incapacitating Injury,18:09,4,1,15,0,Not Worn,18,9,1,0
+0,Non-Incapacitating Injury,8:21,0,3,50,0,"Worn, Not Damaged",8,21,1,1
+0,Possible Injury,15:42,0,1,30,0,Unknown If Worn,15,42,1,0
+0,Non-Incapacitating Injury,15:49,0,1,30,0,Unknown If Worn,15,49,1,0
+0,Possible Injury,10:08,2,1,45,0,"Worn, Unk Damage",10,8,1,1
+0,Non-Incapacitating Injury,10:57,2,3,15,0,Unknown If Worn,10,57,1,0
+0,Non-Incapacitating Injury,8:53,1,1,30,0,Not Worn,8,53,1,0
+0,Non-Incapacitating Injury,10:30,5,1,35,0,Unknown If Worn,10,30,1,0
+0,Non-Incapacitating Injury,17:49,6,1,40,0,Not Worn,17,49,1,0
+0,Non-Incapacitating Injury,22:22,4,1,35,0,Unknown If Worn,22,22,1,0
+0,Possible Injury,9:56,4,1,45,0,Unknown If Worn,9,56,1,0
+0,Non-Incapacitating Injury,9:19,0,1,30,0,Not Worn,9,19,1,0
+0,Non-Incapacitating Injury,8:06,0,1,30,0,"Worn, Not Damaged",8,6,1,1
+0,Not Injured,20:21,0,3,55,0,Unknown If Worn,20,21,0,0
+0,Incapacitating Injury,8:51,2,1,55,0,Unknown If Worn,8,51,1,0
+0,Non-Incapacitating Injury,14:40,2,3,15,0,Unknown If Worn,14,40,1,0
+0,Incapacitating Injury,20:17,2,1,40,0,Unknown If Worn,20,17,1,0
+0,Non-Incapacitating Injury,16:00,1,1,45,0,Unknown If Worn,16,0,1,0
+0,Possible Injury,18:27,5,1,45,0,Unknown If Worn,18,27,1,0
+0,Possible Injury,13:20,6,1,40,0,Not Worn,13,20,1,0
+0,Possible Injury,16:52,6,1,45,0,Unknown If Worn,16,52,1,0
+0,Incapacitating Injury,14:26,4,1,35,0,"Worn, Unk Damage",14,26,1,1
+0,Non-Incapacitating Injury,9:48,0,1,35,0,Not Worn,9,48,1,0
+0,Non-Incapacitating Injury,18:23,0,1,35,0,Not Worn,18,23,1,0
+0,Non-Incapacitating Injury,9:24,0,1,15,0,Unknown If Worn,9,24,1,0
+0,Non-Incapacitating Injury,8:34,5,1,30,0,Not Worn,8,34,1,0
+0,Non-Incapacitating Injury,16:56,6,1,35,6,Unknown If Worn,16,56,1,0
+0,Non-Incapacitating Injury,8:45,4,1,35,6,Not Worn,8,45,1,0
+0,Non-Incapacitating Injury,20:27,0,1,30,0,Not Worn,20,27,1,0
+0,Non-Incapacitating Injury,7:05,0,3,55,0,Not Worn,7,5,1,0
+0,Incapacitating Injury,19:39,2,1,35,0,Not Worn,19,39,1,0
+0,Non-Incapacitating Injury,19:35,5,3,55,0,Not Worn,19,35,1,0
+0,Non-Incapacitating Injury,19:35,5,3,55,0,Unknown If Worn,19,35,1,0
+0,Non-Incapacitating Injury,14:34,5,1,35,0,Not Worn,14,34,1,0
+0,Incapacitating Injury,12:28,3,1,40,6,Not Worn,12,28,1,0
+0,Non-Incapacitating Injury,18:43,4,1,15,6,Not Worn,18,43,1,0
+0,Non-Incapacitating Injury,19:28,4,1,15,6,Unknown If Worn,19,28,1,0
+0,Non-Incapacitating Injury,12:18,0,1,35,0,"Worn, Not Damaged",12,18,1,1
+0,Non-Incapacitating Injury,12:46,2,1,30,6,Unknown If Worn,12,46,1,0
+0,Non-Incapacitating Injury,12:46,2,1,30,6,"Worn, Unk Damage",12,46,1,1
+0,Non-Incapacitating Injury,20:10,2,1,30,6,Not Worn,20,10,1,0
+0,Non-Incapacitating Injury,15:16,3,1,35,0,"Worn, Unk Damage",15,16,1,1
+0,Non-Incapacitating Injury,17:35,1,1,15,0,Not Worn,17,35,1,0
+0,Possible Injury,14:25,5,1,40,0,"Worn, Not Damaged",14,25,1,1
+0,Incapacitating Injury,8:44,5,1,35,0,"Worn, Not Damaged",8,44,1,1
+0,Non-Incapacitating Injury,15:44,6,1,15,0,Unknown If Worn,15,44,1,0
+0,Non-Incapacitating Injury,15:51,6,1,35,0,"Worn, Damaged",15,51,1,1
+0,Possible Injury,2:30,0,1,30,0,"Worn, Not Damaged",2,30,1,1
+0,Non-Incapacitating Injury,7:00,1,1,35,0,"Worn, Damaged",7,0,1,1
+0,Non-Incapacitating Injury,16:02,1,1,30,0,Unknown If Worn,16,2,1,0
+0,Non-Incapacitating Injury,17:19,5,1,15,0,"Worn, Not Damaged",17,19,1,1
+0,Incapacitating Injury,15:35,4,1,15,6,Not Worn,15,35,1,0
+0,Non-Incapacitating Injury,15:17,0,1,30,0,Not Worn,15,17,1,0
+0,Not Injured,16:31,0,3,55,0,Not Worn,16,31,0,0
+0,Non-Incapacitating Injury,7:25,1,1,15,0,"Worn, Not Damaged",7,25,1,1
+0,Possible Injury,19:22,5,3,40,0,Not Worn,19,22,1,0
+0,Incapacitating Injury,17:50,0,1,30,0,Unknown If Worn,17,50,1,0
+0,Non-Incapacitating Injury,2:12,3,1,15,0,Unknown If Worn,2,12,1,0
+0,Non-Incapacitating Injury,19:07,5,3,40,0,Not Worn,19,7,1,0
+0,Non-Incapacitating Injury,20:33,5,1,35,0,Not Worn,20,33,1,0
+0,Not Injured,7:58,5,1,30,0,Not Worn,7,58,0,0
+0,Non-Incapacitating Injury,12:44,4,1,40,0,Unknown If Worn,12,44,1,0
+0,Non-Incapacitating Injury,9:00,4,1,15,0,Not Worn,9,0,1,0
+0,Non-Incapacitating Injury,21:33,4,1,15,0,Not Worn,21,33,1,0
+0,Non-Incapacitating Injury,10:45,1,1,45,0,"Worn, Not Damaged",10,45,1,1
+0,Non-Incapacitating Injury,12:49,0,1,30,0,Not Worn,12,49,1,0
+0,Non-Incapacitating Injury,7:18,2,3,50,6,"Worn, Not Damaged",7,18,1,1
+0,Non-Incapacitating Injury,20:23,0,1,30,6,Unknown If Worn,20,23,1,0
+0,Non-Incapacitating Injury,18:00,0,1,35,0,"Worn, Not Damaged",18,0,1,1
+0,Possible Injury,6:35,4,2,50,0,Not Worn,6,35,1,0
+0,Non-Incapacitating Injury,10:51,0,1,40,6,"Worn, Not Damaged",10,51,1,1
+0,Incapacitating Injury,5:38,2,1,40,0,Not Worn,5,38,1,0
+0,Non-Incapacitating Injury,16:00,3,2,15,0,"Worn, Unk Damage",16,0,1,1
+0,Non-Incapacitating Injury,8:10,3,1,30,0,"Worn, Not Damaged",8,10,1,1
+0,Not Injured,10:47,1,1,35,0,Unknown If Worn,10,47,0,0
+0,Incapacitating Injury,15:25,5,1,15,0,"Worn, Unk Damage",15,25,1,1
+0,Non-Incapacitating Injury,14:19,6,1,30,0,"Worn, Damaged",14,19,1,1
+0,Possible Injury,14:48,4,3,15,0,Not Worn,14,48,1,0
+0,Non-Incapacitating Injury,12:56,4,1,30,0,"Worn, Unk Damage",12,56,1,1
+0,Non-Incapacitating Injury,9:40,0,1,30,0,Unknown If Worn,9,40,1,0
+0,Possible Injury,18:39,0,1,35,0,Unknown If Worn,18,39,1,0
+0,Non-Incapacitating Injury,16:00,3,1,30,0,Not Worn,16,0,1,0
+0,Non-Incapacitating Injury,11:42,5,1,55,6,Not Worn,11,42,1,0
+0,Non-Incapacitating Injury,20:32,2,1,40,0,Not Worn,20,32,1,0
+0,Possible Injury,18:30,3,1,15,0,Not Worn,18,30,1,0
+0,Possible Injury,8:30,1,1,30,0,"Worn, Damaged",8,30,1,1
+0,Incapacitating Injury,22:05,6,1,15,0,Not Worn,22,5,1,0
+0,Non-Incapacitating Injury,11:19,4,1,35,0,"Worn, Unk Damage",11,19,1,1
+0,Non-Incapacitating Injury,7:56,0,1,35,0,"Worn, Unk Damage",7,56,1,1
+0,Non-Incapacitating Injury,18:14,2,1,30,0,Not Worn,18,14,1,0
+0,Non-Incapacitating Injury,9:09,6,1,35,0,"Worn, Unk Damage",9,9,1,1
+0,Possible Injury,12:15,2,1,35,0,"Worn, Not Damaged",12,15,1,1
+0,Non-Incapacitating Injury,19:23,2,1,35,0,Not Worn,19,23,1,0
+0,Incapacitating Injury,12:35,2,1,25,0,Not Worn,12,35,1,0
+0,Non-Incapacitating Injury,5:02,0,1,45,0,Not Worn,5,2,1,0
+0,Possible Injury,19:57,5,1,15,6,Unknown If Worn,19,57,1,0
+0,Not Injured,18:55,4,1,40,0,"Worn, Not Damaged",18,55,0,1
+0,Incapacitating Injury,22:59,6,1,45,0,Not Worn,22,59,1,0
+0,Non-Incapacitating Injury,20:45,4,1,30,0,Not Worn,20,45,1,0
+0,Incapacitating Injury,12:29,0,1,30,0,Not Worn,12,29,1,0
+0,Not Injured,17:47,2,1,25,0,Unknown If Worn,17,47,0,0
+0,Non-Incapacitating Injury,16:05,3,1,25,0,Unknown If Worn,16,5,1,0
+0,Non-Incapacitating Injury,2:31,3,1,30,0,Not Worn,2,31,1,0
+0,Non-Incapacitating Injury,2:31,3,1,30,0,Not Worn,2,31,1,0
+0,Possible Injury,16:10,1,3,50,0,Not Worn,16,10,1,0
+0,Non-Incapacitating Injury,12:03,6,1,30,0,Unknown If Worn,12,3,1,0
+0,Non-Incapacitating Injury,12:51,6,1,30,0,Unknown If Worn,12,51,1,0
+0,Incapacitating Injury,21:05,4,1,30,0,Not Worn,21,5,1,0
+0,Not Injured,2:51,3,1,30,0,Not Worn,2,51,0,0
+0,Not Injured,2:51,3,1,30,0,Not Worn,2,51,0,0
+0,Non-Incapacitating Injury,17:33,3,1,45,0,Unknown If Worn,17,33,1,0
+0,Non-Incapacitating Injury,17:33,3,1,45,0,Unknown If Worn,17,33,1,0
+0,Non-Incapacitating Injury,12:21,1,1,25,0,Unknown If Worn,12,21,1,0
+0,Non-Incapacitating Injury,8:14,5,1,35,0,"Worn, Not Damaged",8,14,1,1
+0,Possible Injury,19:12,5,1,15,0,"Worn, Unk Damage",19,12,1,1
+0,Non-Incapacitating Injury,8:51,6,1,15,0,"Worn, Unk Damage",8,51,1,1
+0,Non-Incapacitating Injury,5:45,6,1,45,0,Not Worn,5,45,1,0
+0,Non-Incapacitating Injury,17:56,6,1,45,0,Not Worn,17,56,1,0
+0,Possible Injury,13:19,6,1,35,0,Not Worn,13,19,1,0
+0,Non-Incapacitating Injury,20:16,0,1,35,0,Not Worn,20,16,1,0
+0,Possible Injury,12:43,2,1,30,0,Unknown If Worn,12,43,1,0
+0,Non-Incapacitating Injury,15:25,2,1,40,0,Unknown If Worn,15,25,1,0
+0,Possible Injury,17:49,1,1,45,0,Not Worn,17,49,1,0
+0,Not Injured,8:24,6,1,35,0,"Worn, Unk Damage",8,24,0,1
+0,Incapacitating Injury,21:16,6,3,15,0,Not Worn,21,16,1,0
+0,Incapacitating Injury,17:31,4,1,30,0,Unknown If Worn,17,31,1,0
+0,Possible Injury,19:47,4,1,40,0,"Worn, Not Damaged",19,47,1,1
+0,Non-Incapacitating Injury,19:00,0,1,30,0,Not Worn,19,0,1,0
+0,Non-Incapacitating Injury,15:49,2,3,15,0,Not Worn,15,49,1,0
+0,Possible Injury,9:20,1,1,30,0,Not Worn,9,20,1,0
+0,Not Injured,17:36,1,2,15,0,Unknown If Worn,17,36,0,0
+0,Possible Injury,10:10,5,1,15,0,Not Worn,10,10,1,0
+0,Non-Incapacitating Injury,16:12,5,1,30,0,Not Worn,16,12,1,0
+0,Possible Injury,14:13,4,1,15,0,Unknown If Worn,14,13,1,0
+0,Non-Incapacitating Injury,14:31,0,1,15,0,Not Worn,14,31,1,0
+0,Non-Incapacitating Injury,15:30,0,1,35,0,Not Worn,15,30,1,0
+0,Possible Injury,16:21,0,1,30,0,Not Worn,16,21,1,0
+0,Non-Incapacitating Injury,18:22,0,1,30,0,Unknown If Worn,18,22,1,0
+0,Incapacitating Injury,19:58,3,1,35,0,"Worn, Not Damaged",19,58,1,1
+0,Possible Injury,21:42,5,1,45,0,"Worn, Unk Damage",21,42,1,1
+0,Non-Incapacitating Injury,13:13,5,1,35,0,Not Worn,13,13,1,0
+0,Non-Incapacitating Injury,23:00,5,1,35,0,"Worn, Not Damaged",23,0,1,1
+0,Not Injured,7:06,0,1,15,0,Not Worn,7,6,0,0
+0,Non-Incapacitating Injury,17:13,0,1,40,6,Unknown If Worn,17,13,1,0
+0,Possible Injury,20:37,0,1,15,6,"Worn, Not Damaged",20,37,1,1
+0,Non-Incapacitating Injury,14:37,0,1,45,0,Unknown If Worn,14,37,1,0
+0,Not Injured,17:31,3,1,15,0,Unknown If Worn,17,31,0,0
+0,Non-Incapacitating Injury,14:00,3,1,55,0,Unknown If Worn,14,0,1,0
+0,Non-Incapacitating Injury,2:30,5,1,35,0,Not Worn,2,30,1,0
+0,Non-Incapacitating Injury,18:07,0,2,15,0,Not Worn,18,7,1,0
+0,Possible Injury,18:38,3,1,15,0,Not Worn,18,38,1,0
+0,Possible Injury,13:19,1,1,15,0,Not Worn,13,19,1,0
+0,Non-Incapacitating Injury,13:49,1,1,40,0,Not Worn,13,49,1,0
+0,Non-Incapacitating Injury,8:43,5,1,45,6,"Worn, Not Damaged",8,43,1,1
+0,Not Injured,15:30,5,1,15,0,Unknown If Worn,15,30,0,0
+0,Non-Incapacitating Injury,19:28,0,1,45,0,"Worn, Not Damaged",19,28,1,1
+0,Non-Incapacitating Injury,11:00,0,1,15,0,"Worn, Unk Damage",11,0,1,1
+0,Incapacitating Injury,18:37,2,1,15,0,"Worn, Damaged",18,37,1,1
+0,Non-Incapacitating Injury,22:30,3,1,30,0,Not Worn,22,30,1,0
+0,Non-Incapacitating Injury,8:15,5,2,15,0,Unknown If Worn,8,15,1,0
+0,Non-Incapacitating Injury,6:58,6,1,15,0,Not Worn,6,58,1,0
+0,Non-Incapacitating Injury,16:13,4,2,15,0,Unknown If Worn,16,13,1,0
+0,Possible Injury,12:50,1,1,40,6,"Worn, Not Damaged",12,50,1,1
+0,Non-Incapacitating Injury,15:46,6,1,25,6,Not Worn,15,46,1,0
+0,Possible Injury,11:43,6,1,35,6,Unknown If Worn,11,43,1,0
+0,Possible Injury,21:43,4,1,30,0,Unknown If Worn,21,43,1,0
+0,Non-Incapacitating Injury,19:16,2,1,35,0,Not Worn,19,16,1,0
+0,Non-Incapacitating Injury,15:35,1,1,35,0,Not Worn,15,35,1,0
+0,Possible Injury,16:54,4,1,45,0,Unknown If Worn,16,54,1,0
+0,Non-Incapacitating Injury,18:39,0,1,15,0,Not Worn,18,39,1,0
+0,Non-Incapacitating Injury,16:55,0,1,35,0,Unknown If Worn,16,55,1,0
+0,Non-Incapacitating Injury,17:54,0,1,30,0,Unknown If Worn,17,54,1,0
+0,Possible Injury,18:43,4,1,15,0,"Worn, Unk Damage",18,43,1,1
+0,Incapacitating Injury,16:50,2,1,30,6,Not Worn,16,50,1,0
+0,Non-Incapacitating Injury,12:38,3,1,30,0,Unknown If Worn,12,38,1,0
+0,Non-Incapacitating Injury,21:09,3,1,35,0,Not Worn,21,9,1,0
+0,Non-Incapacitating Injury,16:35,1,1,30,0,Not Worn,16,35,1,0
+0,Non-Incapacitating Injury,11:17,5,1,35,0,Not Worn,11,17,1,0
+0,Incapacitating Injury,19:54,5,1,15,6,Unknown If Worn,19,54,1,0
+0,Possible Injury,16:29,6,1,15,0,"Worn, Not Damaged",16,29,1,1
+0,Possible Injury,18:15,6,1,35,0,"Worn, Not Damaged",18,15,1,1
+0,Non-Incapacitating Injury,18:32,4,1,35,0,"Worn, Damaged",18,32,1,1
+0,Non-Incapacitating Injury,7:49,4,1,35,0,"Worn, Not Damaged",7,49,1,1
+0,Killed,18:34,2,1,30,0,Not Worn,18,34,1,0
+0,Not Injured,10:31,3,1,35,0,Not Worn,10,31,0,0
+0,Incapacitating Injury,9:00,3,1,30,0,"Worn, Not Damaged",9,0,1,1
+0,Non-Incapacitating Injury,21:58,1,1,15,0,Unknown If Worn,21,58,1,0
+0,Incapacitating Injury,7:00,5,1,30,0,Not Worn,7,0,1,0
+0,Non-Incapacitating Injury,4:14,6,1,55,0,Not Worn,4,14,1,0
+0,Possible Injury,7:35,6,1,30,0,Not Worn,7,35,1,0
+0,Non-Incapacitating Injury,12:17,2,1,30,0,Not Worn,12,17,1,0
+0,Non-Incapacitating Injury,5:09,5,1,45,0,"Worn, Unk Damage",5,9,1,1
+0,Non-Incapacitating Injury,17:30,4,3,15,0,Not Worn,17,30,1,0
+0,Possible Injury,22:50,1,1,15,0,Unknown If Worn,22,50,1,0
+0,Non-Incapacitating Injury,12:24,6,1,50,0,"Worn, Unk Damage",12,24,1,1
+0,Non-Incapacitating Injury,17:06,4,2,15,0,Not Worn,17,6,1,0
+0,Non-Incapacitating Injury,12:33,0,1,35,0,Not Worn,12,33,1,0
+0,Non-Incapacitating Injury,18:06,1,1,35,0,Not Worn,18,6,1,0
+0,Possible Injury,23:54,1,1,30,0,Not Worn,23,54,1,0
+0,Non-Incapacitating Injury,17:32,5,1,40,0,Not Worn,17,32,1,0
+0,Possible Injury,18:54,6,1,30,0,"Worn, Not Damaged",18,54,1,1
+0,Non-Incapacitating Injury,12:34,0,2,45,0,Not Worn,12,34,1,0
+0,Non-Incapacitating Injury,7:31,6,1,45,0,"Worn, Not Damaged",7,31,1,1
+0,Non-Incapacitating Injury,19:14,6,1,35,0,"Worn, Damaged",19,14,1,1
+0,Possible Injury,8:00,0,1,30,0,"Worn, Unk Damage",8,0,1,1
+0,Possible Injury,7:52,0,2,40,0,Not Worn,7,52,1,0
+0,Not Injured,18:56,0,1,35,0,"Worn, Not Damaged",18,56,0,1
+0,Non-Incapacitating Injury,21:58,3,1,15,0,Not Worn,21,58,1,0
+0,Non-Incapacitating Injury,7:33,6,1,40,0,"Worn, Unk Damage",7,33,1,1
+0,Non-Incapacitating Injury,7:31,4,1,30,0,Unknown If Worn,7,31,1,0
+0,Non-Incapacitating Injury,21:39,1,1,15,0,Not Worn,21,39,1,0
+0,Non-Incapacitating Injury,23:20,5,1,45,0,Not Worn,23,20,1,0
+0,Non-Incapacitating Injury,23:20,5,2,15,0,"Worn, Unk Damage",23,20,1,1
+0,Non-Incapacitating Injury,7:57,4,1,15,0,"Worn, Damaged",7,57,1,1
+0,Possible Injury,17:18,4,1,30,0,"Worn, Damaged",17,18,1,1
+0,Possible Injury,18:00,0,1,15,0,Unknown If Worn,18,0,1,0
+0,Possible Injury,12:27,2,1,30,0,"Worn, Unk Damage",12,27,1,1
+0,Possible Injury,6:03,3,1,35,0,"Worn, Damaged",6,3,1,1
+0,Possible Injury,6:03,3,1,35,0,"Worn, Damaged",6,3,1,1
+0,Non-Incapacitating Injury,12:50,1,1,30,0,Not Worn,12,50,1,0
+0,Non-Incapacitating Injury,19:26,5,1,30,0,Unknown If Worn,19,26,1,0
+0,Possible Injury,12:48,4,1,40,0,Not Worn,12,48,1,0
+0,Non-Incapacitating Injury,13:15,0,1,30,0,"Worn, Not Damaged",13,15,1,1
+0,Possible Injury,19:33,0,1,15,0,Not Worn,19,33,1,0
+0,Possible Injury,3:44,3,1,35,0,"Worn, Unk Damage",3,44,1,1
+0,Non-Incapacitating Injury,9:56,1,1,30,0,"Worn, Damaged",9,56,1,1
+0,Non-Incapacitating Injury,18:55,5,1,15,0,"Worn, Not Damaged",18,55,1,1
+0,Not Injured,10:15,5,1,15,0,Unknown If Worn,10,15,0,0
+0,Non-Incapacitating Injury,17:58,5,1,15,0,Not Worn,17,58,1,0
+0,Incapacitating Injury,8:25,5,1,45,0,Not Worn,8,25,1,0
+0,Non-Incapacitating Injury,17:22,4,1,40,0,Unknown If Worn,17,22,1,0
+0,Non-Incapacitating Injury,16:58,4,1,35,0,"Worn, Damaged",16,58,1,1
+0,Incapacitating Injury,19:23,0,1,15,0,Not Worn,19,23,1,0
+0,Possible Injury,13:58,6,1,15,0,Unknown If Worn,13,58,1,0
+0,Possible Injury,11:28,3,1,15,0,"Worn, Unk Damage",11,28,1,1
+0,Non-Incapacitating Injury,22:14,3,1,30,0,Not Worn,22,14,1,0
+0,Non-Incapacitating Injury,8:22,1,1,35,0,Not Worn,8,22,1,0
+0,Possible Injury,9:18,1,1,35,0,Not Worn,9,18,1,0
+0,Non-Incapacitating Injury,8:35,1,1,15,0,"Worn, Unk Damage",8,35,1,1
+0,Possible Injury,16:38,1,1,35,0,Not Worn,16,38,1,0
+0,Non-Incapacitating Injury,18:11,5,1,25,0,Unknown If Worn,18,11,1,0
+0,Possible Injury,20:36,6,1,30,0,Unknown If Worn,20,36,1,0
+0,Non-Incapacitating Injury,17:05,0,1,35,0,Unknown If Worn,17,5,1,0
+0,Non-Incapacitating Injury,22:00,2,1,50,0,"Worn, Damaged",22,0,1,1
+0,Non-Incapacitating Injury,17:31,6,2,15,0,Not Worn,17,31,1,0
+0,Non-Incapacitating Injury,18:03,6,1,30,0,"Worn, Not Damaged",18,3,1,1
+0,Possible Injury,15:00,4,1,35,0,Unknown If Worn,15,0,1,0
+0,Non-Incapacitating Injury,17:07,4,1,15,0,Unknown If Worn,17,7,1,0
+0,Non-Incapacitating Injury,18:58,5,1,30,0,Not Worn,18,58,1,0
+0,Non-Incapacitating Injury,21:45,4,1,30,6,Not Worn,21,45,1,0
+0,Non-Incapacitating Injury,20:24,4,1,15,6,Not Worn,20,24,1,0
+0,Non-Incapacitating Injury,8:15,1,1,35,0,Not Worn,8,15,1,0
+0,Possible Injury,12:04,6,1,30,0,Not Worn,12,4,1,0
+0,Incapacitating Injury,19:57,4,1,30,0,"Worn, Damaged",19,57,1,1
+0,Incapacitating Injury,22:09,4,1,35,0,Not Worn,22,9,1,0
+0,Non-Incapacitating Injury,18:20,4,1,35,0,Unknown If Worn,18,20,1,0
+0,Possible Injury,19:37,4,1,35,0,"Worn, Not Damaged",19,37,1,1
+0,Possible Injury,21:15,0,1,35,0,"Worn, Damaged",21,15,1,1
+0,Non-Incapacitating Injury,15:07,2,3,50,0,Not Worn,15,7,1,0
+0,Possible Injury,17:27,0,1,15,6,"Worn, Damaged",17,27,1,1
+0,Non-Incapacitating Injury,9:48,1,1,30,0,Not Worn,9,48,1,0
+0,Non-Incapacitating Injury,21:49,5,1,30,0,Not Worn,21,49,1,0
+0,Possible Injury,18:29,6,1,15,0,Not Worn,18,29,1,0
+0,Possible Injury,18:29,6,1,15,0,Not Worn,18,29,1,0
+0,Non-Incapacitating Injury,19:51,0,1,15,0,Not Worn,19,51,1,0
+0,Non-Incapacitating Injury,19:51,0,1,15,0,Not Worn,19,51,1,0
+0,Non-Incapacitating Injury,15:06,0,1,30,0,Not Worn,15,6,1,0
+0,Not Injured,23:04,0,1,35,0,Not Worn,23,4,0,0
+0,Possible Injury,10:00,2,2,35,0,"Worn, Not Damaged",10,0,1,1
+0,Not Injured,13:04,2,1,15,0,Unknown If Worn,13,4,0,0
+0,Non-Incapacitating Injury,14:47,2,1,30,0,Not Worn,14,47,1,0
+0,Non-Incapacitating Injury,19:39,1,1,15,0,Not Worn,19,39,1,0
+0,Non-Incapacitating Injury,14:15,5,2,15,0,"Worn, Not Damaged",14,15,1,1
+0,Non-Incapacitating Injury,6:56,6,1,30,0,"Worn, Damaged",6,56,1,1
+0,Not Injured,16:51,6,1,35,0,Unknown If Worn,16,51,0,0
+0,Non-Incapacitating Injury,17:17,0,1,15,0,"Worn, Damaged",17,17,1,1
+0,Non-Incapacitating Injury,17:11,0,1,30,0,Unknown If Worn,17,11,1,0
+0,Non-Incapacitating Injury,19:32,5,1,30,0,"Worn, Damaged",19,32,1,1
+0,Non-Incapacitating Injury,9:35,4,1,15,0,Not Worn,9,35,1,0
+0,Non-Incapacitating Injury,14:54,4,1,15,0,"Worn, Not Damaged",14,54,1,1
+0,Non-Incapacitating Injury,15:19,0,1,15,0,Not Worn,15,19,1,0
+0,Non-Incapacitating Injury,19:30,2,1,35,0,Not Worn,19,30,1,0
+0,Non-Incapacitating Injury,10:45,3,1,40,0,"Worn, Damaged",10,45,1,1
+0,Not Injured,20:00,4,1,25,0,Not Worn,20,0,0,0
+0,Non-Incapacitating Injury,10:04,0,1,45,6,Not Worn,10,4,1,0
+0,Possible Injury,8:58,2,1,35,6,"Worn, Not Damaged",8,58,1,1
+0,Non-Incapacitating Injury,12:01,1,2,45,0,Not Worn,12,1,1,0
+0,Non-Incapacitating Injury,9:03,5,1,35,0,"Worn, Damaged",9,3,1,1
+0,Possible Injury,15:56,6,1,15,0,Not Worn,15,56,1,0
+0,Non-Incapacitating Injury,16:01,4,1,15,0,Not Worn,16,1,1,0
+0,Possible Injury,22:54,0,1,25,0,Not Worn,22,54,1,0
+0,Incapacitating Injury,17:30,3,3,50,0,Not Worn,17,30,1,0
+0,Non-Incapacitating Injury,11:47,3,1,30,0,Not Worn,11,47,1,0
+0,Incapacitating Injury,8:54,5,1,35,0,"Worn, Damaged",8,54,1,1
+0,Non-Incapacitating Injury,11:02,5,1,35,0,Not Worn,11,2,1,0
+0,Non-Incapacitating Injury,12:55,6,1,35,0,"Worn, Not Damaged",12,55,1,1
+0,Non-Incapacitating Injury,10:52,3,1,35,0,Not Worn,10,52,1,0
+0,Possible Injury,13:49,1,1,30,0,Not Worn,13,49,1,0
+0,Possible Injury,17:34,1,1,15,0,"Worn, Unk Damage",17,34,1,1
+0,Non-Incapacitating Injury,8:46,5,1,40,0,Unknown If Worn,8,46,1,0
+0,Non-Incapacitating Injury,23:00,4,1,35,0,"Worn, Not Damaged",23,0,1,1
+0,Non-Incapacitating Injury,17:51,5,1,25,0,"Worn, Unk Damage",17,51,1,1
+0,Not Injured,15:37,3,1,40,0,Not Worn,15,37,0,0
+0,Non-Incapacitating Injury,17:48,3,1,35,0,"Worn, Unk Damage",17,48,1,1
+0,Incapacitating Injury,17:49,3,1,35,0,Not Worn,17,49,1,0
+0,Incapacitating Injury,19:51,1,1,15,0,"Worn, Damaged",19,51,1,1
+0,Possible Injury,21:00,6,1,40,0,"Worn, Not Damaged",21,0,1,1
+0,Not Injured,14:59,6,1,30,0,"Worn, Not Damaged",14,59,0,1
+0,Non-Incapacitating Injury,7:00,4,1,30,6,Unknown If Worn,7,0,1,0
+0,Possible Injury,14:50,1,1,30,0,Not Worn,14,50,1,0
+0,Possible Injury,16:37,1,1,25,0,"Worn, Not Damaged",16,37,1,1
+0,Possible Injury,20:30,5,1,30,0,Not Worn,20,30,1,0
+0,Non-Incapacitating Injury,16:29,4,1,35,0,Not Worn,16,29,1,0
+0,Non-Incapacitating Injury,15:00,2,2,15,0,Not Worn,15,0,1,0
+0,Non-Incapacitating Injury,5:54,5,1,15,0,Unknown If Worn,5,54,1,0
+0,Possible Injury,8:02,5,1,30,0,"Worn, Not Damaged",8,2,1,1
+0,Possible Injury,10:01,5,1,30,0,"Worn, Not Damaged",10,1,1,1
+0,Possible Injury,18:38,6,1,35,0,Not Worn,18,38,1,0
+0,Not Injured,12:06,0,3,55,0,Not Worn,12,6,0,0
+0,Non-Incapacitating Injury,17:47,1,1,35,0,"Worn, Unk Damage",17,47,1,1
+0,Non-Incapacitating Injury,23:56,5,2,15,0,Not Worn,23,56,1,0
+0,Possible Injury,12:53,4,1,30,0,Not Worn,12,53,1,0
+0,Killed,6:31,5,1,40,0,Not Worn,6,31,1,0
+0,Non-Incapacitating Injury,12:09,6,1,40,0,Not Worn,12,9,1,0
+0,Not Injured,19:07,4,3,15,0,Not Worn,19,7,0,0
+0,Non-Incapacitating Injury,16:30,4,1,35,0,"Worn, Not Damaged",16,30,1,1
+1,Incapacitating Injury,12:31,4,1,35,0,Not Worn,12,31,1,0
+0,Non-Incapacitating Injury,11:34,2,1,30,0,"Worn, Not Damaged",11,34,1,1
+0,Non-Incapacitating Injury,19:41,2,1,30,0,Not Worn,19,41,1,0
+0,Non-Incapacitating Injury,21:15,1,1,40,0,Not Worn,21,15,1,0
+0,Possible Injury,7:30,5,1,30,0,Not Worn,7,30,1,0
+0,Incapacitating Injury,8:37,5,1,30,0,Not Worn,8,37,1,0
+0,Non-Incapacitating Injury,14:21,5,1,35,0,Not Worn,14,21,1,0
+0,Non-Incapacitating Injury,17:55,6,1,15,0,Not Worn,17,55,1,0
+0,Non-Incapacitating Injury,8:15,6,1,30,0,"Worn, Not Damaged",8,15,1,1
+0,Possible Injury,8:15,6,1,30,0,"Worn, Not Damaged",8,15,1,1
+0,Non-Incapacitating Injury,10:37,6,1,40,0,Not Worn,10,37,1,0
+0,Non-Incapacitating Injury,16:55,0,2,15,0,Not Worn,16,55,1,0
+0,Possible Injury,12:09,2,1,35,0,Not Worn,12,9,1,0
+0,Possible Injury,14:02,4,1,35,0,"Worn, Not Damaged",14,2,1,1
+0,Non-Incapacitating Injury,2:13,0,1,35,0,Unknown If Worn,2,13,1,0
+0,Non-Incapacitating Injury,16:15,2,1,45,0,Not Worn,16,15,1,0
+0,Not Injured,19:18,1,2,15,0,Not Worn,19,18,0,0
+0,Non-Incapacitating Injury,11:34,6,1,30,0,Not Worn,11,34,1,0
+0,Possible Injury,16:36,6,3,45,0,Not Worn,16,36,1,0
+0,Incapacitating Injury,17:24,6,1,35,0,Not Worn,17,24,1,0
+0,Possible Injury,7:34,0,1,35,0,"Worn, Not Damaged",7,34,1,1
+0,Possible Injury,9:58,2,1,15,0,Not Worn,9,58,1,0
+0,Possible Injury,17:44,1,1,25,0,Not Worn,17,44,1,0
+0,Incapacitating Injury,16:31,4,1,35,0,"Worn, Not Damaged",16,31,1,1
+0,Non-Incapacitating Injury,8:06,0,1,45,0,"Worn, Not Damaged",8,6,1,1
+0,Non-Incapacitating Injury,16:22,2,1,30,0,"Worn, Not Damaged",16,22,1,1
+0,Non-Incapacitating Injury,14:46,2,1,35,0,Not Worn,14,46,1,0
+0,Incapacitating Injury,7:54,5,1,30,0,"Worn, Unk Damage",7,54,1,1
+0,Non-Incapacitating Injury,14:11,6,1,30,0,Unknown If Worn,14,11,1,0
+0,Non-Incapacitating Injury,15:15,0,1,40,0,Not Worn,15,15,1,0
+0,Not Injured,8:35,1,1,35,0,"Worn, Unk Damage",8,35,0,1
+0,Non-Incapacitating Injury,10:23,6,1,35,0,Not Worn,10,23,1,0
+0,Non-Incapacitating Injury,22:21,6,1,25,0,Not Worn,22,21,1,0
+0,Non-Incapacitating Injury,17:05,4,1,35,0,"Worn, Not Damaged",17,5,1,1
+0,Non-Incapacitating Injury,10:25,2,1,35,0,Unknown If Worn,10,25,1,0
+0,Non-Incapacitating Injury,19:00,2,0,35,0,Not Worn,19,0,1,0
+0,Incapacitating Injury,22:48,2,1,45,0,"Worn, Damaged",22,48,1,1
+0,Non-Incapacitating Injury,10:09,2,1,15,0,Not Worn,10,9,1,0
+0,Possible Injury,10:20,2,1,15,2,"Worn, Damaged",10,20,1,1
+0,Possible Injury,12:06,3,1,35,0,"Worn, Not Damaged",12,6,1,1
+0,Possible Injury,13:02,1,1,30,0,"Worn, Unk Damage",13,2,1,1
+0,Possible Injury,22:17,1,1,30,0,Not Worn,22,17,1,0
+0,Incapacitating Injury,6:26,5,1,55,0,Not Worn,6,26,1,0
+0,Non-Incapacitating Injury,16:53,5,1,35,0,Not Worn,16,53,1,0
+0,Non-Incapacitating Injury,17:12,6,1,35,0,"Worn, Unk Damage",17,12,1,1
+0,Non-Incapacitating Injury,23:11,6,1,15,0,Unknown If Worn,23,11,1,0
+0,Non-Incapacitating Injury,15:19,4,1,30,0,Unknown If Worn,15,19,1,0
+0,Non-Incapacitating Injury,15:19,4,1,30,0,Unknown If Worn,15,19,1,0
+0,Non-Incapacitating Injury,15:19,4,1,30,0,Unknown If Worn,15,19,1,0
+0,Non-Incapacitating Injury,8:27,0,1,35,0,Unknown If Worn,8,27,1,0
+0,Non-Incapacitating Injury,17:08,1,1,30,0,Not Worn,17,8,1,0
+0,Possible Injury,16:53,1,1,35,6,Not Worn,16,53,1,0
+0,Non-Incapacitating Injury,16:21,2,1,30,0,"Worn, Damaged",16,21,1,1
+0,Incapacitating Injury,5:30,5,1,55,0,Not Worn,5,30,1,0
+0,Not Injured,15:35,5,1,25,0,Unknown If Worn,15,35,0,0
+0,Possible Injury,20:35,6,1,15,0,Not Worn,20,35,1,0
+0,Non-Incapacitating Injury,20:20,0,1,15,6,Not Worn,20,20,1,0
+0,Possible Injury,15:53,2,1,15,0,"Worn, Not Damaged",15,53,1,1
+0,Possible Injury,17:11,5,1,30,0,"Worn, Not Damaged",17,11,1,1
+0,Non-Incapacitating Injury,11:14,4,1,30,0,Not Worn,11,14,1,0
+0,Possible Injury,15:10,4,1,40,0,"Worn, Damaged",15,10,1,1
+0,Non-Incapacitating Injury,16:42,4,1,35,0,Unknown If Worn,16,42,1,0
+0,Possible Injury,8:15,0,1,30,0,Not Worn,8,15,1,0
+0,Possible Injury,20:30,0,1,35,0,Not Worn,20,30,1,0
+0,Not Injured,13:15,3,1,50,0,Not Worn,13,15,0,0
+0,Possible Injury,7:40,1,1,45,0,"Worn, Not Damaged",7,40,1,1
+0,Incapacitating Injury,22:04,5,1,15,6,Not Worn,22,4,1,0
+0,Possible Injury,11:29,5,0,35,0,Unknown If Worn,11,29,1,0
+0,Possible Injury,21:15,6,1,15,0,"Worn, Unk Damage",21,15,1,1
+0,Not Injured,15:53,6,1,25,6,"Worn, Unk Damage",15,53,0,1
+0,Non-Incapacitating Injury,7:05,4,1,35,0,"Worn, Not Damaged",7,5,1,1
+0,Non-Incapacitating Injury,11:55,2,1,35,0,Not Worn,11,55,1,0
+0,Non-Incapacitating Injury,18:00,3,1,15,0,Not Worn,18,0,1,0
+0,Not Injured,15:22,3,1,45,0,Not Worn,15,22,0,0
+0,Incapacitating Injury,16:44,5,1,35,0,Not Worn,16,44,1,0
+0,Non-Incapacitating Injury,18:05,5,1,35,0,"Worn, Damaged",18,5,1,1
+0,Non-Incapacitating Injury,18:30,4,1,15,0,Unknown If Worn,18,30,1,0
+0,Non-Incapacitating Injury,17:50,0,1,35,0,"Worn, Damaged",17,50,1,1
+0,Non-Incapacitating Injury,17:10,0,1,15,0,Unknown If Worn,17,10,1,0
+0,Non-Incapacitating Injury,23:08,1,1,30,0,"Worn, Damaged",23,8,1,1
+0,Non-Incapacitating Injury,8:00,1,1,15,5,Not Worn,8,0,1,0
+0,Incapacitating Injury,17:42,1,1,30,0,Not Worn,17,42,1,0
+0,Incapacitating Injury,17:42,1,1,30,0,Not Worn,17,42,1,0
+0,Not Injured,17:56,5,1,25,0,Not Worn,17,56,0,0
+0,Non-Incapacitating Injury,8:32,5,1,15,0,Not Worn,8,32,1,0
+0,Non-Incapacitating Injury,14:38,4,1,35,0,"Worn, Unk Damage",14,38,1,1
+0,Non-Incapacitating Injury,12:20,0,1,35,0,Not Worn,12,20,1,0
+0,Non-Incapacitating Injury,13:08,2,1,45,0,"Worn, Not Damaged",13,8,1,1
+0,Possible Injury,1:52,1,2,45,0,Not Worn,1,52,1,0
+0,Non-Incapacitating Injury,16:11,5,1,35,0,Not Worn,16,11,1,0
+0,Possible Injury,8:00,5,3,15,0,Not Worn,8,0,1,0
+0,Non-Incapacitating Injury,8:17,4,1,15,0,Not Worn,8,17,1,0
+0,Possible Injury,16:55,4,1,30,6,Not Worn,16,55,1,0
+0,Incapacitating Injury,14:15,4,1,35,0,Not Worn,14,15,1,0
+0,Possible Injury,11:06,2,1,15,0,"Worn, Unk Damage",11,6,1,1
+0,Not Injured,12:55,2,1,15,0,"Worn, Not Damaged",12,55,0,1
+0,Non-Incapacitating Injury,20:47,3,1,35,0,Not Worn,20,47,1,0
+0,Possible Injury,20:00,1,2,15,0,Not Worn,20,0,1,0
+0,Non-Incapacitating Injury,8:13,4,1,40,0,Unknown If Worn,8,13,1,0
+0,Possible Injury,16:02,4,1,35,0,Not Worn,16,2,1,0
+0,Possible Injury,7:39,4,1,35,0,Not Worn,7,39,1,0
+0,Non-Incapacitating Injury,14:45,2,1,45,0,Not Worn,14,45,1,0
+0,Incapacitating Injury,21:13,3,1,25,0,Unknown If Worn,21,13,1,0
+0,Non-Incapacitating Injury,17:43,3,1,30,0,"Worn, Not Damaged",17,43,1,1
+0,Non-Incapacitating Injury,17:22,1,1,35,0,Not Worn,17,22,1,0
+0,Non-Incapacitating Injury,17:23,4,3,15,0,Not Worn,17,23,1,0
+0,Possible Injury,17:11,4,1,30,0,"Worn, Not Damaged",17,11,1,1
+0,Non-Incapacitating Injury,18:37,0,1,15,0,"Worn, Not Damaged",18,37,1,1
+0,Possible Injury,14:43,6,1,30,0,Unknown If Worn,14,43,1,0
+0,Non-Incapacitating Injury,20:58,3,1,20,0,Not Worn,20,58,1,0
+0,Non-Incapacitating Injury,9:27,1,1,35,6,Not Worn,9,27,1,0
+0,Incapacitating Injury,15:49,1,1,35,0,"Worn, Unk Damage",15,49,1,1
+0,Possible Injury,7:48,5,1,35,0,"Worn, Damaged",7,48,1,1
+0,Non-Incapacitating Injury,16:38,4,1,45,0,"Worn, Not Damaged",16,38,1,1
+0,Not Injured,13:15,3,1,30,0,Not Worn,13,15,0,0
+0,Non-Incapacitating Injury,18:05,5,1,15,6,Not Worn,18,5,1,0
+0,Non-Incapacitating Injury,13:27,6,2,15,0,Not Worn,13,27,1,0
+0,Non-Incapacitating Injury,14:12,6,1,30,0,Not Worn,14,12,1,0
+0,Possible Injury,18:27,6,1,35,0,"Worn, Not Damaged",18,27,1,1
+0,Non-Incapacitating Injury,14:34,4,1,35,0,Not Worn,14,34,1,0
+0,Possible Injury,6:53,4,1,55,6,Not Worn,6,53,1,0
+0,Non-Incapacitating Injury,18:38,4,1,15,0,"Worn, Unk Damage",18,38,1,1
+0,Non-Incapacitating Injury,21:30,0,1,30,6,Not Worn,21,30,1,0
+0,Non-Incapacitating Injury,17:00,3,1,45,0,Not Worn,17,0,1,0
+0,Non-Incapacitating Injury,16:26,4,1,35,0,"Worn, Not Damaged",16,26,1,1
+0,Not Injured,18:40,0,1,15,0,Not Worn,18,40,0,0
+0,Non-Incapacitating Injury,17:49,2,1,35,0,"Worn, Damaged",17,49,1,1
+0,Non-Incapacitating Injury,9:33,5,1,30,0,Not Worn,9,33,1,0
+0,Non-Incapacitating Injury,18:30,0,1,35,0,Not Worn,18,30,1,0
+0,Non-Incapacitating Injury,23:35,2,1,15,0,"Worn, Unk Damage",23,35,1,1
+0,Non-Incapacitating Injury,9:33,3,1,35,0,"Worn, Not Damaged",9,33,1,1
+0,Incapacitating Injury,22:10,1,1,40,0,Not Worn,22,10,1,0
+0,Possible Injury,18:16,5,1,25,0,"Worn, Not Damaged",18,16,1,1
+0,Not Injured,11:52,4,1,40,0,Not Worn,11,52,0,0
+0,Non-Incapacitating Injury,19:30,4,1,15,0,"Worn, Not Damaged",19,30,1,1
+0,Possible Injury,11:42,2,1,35,0,"Worn, Unk Damage",11,42,1,1
+0,Non-Incapacitating Injury,2:02,2,1,35,0,"Worn, Unk Damage",2,2,1,1
+0,Not Injured,19:54,2,1,45,4,Unknown If Worn,19,54,0,0
+0,Incapacitating Injury,21:37,5,1,30,6,Not Worn,21,37,1,0
+0,Non-Incapacitating Injury,15:50,6,1,35,0,Unknown If Worn,15,50,1,0
+0,Possible Injury,17:51,0,1,35,0,Not Worn,17,51,1,0
+0,Non-Incapacitating Injury,19:11,0,1,30,0,Unknown If Worn,19,11,1,0
+0,Not Injured,20:56,0,1,15,0,Not Worn,20,56,0,0
+0,Incapacitating Injury,22:34,1,1,15,0,Not Worn,22,34,1,0
+0,Possible Injury,19:36,4,1,15,0,"Worn, Damaged",19,36,1,1
+0,Non-Incapacitating Injury,19:37,4,3,15,0,"Worn, Not Damaged",19,37,1,1
+0,Incapacitating Injury,19:49,0,1,35,0,Not Worn,19,49,1,0
+0,Not Injured,11:08,3,3,50,0,Not Worn,11,8,0,0
+0,Possible Injury,15:52,6,1,15,0,Unknown If Worn,15,52,1,0
+0,Possible Injury,6:46,0,1,35,0,Not Worn,6,46,1,0
+0,Possible Injury,16:52,0,3,35,0,Not Worn,16,52,1,0
+0,Non-Incapacitating Injury,12:53,5,1,30,0,Not Worn,12,53,1,0
+0,Possible Injury,13:54,6,3,35,6,Not Worn,13,54,1,0
+0,Non-Incapacitating Injury,7:41,4,1,15,0,"Worn, Not Damaged",7,41,1,1
+0,Possible Injury,17:06,2,1,15,0,Not Worn,17,6,1,0
+0,Possible Injury,2:04,2,3,45,0,Not Worn,2,4,1,0
+0,Not Injured,7:56,1,2,15,0,Not Worn,7,56,0,0
+0,Possible Injury,19:10,1,1,55,0,"Worn, Not Damaged",19,10,1,1
+0,Incapacitating Injury,14:41,6,1,15,0,Not Worn,14,41,1,0
+0,Non-Incapacitating Injury,11:20,2,1,15,0,"Worn, Unk Damage",11,20,1,1
+0,Non-Incapacitating Injury,6:07,1,1,15,0,Unknown If Worn,6,7,1,0
+0,Non-Incapacitating Injury,13:00,5,1,30,0,"Worn, Not Damaged",13,0,1,1
+0,Incapacitating Injury,9:00,4,1,45,0,"Worn, Damaged",9,0,1,1
+0,Non-Incapacitating Injury,6:28,0,1,40,0,"Worn, Not Damaged",6,28,1,1
+0,Possible Injury,14:12,2,1,45,6,"Worn, Not Damaged",14,12,1,1
+0,Non-Incapacitating Injury,6:21,5,3,45,0,Not Worn,6,21,1,0
+0,Possible Injury,20:34,5,1,35,0,Not Worn,20,34,1,0
+0,Not Injured,20:15,5,1,15,0,"Worn, Not Damaged",20,15,0,1
+0,Possible Injury,10:27,6,1,30,0,Not Worn,10,27,1,0
+0,Incapacitating Injury,16:28,6,3,15,0,Not Worn,16,28,1,0
+0,Non-Incapacitating Injury,19:57,6,1,15,0,Unknown If Worn,19,57,1,0
+0,Incapacitating Injury,18:30,4,1,15,0,"Worn, Damaged",18,30,1,1
+0,Non-Incapacitating Injury,17:25,0,1,15,0,"Worn, Not Damaged",17,25,1,1
+0,Non-Incapacitating Injury,16:33,5,1,35,0,Unknown If Worn,16,33,1,0
+0,Possible Injury,13:45,5,1,30,0,Not Worn,13,45,1,0
+0,Non-Incapacitating Injury,20:13,6,1,45,0,Not Worn,20,13,1,0
+0,Non-Incapacitating Injury,18:33,0,1,15,0,"Worn, Not Damaged",18,33,1,1
+0,Possible Injury,11:30,2,2,35,0,Not Worn,11,30,1,0
+0,Possible Injury,16:25,3,1,30,0,Not Worn,16,25,1,0
+0,Possible Injury,16:25,3,1,30,0,Not Worn,16,25,1,0
+0,Possible Injury,16:25,3,1,30,0,Not Worn,16,25,1,0
+0,Non-Incapacitating Injury,1:16,1,1,15,0,Not Worn,1,16,1,0
+0,Non-Incapacitating Injury,17:42,6,1,30,0,Not Worn,17,42,1,0
+0,Non-Incapacitating Injury,8:57,4,1,15,0,Not Worn,8,57,1,0
+0,Possible Injury,20:07,4,1,15,0,Not Worn,20,7,1,0
+0,Non-Incapacitating Injury,22:16,2,1,15,0,Not Worn,22,16,1,0
+0,Non-Incapacitating Injury,16:27,3,1,15,0,"Worn, Damaged",16,27,1,1
+0,Incapacitating Injury,20:47,3,1,15,5,Not Worn,20,47,1,0
+0,Non-Incapacitating Injury,7:38,6,1,35,0,Not Worn,7,38,1,0
+0,Possible Injury,20:48,6,1,15,0,"Worn, Damaged",20,48,1,1
+0,Possible Injury,12:50,0,3,15,0,Not Worn,12,50,1,0
+0,Possible Injury,18:05,2,1,30,0,Not Worn,18,5,1,0
+0,Non-Incapacitating Injury,17:54,2,1,15,0,Not Worn,17,54,1,0
+0,Non-Incapacitating Injury,12:51,5,1,30,0,Not Worn,12,51,1,0
+0,Non-Incapacitating Injury,8:25,6,1,45,0,Not Worn,8,25,1,0
+0,Non-Incapacitating Injury,17:53,6,1,30,0,"Worn, Not Damaged",17,53,1,1
+0,Non-Incapacitating Injury,8:59,6,2,30,0,Not Worn,8,59,1,0
+0,Possible Injury,23:00,0,1,40,5,Unknown If Worn,23,0,1,0
+0,Non-Incapacitating Injury,16:42,1,1,35,0,Not Worn,16,42,1,0
+0,Non-Incapacitating Injury,6:18,5,1,40,0,"Worn, Not Damaged",6,18,1,1
+0,Possible Injury,7:28,5,1,35,0,Unknown If Worn,7,28,1,0
+0,Non-Incapacitating Injury,16:15,5,1,30,0,"Worn, Unk Damage",16,15,1,1
+0,Non-Incapacitating Injury,15:50,4,1,35,0,Not Worn,15,50,1,0
+0,Non-Incapacitating Injury,20:35,4,3,50,0,Not Worn,20,35,1,0
+0,Non-Incapacitating Injury,13:56,4,1,35,0,Unknown If Worn,13,56,1,0
+0,Possible Injury,7:35,0,1,15,0,Not Worn,7,35,1,0
+0,Non-Incapacitating Injury,10:02,2,1,50,0,"Worn, Not Damaged",10,2,1,1
+0,Possible Injury,13:14,1,1,30,0,Not Worn,13,14,1,0
+0,Non-Incapacitating Injury,16:58,1,1,15,0,Not Worn,16,58,1,0
+0,Incapacitating Injury,18:12,5,1,40,0,"Worn, Unk Damage",18,12,1,1
+0,Non-Incapacitating Injury,14:12,5,3,45,0,"Worn, Not Damaged",14,12,1,1
+0,Possible Injury,16:13,5,1,15,0,"Worn, Not Damaged",16,13,1,1
+0,Incapacitating Injury,6:35,6,1,45,0,"Worn, Not Damaged",6,35,1,1
+0,Not Injured,9:37,4,1,45,0,Not Worn,9,37,0,0
+0,Non-Incapacitating Injury,16:15,4,3,55,0,Not Worn,16,15,1,0
+0,Non-Incapacitating Injury,15:37,4,1,15,0,"Worn, Damaged",15,37,1,1
+0,Non-Incapacitating Injury,17:56,4,1,15,0,"Worn, Not Damaged",17,56,1,1
+0,Non-Incapacitating Injury,22:19,0,1,30,0,"Worn, Unk Damage",22,19,1,1
+0,Non-Incapacitating Injury,23:01,0,3,45,0,Not Worn,23,1,1,0
+0,Non-Incapacitating Injury,16:57,2,1,35,0,Not Worn,16,57,1,0
+0,Non-Incapacitating Injury,21:22,3,1,30,0,"Worn, Not Damaged",21,22,1,1
+0,Possible Injury,2:45,3,1,40,0,Unknown If Worn,2,45,1,0
+0,Possible Injury,16:31,1,3,55,0,Not Worn,16,31,1,0
+0,Possible Injury,17:34,5,1,15,0,Not Worn,17,34,1,0
+0,Non-Incapacitating Injury,11:52,6,1,30,0,"Worn, Damaged",11,52,1,1
+0,Possible Injury,18:01,6,1,15,0,Not Worn,18,1,1,0
+0,Non-Incapacitating Injury,7:05,0,1,35,0,Not Worn,7,5,1,0
+0,Non-Incapacitating Injury,13:31,2,1,30,0,"Worn, Unk Damage",13,31,1,1
+0,Incapacitating Injury,9:26,3,1,15,0,"Worn, Not Damaged",9,26,1,1
+0,Non-Incapacitating Injury,10:00,1,1,35,0,Not Worn,10,0,1,0
+0,Possible Injury,16:16,1,1,35,0,Not Worn,16,16,1,0
+0,Non-Incapacitating Injury,8:53,5,1,15,0,"Worn, Damaged",8,53,1,1
+0,Possible Injury,13:39,5,1,35,0,Not Worn,13,39,1,0
+0,Non-Incapacitating Injury,17:20,4,1,15,0,Not Worn,17,20,1,0
+0,Non-Incapacitating Injury,11:03,0,2,45,0,"Worn, Not Damaged",11,3,1,1
+0,Non-Incapacitating Injury,17:42,0,1,35,0,Not Worn,17,42,1,0
+0,Incapacitating Injury,19:50,0,1,15,0,Not Worn,19,50,1,0
+0,Non-Incapacitating Injury,1:00,0,1,15,0,Not Worn,1,0,1,0
+0,Non-Incapacitating Injury,17:48,6,1,30,0,Unknown If Worn,17,48,1,0
+0,Non-Incapacitating Injury,16:15,6,1,45,0,"Worn, Not Damaged",16,15,1,1
+0,Not Injured,22:12,2,1,15,0,Not Worn,22,12,0,0
+0,Non-Incapacitating Injury,11:38,3,3,45,0,Not Worn,11,38,1,0
+0,Possible Injury,17:33,1,2,15,0,Not Worn,17,33,1,0
+0,Non-Incapacitating Injury,14:52,5,1,55,0,"Worn, Damaged",14,52,1,1
+0,Non-Incapacitating Injury,9:16,4,1,35,0,"Worn, Not Damaged",9,16,1,1
+0,Killed,7:20,2,3,15,6,Not Worn,7,20,1,0
+0,Incapacitating Injury,18:58,5,1,40,6,Unknown If Worn,18,58,1,0
+0,Non-Incapacitating Injury,18:21,5,1,40,0,Not Worn,18,21,1,0
+0,Possible Injury,19:26,6,1,30,6,Not Worn,19,26,1,0
+0,Non-Incapacitating Injury,21:30,4,1,15,0,Unknown If Worn,21,30,1,0
+0,Possible Injury,17:37,1,1,30,0,Not Worn,17,37,1,0
+0,Non-Incapacitating Injury,18:36,5,1,15,0,Unknown If Worn,18,36,1,0
+0,Possible Injury,12:57,5,1,35,0,Not Worn,12,57,1,0
+0,Non-Incapacitating Injury,7:34,6,1,15,0,"Worn, Not Damaged",7,34,1,1
+0,Possible Injury,11:58,0,1,50,0,Not Worn,11,58,1,0
+0,Incapacitating Injury,11:19,2,1,15,0,Unknown If Worn,11,19,1,0
+0,Non-Incapacitating Injury,7:28,1,1,15,0,Unknown If Worn,7,28,1,0
+0,Possible Injury,16:37,6,1,35,0,"Worn, Damaged",16,37,1,1
+0,Possible Injury,16:51,1,1,35,0,Unknown If Worn,16,51,1,0
+0,Not Injured,7:31,5,1,15,0,Unknown If Worn,7,31,0,0
+0,Non-Incapacitating Injury,15:40,5,1,40,0,Not Worn,15,40,1,0
+0,Non-Incapacitating Injury,16:33,5,1,30,0,"Worn, Unk Damage",16,33,1,1
+0,Non-Incapacitating Injury,19:15,5,1,15,0,Not Worn,19,15,1,0
+0,Non-Incapacitating Injury,18:09,5,1,30,0,Unknown If Worn,18,9,1,0
+0,Non-Incapacitating Injury,10:08,2,1,35,6,Not Worn,10,8,1,0
+0,Incapacitating Injury,18:00,2,1,25,6,Not Worn,18,0,1,0
+0,Non-Incapacitating Injury,8:34,4,1,35,0,"Worn, Not Damaged",8,34,1,1
+0,Non-Incapacitating Injury,15:19,4,1,15,0,Not Worn,15,19,1,0
+0,Incapacitating Injury,19:35,0,1,15,0,Not Worn,19,35,1,0
+0,Non-Incapacitating Injury,16:52,2,2,15,0,Unknown If Worn,16,52,1,0
+0,Non-Incapacitating Injury,16:49,6,1,30,0,Not Worn,16,49,1,0
+0,Non-Incapacitating Injury,21:45,3,1,30,0,Unknown If Worn,21,45,1,0
+0,Incapacitating Injury,19:28,6,1,40,0,Not Worn,19,28,1,0
+0,Not Injured,15:55,4,1,15,0,"Worn, Unk Damage",15,55,0,1
+0,Incapacitating Injury,13:15,2,1,45,0,"Worn, Damaged",13,15,1,1
+0,Killed,15:31,3,3,55,0,"Worn, Not Damaged",15,31,1,1
+0,Incapacitating Injury,13:30,5,1,30,0,"Worn, Unk Damage",13,30,1,1
+0,Non-Incapacitating Injury,16:13,6,1,15,0,"Worn, Not Damaged",16,13,1,1
+0,Non-Incapacitating Injury,17:06,4,1,15,0,Not Worn,17,6,1,0
+0,Non-Incapacitating Injury,17:06,0,1,30,0,Not Worn,17,6,1,0
+0,Non-Incapacitating Injury,14:10,0,1,30,0,Unknown If Worn,14,10,1,0
+0,Possible Injury,8:44,2,1,30,6,Not Worn,8,44,1,0
+0,Possible Injury,8:29,5,1,35,6,Not Worn,8,29,1,0
+0,Possible Injury,19:21,0,1,30,0,Not Worn,19,21,1,0
+0,Possible Injury,19:21,0,1,30,0,Not Worn,19,21,1,0
+0,Possible Injury,19:21,0,1,30,0,Not Worn,19,21,1,0
+0,Non-Incapacitating Injury,16:26,2,1,15,0,Not Worn,16,26,1,0
+0,Incapacitating Injury,21:03,3,1,15,0,Not Worn,21,3,1,0
+0,Possible Injury,16:53,3,1,35,0,Not Worn,16,53,1,0
+0,Possible Injury,9:22,5,1,40,0,"Worn, Damaged",9,22,1,1
+0,Possible Injury,17:53,5,1,15,0,"Worn, Not Damaged",17,53,1,1
+0,Incapacitating Injury,8:44,6,1,35,0,Unknown If Worn,8,44,1,0
+0,Non-Incapacitating Injury,18:36,4,1,15,0,"Worn, Unk Damage",18,36,1,1
+0,Non-Incapacitating Injury,21:33,4,1,45,0,Not Worn,21,33,1,0
+0,Non-Incapacitating Injury,11:39,0,1,35,0,"Worn, Damaged",11,39,1,1
+0,Non-Incapacitating Injury,9:55,1,1,35,0,Unknown If Worn,9,55,1,0
+0,Non-Incapacitating Injury,10:00,1,1,30,0,"Worn, Unk Damage",10,0,1,1
+0,Non-Incapacitating Injury,16:46,1,1,15,0,Not Worn,16,46,1,0
+0,Non-Incapacitating Injury,16:30,1,1,15,0,Not Worn,16,30,1,0
+0,Incapacitating Injury,19:05,4,1,45,0,Not Worn,19,5,1,0
+0,Incapacitating Injury,6:30,3,1,15,0,Unknown If Worn,6,30,1,0
+0,Not Injured,17:07,1,1,45,0,Not Worn,17,7,0,0
+0,Possible Injury,17:45,2,1,35,0,Not Worn,17,45,1,0
+0,Incapacitating Injury,23:31,1,1,30,0,Unknown If Worn,23,31,1,0
+0,Non-Incapacitating Injury,9:23,5,1,35,6,Unknown If Worn,9,23,1,0
+0,Non-Incapacitating Injury,18:47,5,1,35,0,"Worn, Not Damaged",18,47,1,1
+0,Non-Incapacitating Injury,10:29,6,1,15,0,Unknown If Worn,10,29,1,0
+0,Possible Injury,14:45,6,1,35,0,"Worn, Unk Damage",14,45,1,1
+0,Possible Injury,11:08,2,1,45,0,"Worn, Not Damaged",11,8,1,1
+0,Possible Injury,10:43,2,1,35,0,"Worn, Unk Damage",10,43,1,1
+0,Non-Incapacitating Injury,8:54,3,1,30,0,Not Worn,8,54,1,0
+0,Non-Incapacitating Injury,1:53,3,1,35,0,Not Worn,1,53,1,0
+0,Non-Incapacitating Injury,17:56,1,1,15,0,"Worn, Unk Damage",17,56,1,1
+0,Possible Injury,18:49,5,1,30,0,Unknown If Worn,18,49,1,0
+0,Possible Injury,9:02,5,1,30,0,"Worn, Unk Damage",9,2,1,1
+0,Not Injured,15:24,6,3,15,0,Not Worn,15,24,0,0
+0,Non-Incapacitating Injury,17:01,6,1,35,0,Not Worn,17,1,1,0
+0,Not Injured,8:19,0,1,25,0,"Worn, Not Damaged",8,19,0,1
+0,Incapacitating Injury,7:51,0,1,15,0,Unknown If Worn,7,51,1,0
+0,Possible Injury,16:27,3,1,15,0,Not Worn,16,27,1,0
+0,Incapacitating Injury,21:12,1,1,30,0,"Worn, Damaged",21,12,1,1
+0,Incapacitating Injury,19:09,5,1,45,0,Not Worn,19,9,1,0
+0,Non-Incapacitating Injury,17:58,5,1,15,0,Not Worn,17,58,1,0
+0,Incapacitating Injury,10:13,6,1,15,0,"Worn, Unk Damage",10,13,1,1
+0,Possible Injury,17:30,4,2,15,0,"Worn, Unk Damage",17,30,1,1
+0,Non-Incapacitating Injury,7:33,1,1,35,0,Not Worn,7,33,1,0
+0,Non-Incapacitating Injury,17:32,1,1,45,0,Not Worn,17,32,1,0
+0,Possible Injury,23:30,1,1,30,0,Not Worn,23,30,1,0
+0,Non-Incapacitating Injury,18:15,6,1,30,0,Not Worn,18,15,1,0
+0,Non-Incapacitating Injury,17:04,6,1,15,0,"Worn, Not Damaged",17,4,1,1
+0,Not Injured,22:02,6,1,30,0,Not Worn,22,2,0,0
+0,Not Injured,13:50,4,2,40,0,Not Worn,13,50,0,0
+0,Not Injured,20:23,2,1,15,6,"Worn, Unk Damage",20,23,0,1
+0,Killed,23:42,5,1,50,0,Not Worn,23,42,1,0
+0,Possible Injury,23:31,5,3,15,0,Not Worn,23,31,1,0
+0,Incapacitating Injury,22:23,6,1,45,0,Not Worn,22,23,1,0
+0,Incapacitating Injury,22:23,6,1,45,0,Not Worn,22,23,1,0
+0,Non-Incapacitating Injury,21:08,4,2,15,0,"Worn, Unk Damage",21,8,1,1
+0,Non-Incapacitating Injury,11:44,0,1,30,0,Not Worn,11,44,1,0
+0,Non-Incapacitating Injury,21:40,0,1,40,0,Not Worn,21,40,1,0
+0,Incapacitating Injury,2:29,0,1,15,0,Not Worn,2,29,1,0
+0,Not Injured,13:57,2,3,15,0,"Worn, Damaged",13,57,0,1
+0,Not Injured,22:20,2,1,35,0,Not Worn,22,20,0,0
+0,Not Injured,1:00,2,1,15,0,Not Worn,1,0,0,0
+0,Non-Incapacitating Injury,19:15,2,1,15,0,Unknown If Worn,19,15,1,0
+0,Non-Incapacitating Injury,16:09,3,1,40,0,Unknown If Worn,16,9,1,0
+0,Non-Incapacitating Injury,17:12,5,1,30,0,Not Worn,17,12,1,0
+0,Non-Incapacitating Injury,16:35,5,1,35,0,Not Worn,16,35,1,0
+0,Non-Incapacitating Injury,14:56,6,1,15,0,"Worn, Unk Damage",14,56,1,1
+0,Non-Incapacitating Injury,17:14,6,1,30,0,"Worn, Not Damaged",17,14,1,1
+0,Non-Incapacitating Injury,7:46,0,1,35,6,Not Worn,7,46,1,0
+0,Non-Incapacitating Injury,17:15,0,1,15,0,Not Worn,17,15,1,0
+0,Possible Injury,16:36,2,2,30,0,Not Worn,16,36,1,0
+0,Killed,16:15,2,2,15,0,Not Worn,16,15,1,0
+0,Non-Incapacitating Injury,10:00,3,1,30,0,"Worn, Damaged",10,0,1,1
+0,Killed,19:26,5,1,35,0,Not Worn,19,26,1,0
+0,Possible Injury,8:01,6,1,35,6,Not Worn,8,1,1,0
+0,Non-Incapacitating Injury,7:13,4,1,35,0,Not Worn,7,13,1,0
+0,Non-Incapacitating Injury,15:03,0,1,15,0,Not Worn,15,3,1,0
+0,Possible Injury,8:52,0,1,35,0,"Worn, Not Damaged",8,52,1,1
+0,Possible Injury,9:43,1,1,30,0,Not Worn,9,43,1,0
+0,Non-Incapacitating Injury,7:21,1,1,15,0,"Worn, Not Damaged",7,21,1,1
+0,Non-Incapacitating Injury,15:35,1,3,50,0,"Worn, Not Damaged",15,35,1,1
+0,Non-Incapacitating Injury,20:39,6,1,15,0,Not Worn,20,39,1,0
+0,Possible Injury,23:26,6,1,15,0,"Worn, Unk Damage",23,26,1,1
+0,Not Injured,9:50,4,1,15,0,"Worn, Damaged",9,50,0,1
+0,Non-Incapacitating Injury,13:35,4,1,30,0,"Worn, Not Damaged",13,35,1,1
+0,Non-Incapacitating Injury,17:13,4,1,35,0,"Worn, Not Damaged",17,13,1,1
+0,Non-Incapacitating Injury,22:04,0,1,15,0,"Worn, Not Damaged",22,4,1,1
+0,Non-Incapacitating Injury,23:31,0,1,30,0,Not Worn,23,31,1,0
+0,Non-Incapacitating Injury,15:00,2,1,40,0,Not Worn,15,0,1,0
+0,Non-Incapacitating Injury,10:30,2,3,45,0,Not Worn,10,30,1,0
+0,Non-Incapacitating Injury,16:32,1,1,15,0,Not Worn,16,32,1,0
+0,Non-Incapacitating Injury,20:13,6,1,15,0,Not Worn,20,13,1,0
+0,Possible Injury,9:17,4,1,35,0,Not Worn,9,17,1,0
+0,Possible Injury,8:57,4,1,35,0,"Worn, Unk Damage",8,57,1,1
+0,Possible Injury,18:13,4,1,15,0,Unknown If Worn,18,13,1,0
+0,Incapacitating Injury,17:53,0,1,55,0,Not Worn,17,53,1,0
+0,Non-Incapacitating Injury,7:57,5,1,30,0,"Worn, Not Damaged",7,57,1,1
+0,Possible Injury,17:31,5,1,35,0,"Worn, Not Damaged",17,31,1,1
+0,Possible Injury,19:14,5,1,15,0,"Worn, Not Damaged",19,14,1,1
+0,Non-Incapacitating Injury,15:26,4,1,35,0,"Worn, Unk Damage",15,26,1,1
+0,Not Injured,7:36,6,1,15,0,"Worn, Not Damaged",7,36,0,1
+0,Non-Incapacitating Injury,17:20,6,1,35,0,Not Worn,17,20,1,0
+0,Non-Incapacitating Injury,17:35,6,1,40,0,"Worn, Not Damaged",17,35,1,1
+0,Possible Injury,14:52,6,2,15,0,Not Worn,14,52,1,0
+0,Non-Incapacitating Injury,15:24,0,1,45,0,Not Worn,15,24,1,0
+0,Possible Injury,15:53,0,1,15,0,"Worn, Unk Damage",15,53,1,1
+0,Non-Incapacitating Injury,18:09,0,1,60,0,"Worn, Unk Damage",18,9,1,1
+0,Not Injured,15:01,2,2,15,0,"Worn, Not Damaged",15,1,0,1
+0,Non-Incapacitating Injury,12:44,3,1,25,0,Not Worn,12,44,1,0
+0,Non-Incapacitating Injury,13:00,3,1,35,0,"Worn, Not Damaged",13,0,1,1
+0,Non-Incapacitating Injury,19:30,3,1,35,0,"Worn, Unk Damage",19,30,1,1
+0,Not Injured,5:39,5,3,15,0,Unknown If Worn,5,39,0,0
+0,Not Injured,10:24,5,1,40,0,"Worn, Not Damaged",10,24,0,1
+0,Non-Incapacitating Injury,8:33,4,1,15,0,Unknown If Worn,8,33,1,0
+0,Non-Incapacitating Injury,16:47,0,1,15,0,"Worn, Not Damaged",16,47,1,1
+0,Non-Incapacitating Injury,15:27,5,1,35,6,"Worn, Not Damaged",15,27,1,1
+0,Non-Incapacitating Injury,19:50,0,1,15,0,Not Worn,19,50,1,0
+0,Possible Injury,13:12,0,1,50,0,"Worn, Not Damaged",13,12,1,1
+0,Non-Incapacitating Injury,15:30,0,1,35,0,Not Worn,15,30,1,0
+0,Non-Incapacitating Injury,12:04,0,1,15,0,Not Worn,12,4,1,0
+0,Non-Incapacitating Injury,11:38,3,1,35,0,"Worn, Not Damaged",11,38,1,1
+0,Not Injured,5:36,3,1,35,0,Not Worn,5,36,0,0
+0,Non-Incapacitating Injury,19:21,1,1,15,0,Not Worn,19,21,1,0
+0,Non-Incapacitating Injury,16:20,0,1,45,0,Not Worn,16,20,1,0
+0,Possible Injury,11:49,3,1,35,0,Not Worn,11,49,1,0
+0,Non-Incapacitating Injury,15:43,3,1,35,0,Not Worn,15,43,1,0
+0,Non-Incapacitating Injury,15:43,3,1,35,0,Not Worn,15,43,1,0
+0,Non-Incapacitating Injury,22:28,3,3,55,6,Not Worn,22,28,1,0
+0,Non-Incapacitating Injury,23:42,1,3,55,0,Not Worn,23,42,1,0
+0,Non-Incapacitating Injury,17:43,5,1,15,6,"Worn, Unk Damage",17,43,1,1
+0,Possible Injury,16:33,6,1,45,0,"Worn, Not Damaged",16,33,1,1
+0,Incapacitating Injury,18:18,6,1,15,0,"Worn, Unk Damage",18,18,1,1
+0,Non-Incapacitating Injury,11:10,4,1,30,0,Not Worn,11,10,1,0
+0,Possible Injury,15:15,5,1,15,0,Not Worn,15,15,1,0
+0,Non-Incapacitating Injury,15:56,5,1,45,0,Not Worn,15,56,1,0
+0,Non-Incapacitating Injury,19:43,5,1,50,0,Not Worn,19,43,1,0
+0,Non-Incapacitating Injury,17:00,4,1,15,0,"Worn, Not Damaged",17,0,1,1
+0,Non-Incapacitating Injury,8:01,0,1,35,0,Not Worn,8,1,1,0
+0,Incapacitating Injury,2:38,0,1,30,0,Not Worn,2,38,1,0
+0,Non-Incapacitating Injury,10:24,0,1,15,0,Not Worn,10,24,1,0
+0,Possible Injury,16:10,0,1,35,0,Unknown If Worn,16,10,1,0
+0,Possible Injury,15:58,0,1,45,0,Not Worn,15,58,1,0
+0,Incapacitating Injury,6:45,2,1,35,0,Unknown If Worn,6,45,1,0
+0,Incapacitating Injury,6:45,2,1,35,0,Unknown If Worn,6,45,1,0
+0,Incapacitating Injury,6:45,2,1,35,0,Unknown If Worn,6,45,1,0
+0,Incapacitating Injury,6:45,2,1,35,0,Unknown If Worn,6,45,1,0
+0,Incapacitating Injury,16:45,1,1,35,0,Unknown If Worn,16,45,1,0
+0,Possible Injury,11:28,5,1,35,0,Not Worn,11,28,1,0
+0,Non-Incapacitating Injury,15:28,6,1,15,0,Not Worn,15,28,1,0
+0,Possible Injury,22:34,6,1,35,0,Not Worn,22,34,1,0
+0,Non-Incapacitating Injury,17:24,0,1,25,0,Not Worn,17,24,1,0
+0,Possible Injury,22:07,2,3,15,0,Not Worn,22,7,1,0
+0,Possible Injury,11:19,1,3,40,0,Not Worn,11,19,1,0
+0,Non-Incapacitating Injury,8:42,1,3,45,0,"Worn, Not Damaged",8,42,1,1
+0,Non-Incapacitating Injury,8:42,1,3,45,0,"Worn, Not Damaged",8,42,1,1
+0,Non-Incapacitating Injury,7:53,5,1,45,0,Not Worn,7,53,1,0
+0,Non-Incapacitating Injury,19:05,5,1,15,0,"Worn, Unk Damage",19,5,1,1
+0,Non-Incapacitating Injury,15:53,4,2,15,0,Not Worn,15,53,1,0
+0,Possible Injury,7:17,1,1,40,6,"Worn, Not Damaged",7,17,1,1
+0,Non-Incapacitating Injury,19:50,6,2,15,0,Unknown If Worn,19,50,1,0
+0,Non-Incapacitating Injury,15:45,0,1,55,0,Unknown If Worn,15,45,1,0
+0,Non-Incapacitating Injury,3:07,3,3,55,0,Not Worn,3,7,1,0
+0,Possible Injury,15:04,1,1,35,0,"Worn, Not Damaged",15,4,1,1
+0,Non-Incapacitating Injury,17:17,4,1,15,0,Not Worn,17,17,1,0
+0,Non-Incapacitating Injury,16:58,4,2,15,0,Not Worn,16,58,1,0
+0,Possible Injury,11:14,0,1,35,0,Not Worn,11,14,1,0
+0,Non-Incapacitating Injury,16:30,2,1,25,0,Not Worn,16,30,1,0
+0,Non-Incapacitating Injury,18:03,6,1,35,0,"Worn, Not Damaged",18,3,1,1
+0,Possible Injury,9:40,0,3,15,5,"Worn, Unk Damage",9,40,1,1
+0,Non-Incapacitating Injury,9:55,2,1,40,0,Not Worn,9,55,1,0
+0,Non-Incapacitating Injury,18:00,2,2,35,6,Not Worn,18,0,1,0
+0,Non-Incapacitating Injury,10:02,4,1,30,0,"Worn, Not Damaged",10,2,1,1
+0,Non-Incapacitating Injury,21:08,3,1,35,0,Not Worn,21,8,1,0
+0,Non-Incapacitating Injury,7:00,3,1,35,0,"Worn, Damaged",7,0,1,1
+0,Possible Injury,7:00,6,3,50,0,Unknown If Worn,7,0,1,0
+0,Non-Incapacitating Injury,17:10,5,1,40,0,Not Worn,17,10,1,0
+0,Incapacitating Injury,18:18,6,3,45,0,Not Worn,18,18,1,0
+0,Non-Incapacitating Injury,14:40,2,1,15,0,Not Worn,14,40,1,0
+0,Incapacitating Injury,10:34,5,1,45,0,Not Worn,10,34,1,0
+0,Non-Incapacitating Injury,13:10,6,1,15,0,Unknown If Worn,13,10,1,0
+0,Non-Incapacitating Injury,18:06,6,1,15,0,"Worn, Damaged",18,6,1,1
+0,Non-Incapacitating Injury,8:57,4,1,35,0,Not Worn,8,57,1,0
+0,Non-Incapacitating Injury,8:13,0,1,30,0,"Worn, Not Damaged",8,13,1,1
+0,Non-Incapacitating Injury,10:49,0,1,55,0,Not Worn,10,49,1,0
+0,Possible Injury,16:35,0,1,30,0,Not Worn,16,35,1,0
+0,Non-Incapacitating Injury,16:37,1,2,35,0,Not Worn,16,37,1,0
+0,Non-Incapacitating Injury,20:05,1,1,55,0,"Worn, Unk Damage",20,5,1,1
+0,Non-Incapacitating Injury,19:40,0,1,35,0,"Worn, Unk Damage",19,40,1,1
+0,Non-Incapacitating Injury,17:22,0,1,15,0,"Worn, Not Damaged",17,22,1,1
+0,Non-Incapacitating Injury,16:00,0,1,15,0,Not Worn,16,0,1,0
+0,Non-Incapacitating Injury,16:09,2,1,30,0,Not Worn,16,9,1,0
+0,Possible Injury,17:49,3,3,35,0,"Worn, Not Damaged",17,49,1,1
+0,Possible Injury,14:06,1,1,35,0,Not Worn,14,6,1,0
+0,Non-Incapacitating Injury,18:14,1,1,35,0,Not Worn,18,14,1,0
+0,Non-Incapacitating Injury,7:08,1,1,30,0,"Worn, Not Damaged",7,8,1,1
+0,Non-Incapacitating Injury,7:16,6,1,35,0,Not Worn,7,16,1,0
+0,Non-Incapacitating Injury,17:42,5,1,30,0,Unknown If Worn,17,42,1,0
+0,Possible Injury,18:36,5,1,40,0,"Worn, Unk Damage",18,36,1,1
+0,Possible Injury,19:59,5,1,30,0,"Worn, Not Damaged",19,59,1,1
+0,Non-Incapacitating Injury,18:55,4,1,15,0,Not Worn,18,55,1,0
+0,Non-Incapacitating Injury,19:11,4,1,15,0,Not Worn,19,11,1,0
+0,Non-Incapacitating Injury,22:43,4,1,35,0,Unknown If Worn,22,43,1,0
+0,Non-Incapacitating Injury,12:59,0,1,30,0,Not Worn,12,59,1,0
+0,Possible Injury,22:00,0,2,15,0,"Worn, Not Damaged",22,0,1,1
+0,Incapacitating Injury,23:53,0,1,45,0,Not Worn,23,53,1,0
+0,Non-Incapacitating Injury,23:00,2,1,30,0,"Worn, Unk Damage",23,0,1,1
+0,Non-Incapacitating Injury,17:57,3,1,40,0,Not Worn,17,57,1,0
+0,Non-Incapacitating Injury,11:00,1,1,35,0,Not Worn,11,0,1,0
+0,Non-Incapacitating Injury,18:31,6,1,15,0,Not Worn,18,31,1,0
+0,Non-Incapacitating Injury,18:32,6,3,15,0,Not Worn,18,32,1,0
+0,Non-Incapacitating Injury,20:52,6,1,15,0,Not Worn,20,52,1,0
+0,Non-Incapacitating Injury,16:38,1,1,15,0,Not Worn,16,38,1,0
+0,Possible Injury,11:41,1,1,30,0,"Worn, Damaged",11,41,1,1
+0,Non-Incapacitating Injury,12:25,6,1,35,0,Not Worn,12,25,1,0
+0,Incapacitating Injury,16:46,6,1,15,0,"Worn, Damaged",16,46,1,1
+0,Non-Incapacitating Injury,1:00,4,1,35,0,Not Worn,1,0,1,0
+0,Incapacitating Injury,2:57,3,1,35,0,Not Worn,2,57,1,0
+0,Incapacitating Injury,2:57,3,1,35,0,Not Worn,2,57,1,0
+0,Incapacitating Injury,2:57,3,1,35,0,Not Worn,2,57,1,0
+0,Possible Injury,17:35,4,1,35,0,"Worn, Not Damaged",17,35,1,1
+0,Possible Injury,11:42,0,1,35,0,"Worn, Unk Damage",11,42,1,1
+0,Killed,2:28,0,1,30,0,Not Worn,2,28,1,0
+0,Non-Incapacitating Injury,16:45,5,1,30,6,Not Worn,16,45,1,0
+0,Possible Injury,14:44,5,1,35,6,Unknown If Worn,14,44,1,0
+0,Not Injured,9:36,5,1,35,0,Not Worn,9,36,0,0
+0,Non-Incapacitating Injury,20:02,6,3,15,6,Not Worn,20,2,1,0
+0,Incapacitating Injury,15:18,6,3,15,0,Not Worn,15,18,1,0
+0,Incapacitating Injury,14:34,4,3,45,0,"Worn, Damaged",14,34,1,1
+0,Non-Incapacitating Injury,22:29,0,1,15,0,Not Worn,22,29,1,0
+0,Not Injured,9:54,3,1,35,0,Not Worn,9,54,0,0
+0,Possible Injury,17:00,1,1,15,0,Not Worn,17,0,1,0
+0,Non-Incapacitating Injury,19:55,6,1,45,0,"Worn, Unk Damage",19,55,1,1
+0,Not Injured,7:49,6,1,20,0,Not Worn,7,49,0,0
+0,Non-Incapacitating Injury,20:40,6,1,35,0,"Worn, Not Damaged",20,40,1,1
+0,Non-Incapacitating Injury,8:11,6,1,35,0,"Worn, Not Damaged",8,11,1,1
+0,Non-Incapacitating Injury,8:08,6,1,20,6,Not Worn,8,8,1,0
+0,Incapacitating Injury,16:28,0,2,15,0,Not Worn,16,28,1,0
+0,Incapacitating Injury,21:27,0,1,35,0,Not Worn,21,27,1,0
+0,Non-Incapacitating Injury,22:00,2,1,15,0,Unknown If Worn,22,0,1,0
+0,Non-Incapacitating Injury,17:33,1,1,30,0,"Worn, Unk Damage",17,33,1,1
+0,Non-Incapacitating Injury,15:11,6,1,30,0,"Worn, Damaged",15,11,1,1
+0,Not Injured,8:13,4,1,40,0,Not Worn,8,13,0,0
+0,Non-Incapacitating Injury,17:50,1,1,35,0,"Worn, Unk Damage",17,50,1,1
+0,Non-Incapacitating Injury,8:11,5,1,15,0,Unknown If Worn,8,11,1,0
+0,Non-Incapacitating Injury,18:29,5,1,15,0,"Worn, Not Damaged",18,29,1,1
+0,Non-Incapacitating Injury,7:53,6,1,15,0,"Worn, Damaged",7,53,1,1
+0,Not Injured,17:15,6,1,35,0,"Worn, Not Damaged",17,15,0,1
+0,Non-Incapacitating Injury,18:04,0,1,15,0,Not Worn,18,4,1,0
+0,Non-Incapacitating Injury,15:25,5,1,30,0,"Worn, Unk Damage",15,25,1,1
+0,Non-Incapacitating Injury,1:14,6,1,15,0,Not Worn,1,14,1,0
+0,Non-Incapacitating Injury,16:11,4,1,15,0,Not Worn,16,11,1,0
+0,Not Injured,21:20,4,1,25,0,"Worn, Not Damaged",21,20,0,1
+0,Non-Incapacitating Injury,9:53,0,1,35,0,Not Worn,9,53,1,0
+0,Non-Incapacitating Injury,20:10,3,1,35,0,Not Worn,20,10,1,0
+0,Non-Incapacitating Injury,17:12,3,1,15,0,"Worn, Unk Damage",17,12,1,1
+0,Non-Incapacitating Injury,8:32,5,1,35,0,"Worn, Not Damaged",8,32,1,1
+0,Incapacitating Injury,20:36,5,1,40,6,Not Worn,20,36,1,0
+0,Non-Incapacitating Injury,15:52,0,1,15,0,Not Worn,15,52,1,0
+0,Non-Incapacitating Injury,20:05,0,1,40,0,Not Worn,20,5,1,0
+0,Non-Incapacitating Injury,23:25,3,1,35,0,Not Worn,23,25,1,0
+0,Non-Incapacitating Injury,11:36,1,1,35,0,Not Worn,11,36,1,0
+0,Possible Injury,22:13,1,1,30,0,Not Worn,22,13,1,0
+0,Not Injured,14:43,5,1,35,0,Not Worn,14,43,0,0
+0,Non-Incapacitating Injury,18:27,0,1,30,0,Not Worn,18,27,1,0
+0,Non-Incapacitating Injury,18:01,1,1,45,0,Not Worn,18,1,1,0
+0,Possible Injury,21:06,5,1,15,0,Not Worn,21,6,1,0
+0,Non-Incapacitating Injury,17:06,5,1,30,0,Not Worn,17,6,1,0
+0,Non-Incapacitating Injury,7:55,6,1,15,0,"Worn, Unk Damage",7,55,1,1
+0,Possible Injury,17:56,0,1,35,0,Not Worn,17,56,1,0
+0,Non-Incapacitating Injury,18:10,3,1,30,0,Not Worn,18,10,1,0
+0,Non-Incapacitating Injury,20:38,5,1,15,0,Not Worn,20,38,1,0
+0,Possible Injury,19:35,0,1,15,0,Not Worn,19,35,1,0
+0,Non-Incapacitating Injury,10:39,0,1,35,0,"Worn, Not Damaged",10,39,1,1
+0,Non-Incapacitating Injury,20:28,2,1,35,0,Not Worn,20,28,1,0
+0,Non-Incapacitating Injury,6:53,5,1,40,0,"Worn, Damaged",6,53,1,1
+0,Incapacitating Injury,7:48,4,1,35,0,Not Worn,7,48,1,0
+0,Possible Injury,17:32,4,1,15,0,"Worn, Not Damaged",17,32,1,1
+0,Possible Injury,19:04,0,1,35,0,Not Worn,19,4,1,0
+0,Incapacitating Injury,19:30,2,1,45,0,Not Worn,19,30,1,0
+0,Non-Incapacitating Injury,15:30,1,1,15,0,Not Worn,15,30,1,0
+0,Non-Incapacitating Injury,12:54,5,1,40,0,Not Worn,12,54,1,0
+0,Non-Incapacitating Injury,20:48,5,1,15,0,Not Worn,20,48,1,0
+0,Not Injured,7:37,4,1,30,6,Not Worn,7,37,0,0
+0,Non-Incapacitating Injury,9:30,0,1,15,0,"Worn, Unk Damage",9,30,1,1
+0,Not Injured,18:02,0,1,35,0,Not Worn,18,2,0,0
