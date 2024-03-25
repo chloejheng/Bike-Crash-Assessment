@@ -14,13 +14,10 @@ df_encoded = pd.read_csv("bike_crash_encoded.csv")
 # Find emoji here: https://www.webfx.com/tools/emoji-cheat-sheet/
 st.set_page_config(page_title="Bike Risk Assessment", page_icon=":🚲:")
 
-# Add your name as the author
-st.markdown("## Austin Bike Crash Risk Analysis")
-st.markdown("Created by [Pei-Yu Jheng]")
-
 # Create the Streamlit app
 def main():
     st.title("Austin Bike Crash Risk Analysis")
+    st.markdown("Created by Pei-Yu Jheng")
     st.write("This app analyzes bike crash data in Austin and predicts the risk of a crash occurring based on user input.")
 
     # Display dataset overview
