@@ -92,6 +92,13 @@ def main():
             st.success(f"The predicted crash risk for the given details is: Low ({prediction:.2f})")
         else:
             st.warning(f"The predicted crash risk for the given details is: High ({prediction:.2f})")
+           
+        # Get the number of crash cases at the specified hour
+        crash_count = df[df['Hour'] == hour].shape[0]
+        if am_pm == "PM":
+            st.write(f"<span style='color:red'>Number of crash cases happened at {crash_time} PM: {crash_count} cases </span>", unsafe_allow_html=True)
+        else:
+            st.write(f"<span style='color:red'>Number of crash cases happened at {crash_time} AM: {crash_count} cases </span>", unsafe_allow_html=True)
         
         # Display top three feature importances
         importances = model.feature_importances_
@@ -101,11 +108,20 @@ def main():
         for i in range(3):
             st.write(f"{i+1}. {feature_names[indices[i]]}: {importances[indices[i]]:.2f}")
             
-        # Get the number of crash cases at the specified hour
-        crash_count = df[df['Hour'] == hour].shape[0]
-        st.write(f"<span style='color:red'>Number of crash cases happened at {crash_time}: {crash_count} cases </span>", unsafe_allow_html=True)
+        # Plot feature importances
+        plt.figure(figsize=(10, 6))
+        importances = model.feature_importances_
+        feature_names = X.columns
+        indices = np.argsort(importances)[::-1]
+        plt.bar(range(len(importances)), importances[indices])
+        plt.xticks(range(len(importances)), feature_names[indices], rotation=45)
+        plt.xlabel('Features')
+        plt.ylabel('Importance')
+        plt.title('Feature Importances')
+        st.pyplot(plt)
             
         # Display model performance metrics
+        st.subheader("Model Performance Metrics")
         y_pred = model.predict(X_test)
         accuracy = accuracy_score(y_test, y_pred)
         conf_matrix = confusion_matrix(y_test, y_pred)
