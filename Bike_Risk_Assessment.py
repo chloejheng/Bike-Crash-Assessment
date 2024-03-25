@@ -103,7 +103,7 @@ def main():
             
         # Get the number of crash cases at the specified hour
         crash_count = df[df['Hour'] == hour].shape[0]
-        st.write(f"<span style='color:red'>Number of crash cases happened at {crash_time}: {crash_count}</span>", unsafe_allow_html=True)
+        st.write(f"<span style='color:red'>Number of crash cases happened at {crash_time}: {crash_count} cases </span>", unsafe_allow_html=True)
             
         # Display model performance metrics
         y_pred = model.predict(X_test)
